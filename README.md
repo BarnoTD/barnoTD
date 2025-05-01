@@ -12,7 +12,7 @@
 </div>
 
 
-# Connect with me:
+# 🔭 Connect with me:
 <p align="Center">
 <a href="https://x.com/barnoTD" target="_blank" rel="noopener">
   <img 
@@ -25,7 +25,7 @@
   />
 </a></p>
 
-# Random Quote
+# 💬 Random Quote
 <div align= "center">
  <blockquote style="font-style: italic;">
   <i>"Power is not will, it is the phenomenon of physically making things happen."</i>  
