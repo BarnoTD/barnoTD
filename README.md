@@ -24,15 +24,6 @@
   />
 </a></p>
 
-# 💬 Random Quote
-<div align= "center">
- <blockquote style="font-style: italic;">
-  <i>"Power is not will, it is the phenomenon of physically making things happen."</i>  
-  <br>
-  — Madara Uchiha
-</blockquote>
-<img align="center" src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" > 
-</div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
@@ -51,18 +42,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<!--!
 
-**BarnoTD/barnoTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💬 Random Quote
+<div align= "center">
+ <blockquote style="font-style: italic;">
+  <i>"Power is not will, it is the phenomenon of physically making things happen."</i>  
+  <br>
+  — Madara Uchiha
+</blockquote>
+<img align="center" src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" > 
+</div>
