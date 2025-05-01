@@ -1,6 +1,9 @@
-## Hi there 👋
+[banner](https://github.com/user-attachments/assets/ed1fb736-41b8-40fe-a1e2-613c14cc9389)
+## Hi there!
+ 👋
 
-<!--
+<!--!
+
 **BarnoTD/barnoTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
