@@ -12,14 +12,14 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="Center">
 <a href="https://x.com/barnoTD" target="_blank" rel="noopener">
   <img 
     align="center" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1024px-X_icon_2.svg.png" 
     alt="" 
-    height="30" 
+    height="40" 
     width="40" 
     style="filter: brightness(0) saturate(100%) invert(28%) sepia(57%) saturate(1964%) hue-rotate(215deg) brightness(104%) contrast(102%);"
   />
