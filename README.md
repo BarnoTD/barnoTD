@@ -1,9 +1,20 @@
 [![MasterHead](https://github.com/user-attachments/assets/ed1fb736-41b8-40fe-a1e2-613c14cc9389
 )](https://github.com/BarnoTD)
+---
+<div align="center">
+  <pre>
+    💼 BSBA @ TBS • Information Technology
+    💻 App/Web dev languages • DevOps 
+    📖 Software Development
+    🎮 Music • Indie Games • Anime • Code • Art
+    🏋️ Gym • MUN events
+  </pre>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="Center">
-<a href="https://x.com/barnoTD" target="_blank">
+<a href="https://x.com/barnoTD" target="_blank" rel="noopener">
   <img 
     align="center" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
