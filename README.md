@@ -11,7 +11,6 @@
   </pre>
 </div>
 
-
 # 🔭 Connect with me:
 <p align="Center">
 <a href="https://x.com/barnoTD" target="_blank" rel="noopener">
