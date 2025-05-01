@@ -1,6 +1,45 @@
-[banner](https://github.com/user-attachments/assets/ed1fb736-41b8-40fe-a1e2-613c14cc9389)
-## Hi there!
- 👋
+[![MasterHead](https://github.com/user-attachments/assets/ed1fb736-41b8-40fe-a1e2-613c14cc9389
+)](https://github.com/BarnoTD)
+
+<h3 align="left">Connect with me:</h3>
+<p align="Center">
+<a href="https://x.com/barnoTD" target="_blank">
+  <img 
+    align="center" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
+    alt="" 
+    height="30" 
+    width="40" 
+    style="filter: brightness(0) saturate(100%) invert(28%) sepia(57%) saturate(1964%) hue-rotate(215deg) brightness(104%) contrast(102%);"
+  />
+</a></p>
+
+# Random Quote
+<div align= "center">
+ <blockquote style="font-style: italic;">
+  <i>"Power is not will, it is the phenomenon of physically making things happen."</i>  
+  <br>
+  — Madara Uchiha
+</blockquote>
+<img align="center" src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" > 
+</div>
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+</p>
 
 <!--!
 
