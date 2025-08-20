@@ -18,8 +18,11 @@ jobs:
         run: |
          # Grab a random quote from a public API
           set -euo pipefail
-          QUOTE_JSON=$(curl -f -s --retry 3 --retry-delay 3 \
-           "https://animechan.xyz/api/random")
+          QUOTE_JSON=$(curl -f -s --retry 3 --retry-delay 3 "https://animechan.xyz/api/random")
+          if ! echo "$QUOTE_JSON" | jq empty > /dev/null 2>&1; then
+            echo "API did not return valid JSON."
+            exit 1
+          fi
           TEXT=$(echo "$QUOTE_JSON" | jq -r '.quote')
           CHAR=$(echo "$QUOTE_JSON" | jq -r '.character')
           ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime')
