@@ -44,11 +44,12 @@
 
 
 # 💬 Random Quote
-<div align= "center">
- <blockquote style="font-style: italic;">
-  <i>"Power is not will, it is the phenomenon of physically making things happen."</i>  
-  <br>
-  — Madara Uchiha
-</blockquote>
-<img align="center" src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" > 
+<!-- ANIME_QUOTE_START -->
+<div align="center">
+  <blockquote style="font-style: italic;">
+    <i>"Power is not will, it is the phenomenon of physically making things happen."</i>
+    <br>— Madara Uchiha
+  </blockquote>
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif">
 </div>
+<!-- ANIME_QUOTE_END -->
