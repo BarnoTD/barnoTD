@@ -15,13 +15,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch anime quote
         id: quote
-        env:                 # unset anything proxy-related
-          http_proxy: ""
-          https_proxy: ""
-          HTTP_PROXY: ""
-          HTTPS_PROXY: ""
         run: |
-          # Grab a random quote from a public API
+         # Grab a random quote from a public API
           set -euo pipefail
           QUOTE_JSON=$(curl -f -s --retry 3 --retry-delay 3 \
            "https://animechan.xyz/api/random")
