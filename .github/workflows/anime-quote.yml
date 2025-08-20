@@ -15,9 +15,16 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch anime quote
         id: quote
+        env:                 # unset anything proxy-related
+          http_proxy: ""
+          https_proxy: ""
+          HTTP_PROXY: ""
+          HTTPS_PROXY: ""
         run: |
           # Grab a random quote from a public API
-          QUOTE_JSON=$(curl -s "https://animechan.xyz/api/random")
+          set -euo pipefail
+          QUOTE_JSON=$(curl -f -s --retry 3 --retry-delay 3 \
+           "https://animechan.xyz/api/random")
           TEXT=$(echo "$QUOTE_JSON" | jq -r '.quote')
           CHAR=$(echo "$QUOTE_JSON" | jq -r '.character')
           ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime')
