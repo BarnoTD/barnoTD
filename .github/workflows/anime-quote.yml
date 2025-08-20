@@ -1,0 +1,42 @@
+name: 🎌 Daily Anime Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"          # Every day at 00:00 UTC
+  workflow_dispatch:             # Manual trigger for testing
+
+permissions:
+  contents: write                # Needed to push the commit
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch anime quote
+        id: quote
+        run: |
+          # Grab a random quote from a public API
+          QUOTE_JSON=$(curl -s "https://animechan.xyz/api/random")
+          TEXT=$(echo "$QUOTE_JSON" | jq -r '.quote')
+          CHAR=$(echo "$QUOTE_JSON" | jq -r '.character')
+          ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime')
+
+          # Escape special chars so sed is happy
+          TEXT_ESC=$(echo "$TEXT" | sed 's/[\/&]/\\&/g')
+          CHAR_ESC=$(echo "$CHAR" | sed 's/[\/&]/\\&/g')
+          ANIME_ESC=$(echo "$ANIME" | sed 's/[\/&]/\\&/g')
+
+          # Build the new block
+          NEW_BLOCK="<div align=\"center\">\n  <blockquote style=\"font-style: italic;\">\n    <i>\"$TEXT_ESC\"</i>\n    <br>— $CHAR_ESC ($ANIME_ESC)\n  </blockquote>\n  <img src=\"https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif\">\n</div>"
+
+          # Update README.md between the two markers
+          sed -i -e '/<!-- ANIME_QUOTE_START -->/,/<!-- ANIME_QUOTE_END -->/c\<!-- ANIME_QUOTE_START -->\n'"$NEW_BLOCK"'\n<!-- ANIME_QUOTE_END -->' README.md
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🎌 Auto-update anime quote"
+          git push
