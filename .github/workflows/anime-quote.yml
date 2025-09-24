@@ -13,35 +13,55 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch anime quote
+
+      - name: Fetch anime quote & picture
         id: quote
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
-         # Grab a random quote from a public API
           set -euo pipefail
-          QUOTE_JSON=$(curl -f -s --retry 3 --retry-delay 3 "https://animechan.xyz/api/random")
-          if ! echo "$QUOTE_JSON" | jq empty > /dev/null 2>&1; then
-            echo "API did not return valid JSON."
-            exit 1
+
+          # ── 1. Random quote ----------------------------------------------------
+          QUOTE_JSON=$(curl -fsSL --retry 3 --retry-delay 3 \
+                       "https://yurippe.vercel.app/api/quotes?random=1")
+          TEXT=$(echo "$QUOTE_JSON" | jq -r '.[0].quote')
+          CHAR=$(echo "$QUOTE_JSON" | jq -r '.[0].character')
+          ANIME=$(echo "$QUOTE_JSON" | jq -r '.[0].show')
+
+          # ── 2. Google-Image via SerpAPI ---------------------------------------
+          SEARCH_Q="${CHAR} ${ANIME}"
+          IMG_JSON=$(curl -fsSL --retry 3 --retry-delay 3 \
+                     "https://serpapi.com/search.json" \
+                     -d "engine=google_images" \
+                     -d "q=${SEARCH_Q}" \
+                     -d "ijn=0" \
+                     -d "api_key=${SERPAPI_KEY}")
+
+          IMG_URL=$(echo "$IMG_JSON" | jq -r '.images_results[0].original // empty')
+          # Fallback placeholder if SerpAPI gives nothing
+          if [ -z "$IMG_URL" ]; then
+            IMG_URL="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif"
           fi
-          TEXT=$(echo "$QUOTE_JSON" | jq -r '.quote')
-          CHAR=$(echo "$QUOTE_JSON" | jq -r '.character')
-          ANIME=$(echo "$QUOTE_JSON" | jq -r '.anime')
 
-          # Escape special chars so sed is happy
-          TEXT_ESC=$(echo "$TEXT" | sed 's/[\/&]/\\&/g')
-          CHAR_ESC=$(echo "$CHAR" | sed 's/[\/&]/\\&/g')
+          # ── 3. Escape strings for sed ----------------------------------------
+          TEXT_ESC=$(echo "$TEXT"   | sed 's/[\/&]/\\&/g')
+          CHAR_ESC=$(echo "$CHAR"   | sed 's/[\/&]/\\&/g')
           ANIME_ESC=$(echo "$ANIME" | sed 's/[\/&]/\\&/g')
+          IMG_ESC=$(echo "$IMG_URL" | sed 's/[\/&]/\\&/g')
 
-          # Build the new block
-          NEW_BLOCK="<div align=\"center\">\n  <blockquote style=\"font-style: italic;\">\n    <i>\"$TEXT_ESC\"</i>\n    <br>— $CHAR_ESC ($ANIME_ESC)\n  </blockquote>\n  <img src=\"https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif\">\n</div>"
+          # ── 4. Build new block -------------------------------------------------
+          NEW_BLOCK="<div align=\"center\">\n  <blockquote style=\"font-style: italic;\">\n    <i>\"$TEXT_ESC\"</i>\n    <br>— $CHAR_ESC ($ANIME_ESC)\n  </blockquote>\n  <img src=\"$IMG_ESC\">\n</div>"
 
-          # Update README.md between the two markers
-          sed -i -e '/<!-- ANIME_QUOTE_START -->/,/<!-- ANIME_QUOTE_END -->/c\<!-- ANIME_QUOTE_START -->\n'"$NEW_BLOCK"'\n<!-- ANIME_QUOTE_END -->' README.md
+          # ── 5. Update README.md ------------------------------------------------
+          sed -i \
+            -e '/<!-- ANIME_QUOTE_START -->/,/<!-- ANIME_QUOTE_END -->/c\<!-- ANIME_QUOTE_START -->\n'"$NEW_BLOCK"'\n<!-- ANIME_QUOTE_END -->' \
+            README.md
 
       - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🎌 Auto-update anime quote"
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🎌 Auto-update anime quote"
           git push
