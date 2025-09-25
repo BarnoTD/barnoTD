@@ -43,7 +43,7 @@
 </p>
 
 
-# 💬 Random Quote
+# 💬 Random Quote (Updates Daily)
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
