@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You know, it's funny. Every crook I meet wants to tell me how much I'm just like them. But there's a big difference between you and me and the burdens we bear."</i>
-    <br>— Edward Elric (Fullmetal Alchemist)
+    <i>"Quick! It's coming! Dance like an eggplant!"</i>
+    <br>— Kojirou (Pokémon)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fma/images/b/b4/EdwardManga.png/revision/latest?cb=20250220063707" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="http://pm1.aminoapps.com/5728/e59f221c905727f118c9f7ce6268198baecfe4ad_00.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
