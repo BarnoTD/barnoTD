@@ -45,7 +45,7 @@ jobs:
           IMG_ESC=$(echo "$IMG_URL" | sed 's/[\/&]/\\&/g')
 
           # ── 4. Build new block -------------------------------------------------
-          NEW_BLOCK="<div align=\"center\">\n  <blockquote style=\"font-style: italic;\">\n    <i>\"$TEXT_ESC\"</i>\n    <br>— $CHAR_ESC ($ANIME_ESC)\n  </blockquote>\n  <img src=\"$IMG_ESC\">\n</div>"
+          NEW_BLOCK="<div align=\"center\">\n  <blockquote style=\"font-style: italic;\">\n    <i>\"$TEXT_ESC\"</i>\n    <br>— $CHAR_ESC ($ANIME_ESC)\n  </blockquote>\n  <img src=\"$IMG_ESC\" width=\"400\"style=\"max-width:100%;height:auto;border-radius:8px;\">\n</div>"
 
           # ── 5. Update README.md ------------------------------------------------
           sed -i \
