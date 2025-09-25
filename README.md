@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Power is not will, it is the phenomenon of physically making things happen."</i>
-    <br>— Madara Uchiha
+    <i>"It's overpriced, but that's okay, HERE'S YOUR CHANGE!"</i>
+    <br>— Touji Suzuhara (Neon Genesis Evangelion)
   </blockquote>
-  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif">
+  <img src="https://static.wikia.nocookie.net/evangelion/images/9/96/Toji_Suzuhara_%28Plugsuit%29.png/revision/latest?cb=20121109105309">
 </div>
 <!-- ANIME_QUOTE_END -->
