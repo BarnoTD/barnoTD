@@ -28,20 +28,15 @@ jobs:
           CHAR=$(echo "$QUOTE_JSON" | jq -r '.[0].character')
           ANIME=$(echo "$QUOTE_JSON" | jq -r '.[0].show')
 
-          # ── 2. Google-Image via SerpAPI ---------------------------------------
-          SEARCH_Q="${CHAR} ${ANIME}"
+          # ── 2. Google-Image via SerpAPI (GET query) ---------------------------
+          SEARCH_Q="$(printf '%s' "${CHAR} ${ANIME}" | jq -sRr @uri)"
           IMG_JSON=$(curl -fsSL --retry 3 --retry-delay 3 \
-                     "https://serpapi.com/search.json" \
-                     -d "engine=google_images" \
-                     -d "q=${SEARCH_Q}" \
-                     -d "ijn=0" \
-                     -d "api_key=${SERPAPI_KEY}")
+            "https://serpapi.com/search.json?engine=google_images&q=${SEARCH_Q}&ijn=0&api_key=${SERPAPI_KEY}")
 
           IMG_URL=$(echo "$IMG_JSON" | jq -r '.images_results[0].original // empty')
           # Fallback placeholder if SerpAPI gives nothing
-          if [ -z "$IMG_URL" ]; then
+          [ -z "$IMG_URL" ] && \
             IMG_URL="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif"
-          fi
 
           # ── 3. Escape strings for sed ----------------------------------------
           TEXT_ESC=$(echo "$TEXT"   | sed 's/[\/&]/\\&/g')
