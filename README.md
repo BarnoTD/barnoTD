@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's overpriced, but that's okay, HERE'S YOUR CHANGE!"</i>
-    <br>— Touji Suzuhara (Neon Genesis Evangelion)
+    <i>"You know, it's funny. Every crook I meet wants to tell me how much I'm just like them. But there's a big difference between you and me and the burdens we bear."</i>
+    <br>— Edward Elric (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/evangelion/images/9/96/Toji_Suzuhara_%28Plugsuit%29.png/revision/latest?cb=20121109105309">
+  <img src="https://static.wikia.nocookie.net/fma/images/b/b4/EdwardManga.png/revision/latest?cb=20250220063707" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
