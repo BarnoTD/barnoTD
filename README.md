@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I want to become weak and if that's not possible, then I at least want to make friends that are as strong as me."</i>
-    <br>— Coyote Starrk (Bleach)
+    <i>"Paying the price for something valuable, that's the pride of an otaku."</i>
+    <br>— Kagami Junichirou (Denpa Kyoushi)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/0/0e/Ep277StarrkResurreccionLosLobos.png/revision/latest?cb=20190518102434&path-prefix=en" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/denpakyoushi/images/1/18/Kagami_junichirou.png/revision/latest?cb=20130715132757" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
