@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Paying the price for something valuable, that's the pride of an otaku."</i>
-    <br>— Kagami Junichirou (Denpa Kyoushi)
+    <i>"If you can't understand the darkness in your opponent's heart, you will never comprehend the pain and suffering of others."</i>
+    <br>— Yami Yugi (Yu-Gi-Oh!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/denpakyoushi/images/1/18/Kagami_junichirou.png/revision/latest?cb=20130715132757" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://uploads3.yugioh.com/character/3/detail/detail/yamiyugi-l.png?1371744397" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
