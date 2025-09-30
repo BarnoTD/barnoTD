@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you can't understand the darkness in your opponent's heart, you will never comprehend the pain and suffering of others."</i>
-    <br>— Yami Yugi (Yu-Gi-Oh!)
+    <i>"Time waits for no one."</i>
+    <br>— The Girl Who Leapt Through Time (The Girl Who Leapt Through Time)
   </blockquote>
-  <img src="https://uploads3.yugioh.com/character/3/detail/detail/yamiyugi-l.png?1371744397" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BNWNjMTVhNDctZjFiNi00MzQwLTgwMDAtM2UxZTBiOTIyMjk4XkEyXkFqcGc@._V1_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
