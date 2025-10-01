@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Time waits for no one."</i>
-    <br>— The Girl Who Leapt Through Time (The Girl Who Leapt Through Time)
+    <i>"I'm no man's burden! I want to be of use!"</i>
+    <br>— Shizuku Tsukishima (Mimi wo Sumaseba)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BNWNjMTVhNDctZjFiNi00MzQwLTgwMDAtM2UxZTBiOTIyMjk4XkEyXkFqcGc@._V1_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://c8.alamy.com/comp/2ABF3PX/whisper-of-the-heart-aka-mimi-wo-sumaseba-shizuku-tsukishima-voice-brittany-snow-1995-gkids-courtesy-everett-collection-2ABF3PX.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
