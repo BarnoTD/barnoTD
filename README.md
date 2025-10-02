@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm no man's burden! I want to be of use!"</i>
-    <br>— Shizuku Tsukishima (Mimi wo Sumaseba)
+    <i>"There are two things people fear... those are death and embarrassment. Those who try to overcome death are just idiots, but I won't laugh at those who try to overcome their embarrassment. I like those kind of idiots."</i>
+    <br>— Gintoki Sakata (Gintama)
   </blockquote>
-  <img src="https://c8.alamy.com/comp/2ABF3PX/whisper-of-the-heart-aka-mimi-wo-sumaseba-shizuku-tsukishima-voice-brittany-snow-1995-gkids-courtesy-everett-collection-2ABF3PX.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/46/GintokiSakata.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
