@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"But for me, just having fun wasn't enough. The support of my friends was equally important. They encouraged me through my struggles. They're all so different from me, but they're honest and determined. We fought, but we also worked together. I know my mother had a friend like that too. Someone to have fun with. Someone to share her worries. Mom, I have finished the song we promised to write. Sorry it took so long. I'm glad I could create this song with you and my friends. I'll treasure it always for bringing us together."</i>
-    <br>— Wakana Sakai (Tari Tari)
+    <i>"There are some things in life that will only be understood through words."</i>
+    <br>— Winry Rockbell (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/taritari/images/b/b2/Wakana_character_profile.jpg/revision/latest?cb=20160712113402" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/9/91/WinryRockbellEp20.png/revision/latest?cb=20121015065045" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
