@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There are some things in life that will only be understood through words."</i>
-    <br>— Winry Rockbell (Fullmetal Alchemist)
+    <i>"They say that if you change yourself, you'll change the world. but that's a complete lie. They're just forcing you to compromise, by feeding you a convenient little fib."</i>
+    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/9/91/WinryRockbellEp20.png/revision/latest?cb=20121015065045" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/5/5d/Hachiman.png/revision/latest?cb=20180928155052" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
