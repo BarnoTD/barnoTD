@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The whale leaps. As high as he can imagine. Piercing the water from peak to peak. Is a yearning for the sky reflected in his eyes? What if this high point wasn't merely the sky, but something far higher? If he knew of the infinite glitter of the stars, would his dreams soar even higher? Even if one doesn't know why, to live is to constantly reach out. Not to a nervous restlessness, but to a constant motion of the heart."</i>
-    <br>— Nino (Arakawa Under the Bridge)
+    <i>"Not taking the initiative to secure your future but just waiting for luck to come your way, wasn't that just the definition of being lazy?"</i>
+    <br>— Izayoi Sakamaki (Mondaiji-tachi Ga Isekai Kara Kuru Sou Desu Yo?)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/arakawa-under-the-bridge/images/b/b0/SHAFT-Nino.png/revision/latest?cb=20171024230426" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/mondaiji-tachi-ga-isekai-kara-kuru-s-desu-yo/images/7/78/Izayoi_Sakamaki_Badass_look.png/revision/latest/scale-to-width-down/1200?cb=20140812182553" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
