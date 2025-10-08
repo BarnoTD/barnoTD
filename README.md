@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Not taking the initiative to secure your future but just waiting for luck to come your way, wasn't that just the definition of being lazy?"</i>
-    <br>— Izayoi Sakamaki (Mondaiji-tachi Ga Isekai Kara Kuru Sou Desu Yo?)
+    <i>"Can we really be proud of our own survival that's predicated on sacrificing our own? There lives aren't all we lose."</i>
+    <br>— Ikoma (Koutetsujou no Kabaneri)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/mondaiji-tachi-ga-isekai-kara-kuru-s-desu-yo/images/7/78/Izayoi_Sakamaki_Badass_look.png/revision/latest/scale-to-width-down/1200?cb=20140812182553" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/koutetsujou-no-kabaneri/images/9/9e/Ikoma_2.png/revision/latest?cb=20160415092339" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
