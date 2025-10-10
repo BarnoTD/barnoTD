@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Glad you're okay *wink* I kinda like you."</i>
-    <br>— Hideki Hinata (Angel Beats!)
+    <i>"The world you want can’t be built after destruction. We build it everyday -step by step!"</i>
+    <br>— Lina Inverse (Slayers)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/0/0f/Hinata_anime.png/revision/latest?cb=20190414063658" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Lina_Inverse_GF.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
