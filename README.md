@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The world you want can’t be built after destruction. We build it everyday -step by step!"</i>
-    <br>— Lina Inverse (Slayers)
+    <i>"You can run away, but that'll just make it worse!"</i>
+    <br>— Kurisu Makise (Steins;Gate)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Lina_Inverse_GF.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/steins-gate/images/0/01/Kurisu_Makise_Portrait.png/revision/latest?cb=20141222010103" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
