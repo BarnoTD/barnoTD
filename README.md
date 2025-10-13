@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Once you look up to someone, you can't overtake them."</i>
-    <br>— Kise Ryouta (Kuroko No Basket)
+    <i>"I've already decided. Getting good grades and listening to teachers can take me somewhere high and far away, but what if that's not where I want to go? Right here, by your side, Tomoya, is the only place I want to be."</i>
+    <br>— Sakagami Tomoyo (CLANNAD)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kurokonobasuke/images/c/c0/Kise_uniform.png/revision/latest?cb=20121105200955" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/c__/images/2/2f/Sakagami_tomoyo.png/revision/latest?cb=20100410125430&path-prefix=clannad" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
