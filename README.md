@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I've already decided. Getting good grades and listening to teachers can take me somewhere high and far away, but what if that's not where I want to go? Right here, by your side, Tomoya, is the only place I want to be."</i>
-    <br>— Sakagami Tomoyo (CLANNAD)
+    <i>"So I'll search for my real ''wings'', because if I stay in the comfort of my nest, I'll never be able to use my own strength to fly."</i>
+    <br>— Itsuki Minami (Air Gear)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/c__/images/2/2f/Sakagami_tomoyo.png/revision/latest?cb=20100410125430&path-prefix=clannad" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/airgear/images/f/f4/Itsuki_%28Ikki%29_Minami.jpg/revision/latest?cb=20191105152030" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
