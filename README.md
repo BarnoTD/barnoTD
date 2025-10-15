@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"So I'll search for my real ''wings'', because if I stay in the comfort of my nest, I'll never be able to use my own strength to fly."</i>
-    <br>— Itsuki Minami (Air Gear)
+    <i>"You are coming with me, we are going to hell."</i>
+    <br>— Ai Enma (Jigoku Shoujo)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/airgear/images/f/f4/Itsuki_%28Ikki%29_Minami.jpg/revision/latest?cb=20191105152030" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hell-girl/images/a/a2/Ai_Enma.png/revision/latest/scale-to-width-down/300?cb=20211104021836" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
