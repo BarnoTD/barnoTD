@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"</i>
-    <br>— Rima Mashiro (Shugo Chara)
+    <i>"Irony abounds in warfare."</i>
+    <br>— Rau Le Creuset (Mobile Suit Gundam Seed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/shugochara/images/5/52/180px-Rima-chan.gif/revision/latest?cb=20120522195334" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://en.gundam.info/about-gundam/series-pages/seed/img/mecha/mecha12.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
