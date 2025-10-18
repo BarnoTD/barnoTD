@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Irony abounds in warfare."</i>
-    <br>— Rau Le Creuset (Mobile Suit Gundam Seed)
+    <i>"I'm no one. I don't want to be anyone. All I care about is completing the moon's eye plan. This world is completely worthless. There is nothing left in it but misery."</i>
+    <br>— Obito Uchiha (Naruto)
   </blockquote>
-  <img src="https://en.gundam.info/about-gundam/series-pages/seed/img/mecha/mecha12.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1c/Obitounmasked.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
