@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"To desire some results, one must take actions."</i>
-    <br>— Suzaku Kururugi (Code Geass: Lelouch of the Rebellion)
+    <i>"One can hardly lose what one does not already have."</i>
+    <br>— Horo (Spice and Wolf)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Suzakukuriugi.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/spiceandwolf/images/a/a3/Holo_-_Full_Body_%282024%29.png/revision/latest/scale-to-width/360?cb=20230629173827" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
