@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"They come without asking, and then they leave just the same. But once you meet them, even if nobody ever knows it, that encounter will change your life for the better."</i>
-    <br>— Takashi Natsume (Natsume Yuujinchou)
+    <i>"It's been so long that I forgot the pain of not having a name. Everyone had a name that friends use to call them, but I didn't. That pain."</i>
+    <br>— Zaraki Kenpachi (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/natsumeyuujinchou/images/6/66/Takashi_Natsume.png/revision/latest?cb=20190625152004" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://www.bleach-bravesouls.com/assets/img/character/appearance/08/character_safwy_kenpachi-2_01.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
