@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's been so long that I forgot the pain of not having a name. Everyone had a name that friends use to call them, but I didn't. That pain."</i>
-    <br>— Zaraki Kenpachi (Bleach)
+    <i>"When you go easy on the ones with just a bit of power, they give you more trouble than anybody else."</i>
+    <br>— Madara (Natsume Yuujinchou)
   </blockquote>
-  <img src="https://www.bleach-bravesouls.com/assets/img/character/appearance/08/character_safwy_kenpachi-2_01.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/natsumeyuujinchou/images/4/4c/Nyanko_Season_7.png/revision/latest?cb=20191009060848" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
