@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When you go easy on the ones with just a bit of power, they give you more trouble than anybody else."</i>
-    <br>— Madara (Natsume Yuujinchou)
+    <i>"Oi, oi, why are you letting them chase you, idiot?"</i>
+    <br>— Gintoki Sakata (Gintama)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/natsumeyuujinchou/images/4/4c/Nyanko_Season_7.png/revision/latest?cb=20191009060848" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/46/GintokiSakata.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
