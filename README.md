@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Oi, oi, why are you letting them chase you, idiot?"</i>
-    <br>— Gintoki Sakata (Gintama)
+    <i>"I'm not a genuine idiot like you! I'm an idiot who accepts the fact that he's an idiot!"</i>
+    <br>— Aoba Kouyou (Katekyo Hitman Reborn!)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/46/GintokiSakata.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
