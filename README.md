@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down."</i>
-    <br>— Makoto Niwa (Denpa Onna to Seishun Otoko)
+    <i>"Modern-day saints carry assault rifles, and spread the word of God with their bullets."</i>
+    <br>— Koko Hekmatyar (Jormungand)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/denpaonna/images/6/6a/Makoto_Niwa_HD.jpg/revision/latest?cb=20180627180407" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/jormungand/images/b/bb/S1_02_Koko_signals.jpg/revision/latest?cb=20121107044716" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
