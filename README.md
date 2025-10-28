@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Modern-day saints carry assault rifles, and spread the word of God with their bullets."</i>
-    <br>— Koko Hekmatyar (Jormungand)
+    <i>"Forget what hurt you in the past, but never forget what it taught you."</i>
+    <br>— Lucy Heartfilia (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/jormungand/images/b/bb/S1_02_Koko_signals.jpg/revision/latest?cb=20121107044716" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
