@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Forget what hurt you in the past, but never forget what it taught you."</i>
-    <br>— Lucy Heartfilia (Fairy Tail)
+    <i>"For the first time, I felt honoured at being allowed to compete in this game of truth and error, and witches as a human... And ironically, that taught me that the truth is not necessarily only one when I believed that only one truth existed. By just broadening my field of vision a little, I can see a truth that is completely different. And no matter which one of the truths, if you can only see one of them, they will not be the right answer... Ah, in my life until now, I wonder how many truths have I turned away from because I was blinded by some trivial truth...? This is... the truth... of the world..."</i>
+    <br>— Furudo Erika (Umineko no Naku Koro ni)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/umineko/images/3/3d/Eri_a11_def2.png/revision/latest?cb=20140723051853" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
