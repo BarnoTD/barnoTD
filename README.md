@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm the afro-hair guy."</i>
-    <br>— Brook (One Piece)
+    <i>"Even if I force myself to smile. It seems I'm the type of person who ends up being hated."</i>
+    <br>— Sai (Naruto Shippūden)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/animeandmangauniverse/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140206175718" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/0/02/Sai6.png/revision/latest?cb=20140303181322&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
