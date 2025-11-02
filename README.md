@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you can move on, then you should."</i>
-    <br>— Furukawa Nagisa (CLANNAD)
+    <i>"So what if you're an aristocrat?! Dying for the sake of honor is something an idiot does!"</i>
+    <br>— Saito Hiraga (Zero no Tsukaima: Futatsuki no Kishi)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/c__/images/2/29/Furukawa_nagisa.png/revision/latest?cb=20100410125003&path-prefix=clannad" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/zeronotsukaima/images/1/18/AnimeSaitoHiraga.png/revision/latest/thumbnail/width/360/height/360?cb=20251023053728" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
