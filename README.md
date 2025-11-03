@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"So what if you're an aristocrat?! Dying for the sake of honor is something an idiot does!"</i>
-    <br>— Saito Hiraga (Zero no Tsukaima: Futatsuki no Kishi)
+    <i>"We might be scared but that's what makes us stronger!"</i>
+    <br>— Maka Albarn (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/zeronotsukaima/images/1/18/AnimeSaitoHiraga.png/revision/latest/thumbnail/width/360/height/360?cb=20251023053728" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/9/9e/Maka_Albarn.png/revision/latest?cb=20190621231354&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
