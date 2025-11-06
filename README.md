@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Aahhh someone saves me."</i>
-    <br>— Shippou (Inuyasha)
+    <i>"Tell me, how does it feel to live in a constant haze of stupidity?"</i>
+    <br>— Hiei (Yu Yu Hakusho)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/a/aa/Shippo_Vector.png/revision/latest?cb=20210921071338" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/81/Hiei_%28YuYu_Hakusho%29.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
