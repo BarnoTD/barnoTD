@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Tell me, how does it feel to live in a constant haze of stupidity?"</i>
-    <br>— Hiei (Yu Yu Hakusho)
+    <i>"All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born."</i>
+    <br>— Aizen Sousuke (Bleach)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/81/Hiei_%28YuYu_Hakusho%29.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/85/AizenAnimeEp60.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
