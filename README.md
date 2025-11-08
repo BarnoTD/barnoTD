@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born."</i>
-    <br>— Aizen Sousuke (Bleach)
+    <i>"Honestly, someone who asks someone else to convey their feelings for them is the worst."</i>
+    <br>— Daiki Mamura (Hirunaka no Ryuusei)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/85/AizenAnimeEp60.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hirunakanoryuusei/images/8/80/MamuraProfile.png/revision/latest?cb=20141010094056" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
