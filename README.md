@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Honestly, someone who asks someone else to convey their feelings for them is the worst."</i>
-    <br>— Daiki Mamura (Hirunaka no Ryuusei)
+    <i>"Please stop adding to my misery. (to Ayame)"</i>
+    <br>— Sohma Hatori (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hirunakanoryuusei/images/8/80/MamuraProfile.png/revision/latest?cb=20141010094056" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://i.redd.it/what-are-your-opinions-on-hatori-v0-nj2nq0x6rv2e1.jpg?width=288&format=pjpg&auto=webp&s=68c73de6109715c9af7d89538e44b9dadcf3f983" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
