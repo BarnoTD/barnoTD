@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Please stop adding to my misery. (to Ayame)"</i>
-    <br>— Sohma Hatori (Fruits Basket)
+    <i>"I particularly dislike this emotion you call ANGER. It makes me lose sight of myself, you know. Just thinking of what happens to me if I'm not MYSELF. Disgusts me to no end."</i>
+    <br>— Mard Geer (Fairy Tail)
   </blockquote>
-  <img src="https://i.redd.it/what-are-your-opinions-on-hatori-v0-nj2nq0x6rv2e1.jpg?width=288&format=pjpg&auto=webp&s=68c73de6109715c9af7d89538e44b9dadcf3f983" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/character-stats-and-profiles/images/f/ff/Mard_Geer_Render.png/revision/latest?cb=20211113052746" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
