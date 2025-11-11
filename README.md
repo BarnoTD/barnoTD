@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I particularly dislike this emotion you call ANGER. It makes me lose sight of myself, you know. Just thinking of what happens to me if I'm not MYSELF. Disgusts me to no end."</i>
-    <br>— Mard Geer (Fairy Tail)
+    <i>"The more you rush, the less careful you become. Even a cautious rat will show its tail."</i>
+    <br>— Henrietta de Tristain (Zero no Tsukaima: Futatsuki no Kishi)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/character-stats-and-profiles/images/f/ff/Mard_Geer_Render.png/revision/latest?cb=20211113052746" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://cdn-eu.anidb.net/images/main/20007.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
