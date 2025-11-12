@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The more you rush, the less careful you become. Even a cautious rat will show its tail."</i>
-    <br>— Henrietta de Tristain (Zero no Tsukaima: Futatsuki no Kishi)
+    <i>"It's over between Kana and me. We're not going to get back together. Even if we were together, I would only miss her... (To Shigure and Ayame)"</i>
+    <br>— Sohma Hatori (Fruits Basket)
   </blockquote>
-  <img src="https://cdn-eu.anidb.net/images/main/20007.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/b/b5/Hatori_Sohma_Edition.jpg/revision/latest?cb=20190808133801" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
