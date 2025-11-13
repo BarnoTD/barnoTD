@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's over between Kana and me. We're not going to get back together. Even if we were together, I would only miss her... (To Shigure and Ayame)"</i>
-    <br>— Sohma Hatori (Fruits Basket)
+    <i>"I've only just started to understand it myself. That by depending on others, and letting them depend on you, people can exceed what they can do as individuals."</i>
+    <br>— Mikoto Misaka (Toaru Majutsu no Index)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/b/b5/Hatori_Sohma_Edition.jpg/revision/latest?cb=20190808133801" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/1/19/Misaka.png/revision/latest/scale-to-width-down/1200?cb=20120511115657" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
