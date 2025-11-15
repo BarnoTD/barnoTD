@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Risking my life for European politics would make me grassy!"</i>
-    <br>— Poland (Axis Powers: Hetalia)
+    <i>"The heart may be weak and sometimes it may even give in, but I've learned that deep down, there's a light that never goes out!"</i>
+    <br>— Sora (Kingdom Hearts)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hetalia/images/4/4b/EP95.png/revision/latest?cb=20250405163303" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Sora_%28Art%29_KH.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
