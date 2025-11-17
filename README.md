@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When you're on a bike, the ocean's a lot closer than you think. The autumn salt wind went right through to the back of my nose. And maybe it's because, like Haruko said, my head was empty."</i>
-    <br>— Naota Nandaba (FLCL)
+    <i>"There is great value in the time spent in ones own company, but a life time of total isolation is a fate no one should endure."</i>
+    <br>— Makarov (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/flcl/images/2/29/6A779AEB-76B8-4975-BDEE-CFE8E24650A8.jpeg/revision/latest?cb=20181230055330" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c3/Makarov%27s_profile_iamge.png/revision/latest?cb=20181117233645" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
