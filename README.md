@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There is great value in the time spent in ones own company, but a life time of total isolation is a fate no one should endure."</i>
-    <br>— Makarov (Fairy Tail)
+    <i>"There is no such thing as forever. Everything ends sooner or later. Just as it should. Because now is only now. And this moment... is so precious."</i>
+    <br>— Reki (Haibane Renmei)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c3/Makarov%27s_profile_iamge.png/revision/latest?cb=20181117233645" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/haibanerenmei/images/8/8f/Character_Infobox_-_Reki.png/revision/latest?cb=20111215012941" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
