@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There is no such thing as forever. Everything ends sooner or later. Just as it should. Because now is only now. And this moment... is so precious."</i>
-    <br>— Reki (Haibane Renmei)
+    <i>"Even if we don't understand each other, that's not a reason to reject each other. There are two sides to any argument. Is there one point of view that has all the anwers? Give it some thought."</i>
+    <br>— Alder (Pokémon)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/haibanerenmei/images/8/8f/Character_Infobox_-_Reki.png/revision/latest?cb=20111215012941" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
