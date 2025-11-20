@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even if we don't understand each other, that's not a reason to reject each other. There are two sides to any argument. Is there one point of view that has all the anwers? Give it some thought."</i>
-    <br>— Alder (Pokémon)
+    <i>"I think you've got me all wrong. My motives aren't so sophisticated as "revenge" or "honor" or any of that... The reason I killed all of those men... was because I could. It's that simple."</i>
+    <br>— Solf J. Kimblee (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fma/images/7/7e/Jacob_kimbley.png/revision/latest?cb=20150520110514" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
