@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I think you've got me all wrong. My motives aren't so sophisticated as "revenge" or "honor" or any of that... The reason I killed all of those men... was because I could. It's that simple."</i>
-    <br>— Solf J. Kimblee (Fullmetal Alchemist)
+    <i>"The weak are destined to lie beneath the boots of the strong. If that angers you, overcome your deficits."</i>
+    <br>— Esdeath (Akame ga KILL!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fma/images/7/7e/Jacob_kimbley.png/revision/latest?cb=20150520110514" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/akamegakill/images/0/0c/Tumblr_ncxciwC4Ky1txrzruo2_r1_500.png/revision/latest/thumbnail/width/360/height/450?cb=20141005160441" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
