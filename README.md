@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The weak are destined to lie beneath the boots of the strong. If that angers you, overcome your deficits."</i>
-    <br>— Esdeath (Akame ga KILL!)
+    <i>"What does it mean to be reborn? That isn't the life I had anymore. It's someone else's life. Everyone only gets to live life one time [Yuri places her hand on her chest.], and it's right here. I only get it once. This is my life. I can't entrust it to someone, I can't steal a new one, I can't force it on others, I can't forget it or erase it. I can't stomp over it, laugh at it, or beautify it! I can't anything! I'd have to accept my one shot at life no matter how cruel, merciless, or unfair I thought it was! Sir, don't you understand? That is why I must fight. I must keep on fighting! Because... because I can never [slams her desk with her hands] accept that kind of life!"</i>
+    <br>— Yuri Nakamura (Angel Beats!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/akamegakill/images/0/0c/Tumblr_ncxciwC4Ky1txrzruo2_r1_500.png/revision/latest/thumbnail/width/360/height/450?cb=20141005160441" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/angelbeats/images/b/b1/Yuri_anime.png/revision/latest?cb=20190414220425" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
