@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"What does it mean to be reborn? That isn't the life I had anymore. It's someone else's life. Everyone only gets to live life one time [Yuri places her hand on her chest.], and it's right here. I only get it once. This is my life. I can't entrust it to someone, I can't steal a new one, I can't force it on others, I can't forget it or erase it. I can't stomp over it, laugh at it, or beautify it! I can't anything! I'd have to accept my one shot at life no matter how cruel, merciless, or unfair I thought it was! Sir, don't you understand? That is why I must fight. I must keep on fighting! Because... because I can never [slams her desk with her hands] accept that kind of life!"</i>
-    <br>— Yuri Nakamura (Angel Beats!)
+    <i>"The worst part about being strong is that no one ever asks if you're ok."</i>
+    <br>— Accelerator (Toaru Majutsu no Index)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/b/b1/Yuri_anime.png/revision/latest?cb=20190414220425" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/d/db/Accelerator_%28Anime%29.png/revision/latest/scale-to-width-down/1200?cb=20190208142344" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
