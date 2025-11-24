@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The worst part about being strong is that no one ever asks if you're ok."</i>
-    <br>— Accelerator (Toaru Majutsu no Index)
+    <i>"One human only has the power to do so much. That's why I'm going to protect...even if it's just a handful of them...the ones most important to me."</i>
+    <br>— Roy Mustang (Fullmetal Alchemist: Brotherhood)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/d/db/Accelerator_%28Anime%29.png/revision/latest/scale-to-width-down/1200?cb=20190208142344" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
