@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"One human only has the power to do so much. That's why I'm going to protect...even if it's just a handful of them...the ones most important to me."</i>
-    <br>— Roy Mustang (Fullmetal Alchemist: Brotherhood)
+    <i>"Neither terrorism nor occultism have ever impacted history in any constructive way."</i>
+    <br>— Yang Wenli (Legend of the Galactic Heroes)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://gineipaedia.com/w/images/thumb/6/6b/Yang_1.jpg/294px-Yang_1.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
