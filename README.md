@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Neither terrorism nor occultism have ever impacted history in any constructive way."</i>
-    <br>— Yang Wenli (Legend of the Galactic Heroes)
+    <i>"Crying when you need to cry is another way to show strength."</i>
+    <br>— Fay D. Flourite (Tsubasa Reservoir Chronicle)
   </blockquote>
-  <img src="https://gineipaedia.com/w/images/thumb/6/6b/Yang_1.jpg/294px-Yang_1.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/07/FaiFlowright.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
