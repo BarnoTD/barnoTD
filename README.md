@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Crying when you need to cry is another way to show strength."</i>
-    <br>— Fay D. Flourite (Tsubasa Reservoir Chronicle)
+    <i>"I now have things that I don't want to forget, and things that I shouldn't forget. And I don't plan to ever forget those things, as long as I live."</i>
+    <br>— Haruhiro (Hai to Gensou no Grimgar)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/07/FaiFlowright.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/4/47/Haru%27s_image.jpg/revision/latest?cb=20160521060848" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
