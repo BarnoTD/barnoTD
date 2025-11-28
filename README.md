@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I now have things that I don't want to forget, and things that I shouldn't forget. And I don't plan to ever forget those things, as long as I live."</i>
-    <br>— Haruhiro (Hai to Gensou no Grimgar)
+    <i>"I’ve always been wondering, even though you’ve been treating me carefully like a princess, are you just trying to keep your distance away from me? You praise me so much and belittle yourself, so I feel that you’re trying to keep your distance away from me..."</i>
+    <br>— Himeji Mizuki (Baka to Test to Shoukanjuu)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/4/47/Haru%27s_image.jpg/revision/latest?cb=20160521060848" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bakatotest/images/f/f4/Shoukanjuu-mizuki.png/revision/latest?cb=20140323074757" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
