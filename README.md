@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There is no such thing as perfect in this world. That may sound cliche, but it’s the truth. The average person admires perfection and seeks to obtain it. But what’s the point of achieving perfection? There is none. Nothing. Not a single thing. I spit on perfection! If something is perfect, then there is nothing left. There is no room for imagination. No place left for that person to gain additional knowledge or abilities. Do you know what that means? For scientists such as us, perfection only brings despair. It is our job to create things more wonderful than anything before them, but never to obtain perfection. A scientist must be a person who finds ecstasy while suffering from that antinomy."</i>
-    <br>— Kurotsuchi Mayuri (Bleach)
+    <i>"Damn piece of Earth trash!"</i>
+    <br>— Miguel Aiman (Mobile Suit Gundam Seed)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MayuriKurotsuchiKubo.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gundam/images/3/39/MSGS-Miguel.png/revision/latest?cb=20210820180128" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
