@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Damn piece of Earth trash!"</i>
-    <br>— Miguel Aiman (Mobile Suit Gundam Seed)
+    <i>"[possessed by a Hollow] Why do you keep calling my name so? Are you that worried about me? Are you that much in love with me, little girl? If you love me so much...I'll eat you first!"</i>
+    <br>— Shiba Kaien (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gundam/images/3/39/MSGS-Miguel.png/revision/latest?cb=20210820180128" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/e/ee/Ep208KaienProfile.png/revision/latest?cb=20231105202259&path-prefix=en" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
