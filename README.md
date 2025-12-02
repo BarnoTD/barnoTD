@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[possessed by a Hollow] Why do you keep calling my name so? Are you that worried about me? Are you that much in love with me, little girl? If you love me so much...I'll eat you first!"</i>
-    <br>— Shiba Kaien (Bleach)
+    <i>"I don't think ignorance is necessarily a bad thing. The more you know, the more problems you have."</i>
+    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/e/ee/Ep208KaienProfile.png/revision/latest?cb=20231105202259&path-prefix=en" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest/scale-to-width/360?cb=20141119202536" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
