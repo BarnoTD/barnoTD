@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I don't think ignorance is necessarily a bad thing. The more you know, the more problems you have."</i>
-    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+    <i>"Whatever your thoughts may be, if you don't say them, none of it will be acknowledged by others."</i>
+    <br>— Tomoyo Daidouji (Cardcaptor Sakura)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest/scale-to-width/360?cb=20141119202536" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/ccs/images/c/cf/CCS_IC_V1_PG29.jpg/revision/latest?cb=20200115100403" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
