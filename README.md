@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Whatever your thoughts may be, if you don't say them, none of it will be acknowledged by others."</i>
-    <br>— Tomoyo Daidouji (Cardcaptor Sakura)
+    <i>"Sorry, but it doesn't matter if you're a woman or even a child... I don't go easy on anybody who hurts my nakama."</i>
+    <br>— Gray Fullbuster (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/ccs/images/c/cf/CCS_IC_V1_PG29.jpg/revision/latest?cb=20200115100403" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c6/Gray_in_Alvarez_Empire_arc.png/revision/latest?cb=20190519091455" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
