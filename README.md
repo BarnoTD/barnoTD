@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People derive their happiness in a variety of ways, even though it might seem cruel."</i>
-    <br>— Adashino (Mushishi)
+    <i>"You think surrendering, and offering yourself will stop the war? How arrogant. The life of each human is worth one, that's it. Nothing more, nothing less."</i>
+    <br>— King Bradley (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/mushi-shi/images/5/56/Adashino.png/revision/latest?cb=20141224015808" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fma/images/0/0b/KingBradley1080p.png/revision/latest?cb=20161230194652" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
