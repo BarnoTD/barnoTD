@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"In life, it's better to assume that bad things will happen to you rather than good things. You can't look at someone else's success and assume that it will happen to you. There are a lot of people in the world, so it makes sense that one or two of them are going to be fortunate. But there's only one of you. Assuming that good fortune will come to you is no different than pointing a finger at a random person and predicting the same for them. But do you think that prediction would come true?"</i>
-    <br>— Kraft Lawrence (Spice and Wolf)
+    <i>"Don't make yourself weigh your pride against your friends."</i>
+    <br>— Hephaestus (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/spiceandwolf/images/e/e4/Kraft_Lawrence.jpg/revision/latest/scale-to-width/360?cb=20140222010713" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/2/25/Hephaestus.png/revision/latest?cb=20150515030857" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
