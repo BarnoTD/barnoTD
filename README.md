@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Don't make yourself weigh your pride against your friends."</i>
-    <br>— Hephaestus (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka)
+    <i>"Gekokujou."</i>
+    <br>— Wakashi Hiyoshi (Prince Of Tennis)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/2/25/Hephaestus.png/revision/latest?cb=20150515030857" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/princeoftennis/images/e/ed/Hiyoshi_wakashi.png/revision/latest?cb=20130814145936" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
