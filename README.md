@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The loneliest people are the kindest. The saddest people smile the brightest. The most damaged people are the wisest. All because they don't wish to see anyone else suffer the way they did."</i>
-    <br>— Jellal Fernandes (Fairy Tail)
+    <i>"If I have to win through underhanded means, I'd rather just stand right here until I die."</i>
+    <br>— Hayabusa Shou (Sakamoto desu ga?)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/3/34/Jellal%27s_image.png/revision/latest?cb=20190316233016" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/sakamoto-desu-ga/images/8/86/Hayabusa.Shou.full.1982154.jpg/revision/latest?cb=20160421082320" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
