@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You can't direct armies from your bedsheets."</i>
-    <br>— Koko Hekmatyar (Jormungand)
+    <i>"ou know you're a real wise ass, you know that?! (to Yuki)"</i>
+    <br>— Sohma Kyo (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/jormungand/images/b/bb/S1_02_Koko_signals.jpg/revision/latest?cb=20121107044716" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/2/2a/S2E9-2019_%2877%29.png/revision/latest/scale-to-width-down/985?cb=20200603223558" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
