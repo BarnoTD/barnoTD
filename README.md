@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"...The act of taking is equally evil. We, from the moment of birth, continue to take. Food, connections, even fellow blood. Living to utmost. Continuing to slaughter, kill, take. Life is to constantly sin. Life is evil itself. I am aware I am evil... And so are you all. Now, come kill me. And I shall do the same!"</i>
-    <br>— Yoshimura (Tokyo Ghoul)
+    <i>"Looking back on the past is a dangerous thing. It's nothing more than an attachment."</i>
+    <br>— Fukase (Sakamoto desu ga?)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tokyoghoul/images/f/f2/Yoshimura_anime_design_front_view.png/revision/latest?cb=20140604173845" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/sakamoto-desu-ga/images/a/ab/Fukase-san.%28Sakamoto.desu.ga%29.full.1982156.jpg/revision/latest?cb=20160421082321" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
