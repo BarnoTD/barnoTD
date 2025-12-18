@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Looking back on the past is a dangerous thing. It's nothing more than an attachment."</i>
-    <br>— Fukase (Sakamoto desu ga?)
+    <i>"I am an ice sculpture mage. I can make anything."</i>
+    <br>— Gray Fullbuster (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/sakamoto-desu-ga/images/a/ab/Fukase-san.%28Sakamoto.desu.ga%29.full.1982156.jpg/revision/latest?cb=20160421082321" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c6/Gray_in_Alvarez_Empire_arc.png/revision/latest?cb=20190519091455" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
