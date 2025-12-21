@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[to Kagome, angry at her for saying she believes in him] You are nuts! This sword is good for nothing! Me, I'll live, I'm half demon. You though, you ain't got a chance."</i>
-    <br>— Inuyasha (Inuyasha)
+    <i>"Ha ha ha ha! Promise me something, if you're gonna sue, go after the spirit first, okay?"</i>
+    <br>— Franken Stein (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/f/f3/Inuyasha-full-body.jpg/revision/latest/scale-to-width-down/284?cb=20100630111347" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/souleater/images/b/b2/Franken_Stein_Profile.png/revision/latest?cb=20190603224005" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
