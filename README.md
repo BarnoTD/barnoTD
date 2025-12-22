@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Ha ha ha ha! Promise me something, if you're gonna sue, go after the spirit first, okay?"</i>
-    <br>— Franken Stein (Soul Eater)
+    <i>"The aura of offensive smell has come to such a strong extent that you can even see it!!"</i>
+    <br>— Misaki Ayuzawa (Kaichou Wa Maid-Sama!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/souleater/images/b/b2/Franken_Stein_Profile.png/revision/latest?cb=20190603224005" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kaichouwamaidsama/images/6/6c/Close_up_of_Misaki_Ayuzawa.png/revision/latest?cb=20130203191108" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
