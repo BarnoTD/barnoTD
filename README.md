@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The fact that I’m standing here means that I’m resolved to fight for my guild. I do not need your sympathy. As long as I’m still standing, please come at me with all you’ve got! Please do!"</i>
-    <br>— Wendy Marvell (Fairy Tail)
+    <i>"Never give up without even trying. Do what you can, no matter how small the effect it may have!"</i>
+    <br>— Ōnoki (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/5/5c/Wendy%27s_image.png/revision/latest?cb=20150703183824" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/6/67/%C5%8Cnoki.png/revision/latest/scale-to-width-down/1200?cb=20181203071043" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
