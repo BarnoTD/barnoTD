@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Never give up without even trying. Do what you can, no matter how small the effect it may have!"</i>
-    <br>— Ōnoki (Naruto)
+    <i>"Even if I can't see you... No matter how far away you may be... I will always be watching you."</i>
+    <br>— Makarov Dreyar (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/6/67/%C5%8Cnoki.png/revision/latest/scale-to-width-down/1200?cb=20181203071043" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c3/Makarov%27s_profile_iamge.png/revision/latest?cb=20181117233645" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
