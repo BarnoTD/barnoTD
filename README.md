@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even if I can't see you... No matter how far away you may be... I will always be watching you."</i>
-    <br>— Makarov Dreyar (Fairy Tail)
+    <i>"About marriage or about future, I don't know what will happen in the future. In this world, it's normal that when there's a preparation, then a new grief is born, but everyone has the right to desire happiness. Our efforts need to be held for the sake of our future."</i>
+    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c3/Makarov%27s_profile_iamge.png/revision/latest?cb=20181117233645" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/5/5d/Hachiman.png/revision/latest?cb=20180928155052" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
