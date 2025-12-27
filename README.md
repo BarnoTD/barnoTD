@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"About marriage or about future, I don't know what will happen in the future. In this world, it's normal that when there's a preparation, then a new grief is born, but everyone has the right to desire happiness. Our efforts need to be held for the sake of our future."</i>
-    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+    <i>"If you're gonna have great happiness, it requires great effort in exchange, that's called compensation. For the good things in life, there are the bad. For the bad things in life, there are always the good. In order for you to be happy, you must be willing to accept a burden of a equal amount of unhappiness in exchange as your payment. The more you achieve, the greater the demands will be placed upon you in return."</i>
+    <br>— Yuuko Ichihara (xxxHOLiC)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/5/5d/Hachiman.png/revision/latest?cb=20180928155052" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/YukoIchihara.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
