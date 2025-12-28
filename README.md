@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you're gonna have great happiness, it requires great effort in exchange, that's called compensation. For the good things in life, there are the bad. For the bad things in life, there are always the good. In order for you to be happy, you must be willing to accept a burden of a equal amount of unhappiness in exchange as your payment. The more you achieve, the greater the demands will be placed upon you in return."</i>
-    <br>— Yuuko Ichihara (xxxHOLiC)
+    <i>"It's difficult to make a girl smile, even as a grown-up. But you should never, ever, make a girl cry. And if you ever see a girl crying, help her. You might not be able to make her smile, but they'll know how you feel."</i>
+    <br>— Yokodera Youto (Hentai Ouji To Warawanai Neko)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/YukoIchihara.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://myanimeshelf.com/upload/dynamic/2013-08/05/Youto2.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
