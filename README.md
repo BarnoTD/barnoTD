@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's difficult to make a girl smile, even as a grown-up. But you should never, ever, make a girl cry. And if you ever see a girl crying, help her. You might not be able to make her smile, but they'll know how you feel."</i>
-    <br>— Yokodera Youto (Hentai Ouji To Warawanai Neko)
+    <i>"Love is all about who lands the first punch!"</i>
+    <br>— Kasumi (Pokémon)
   </blockquote>
-  <img src="https://myanimeshelf.com/upload/dynamic/2013-08/05/Youto2.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
