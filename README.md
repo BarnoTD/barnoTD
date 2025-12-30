@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Love is all about who lands the first punch!"</i>
-    <br>— Kasumi (Pokémon)
+    <i>"[To Yuki] Liar! Moping around like a sad rat who lost his cheese!"</i>
+    <br>— Sohma Kyo (Fruits Basket)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/MistyEP.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/2/2a/S2E9-2019_%2877%29.png/revision/latest/scale-to-width-down/985?cb=20200603223558" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
