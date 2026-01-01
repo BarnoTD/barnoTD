@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even if you put aside regret, you´ll end up feeling it anyway. Right now, you need to make sure you grasp this good feeling and never forget it."</i>
-    <br>— Ryūnosuke Tanaka (Haikyuu!! Second Season)
+    <i>"Getting used to it would be quicker than trying to work around it somehow."</i>
+    <br>— Honoka Kousaka (Love Live! School idol project)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/super-battlesaga/images/c/cb/Ryunosuke_Tanaka.png/revision/latest?cb=20200713123740" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/love-live/images/c/c6/Love_Live%21_infobox_-_Kousaka_Honoka.png/revision/latest?cb=20170402074116" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
