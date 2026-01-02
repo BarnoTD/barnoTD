@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Getting used to it would be quicker than trying to work around it somehow."</i>
-    <br>— Honoka Kousaka (Love Live! School idol project)
+    <i>"I'll never show you my tears. These are the tears of those who died with regrets. If there's a way to take away these regrets, I'll make sure I'll find it. If it's fear that you speak of, then I'll stand and face it. I'll never give up. The only time I lose is when I die!"</i>
+    <br>— Black Star (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/love-live/images/c/c6/Love_Live%21_infobox_-_Kousaka_Honoka.png/revision/latest?cb=20170402074116" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/c/c3/Black_Star_Anime_Render.png/revision/latest?cb=20230331041014&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
