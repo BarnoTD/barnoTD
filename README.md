@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'll never show you my tears. These are the tears of those who died with regrets. If there's a way to take away these regrets, I'll make sure I'll find it. If it's fear that you speak of, then I'll stand and face it. I'll never give up. The only time I lose is when I die!"</i>
-    <br>— Black Star (Soul Eater)
+    <i>"When I was at the brink of life and death, I used all of my will to survive. I drew upon a different power than that of self-sacrifice and mastered an ultimate technique. The will to live is stronger than anything else. That was the ray of light that my master risked his life to show me. As Hitokiri Battousai, I have committed so many crimes that I cannot possibly repent for them. That is why I had secretly believed that it didn't matter when I died or was killed. However, now... even if I am formally punished or restrained. I will never lose the will to live."</i>
+    <br>— Kenshin Himura (Rurouni Kenshin)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/p__/images/c/c3/Black_Star_Anime_Render.png/revision/latest?cb=20230331041014&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Tomo1-1.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
