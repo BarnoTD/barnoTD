@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When I was at the brink of life and death, I used all of my will to survive. I drew upon a different power than that of self-sacrifice and mastered an ultimate technique. The will to live is stronger than anything else. That was the ray of light that my master risked his life to show me. As Hitokiri Battousai, I have committed so many crimes that I cannot possibly repent for them. That is why I had secretly believed that it didn't matter when I died or was killed. However, now... even if I am formally punished or restrained. I will never lose the will to live."</i>
-    <br>— Kenshin Himura (Rurouni Kenshin)
+    <i>""True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?"</i>
+    <br>— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Tomo1-1.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/8/8f/Something.png/revision/latest?cb=20150523154936" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
