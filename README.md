@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>""True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?"</i>
-    <br>— Hachiman Hikigaya (Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku)
+    <i>"I have so many things I want to say, so many things I want to ask you, but... When I see your face... None of that matters anymore!"</i>
+    <br>— Esdeath (Akame ga KILL!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/8/8f/Something.png/revision/latest?cb=20150523154936" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/akamegakill/images/0/0c/Tumblr_ncxciwC4Ky1txrzruo2_r1_500.png/revision/latest?cb=20141005160441" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
