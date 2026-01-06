@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I have so many things I want to say, so many things I want to ask you, but... When I see your face... None of that matters anymore!"</i>
-    <br>— Esdeath (Akame ga KILL!)
+    <i>"Hughes again? Put him through. It's me. I won't listen if you're going to be bragging about your daughter. *...* Hughes? Hughes... Hey! Hughes! Hughes!!"</i>
+    <br>— Roy Mustang (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/akamegakill/images/0/0c/Tumblr_ncxciwC4Ky1txrzruo2_r1_500.png/revision/latest?cb=20141005160441" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
