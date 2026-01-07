@@ -47,9 +47,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Hughes again? Put him through. It's me. I won't listen if you're going to be bragging about your daughter. *...* Hughes? Hughes... Hey! Hughes! Hughes!!"</i>
-    <br>— Roy Mustang (Fullmetal Alchemist)
+    <i>"Even if the world doesn't accept you, I'll always be right by your side!"</i>
+    <br>— Tendou Kisara (Black Bullet)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/blackbullet2/images/f/f4/Kisara_T.png/revision/latest?cb=20131228181917" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
