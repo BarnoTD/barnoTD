@@ -16,8 +16,8 @@
 <a href="https://x.com/barnoTD" target="_blank" rel="noopener">
   <img 
     align="center" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1024px-X_icon_2.svg.png" 
-    alt="" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" 
+    alt="twitter" 
     height="40" 
     width="40" 
   />
