@@ -20,7 +20,6 @@
     alt="" 
     height="40" 
     width="40" 
-    style="filter: brightness(0) saturate(100%) invert(28%) sepia(57%) saturate(1964%) hue-rotate(215deg) brightness(104%) contrast(102%);"
   />
 </a></p>
 
