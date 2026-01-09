@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Ah, that's right. Me hating that her hard work wouldn't be rewarded was just my secondary reason. My motivation was actually much simpler-- from the first time I met this girl, I just wanted to see her smiling face."</i>
-    <br>— Yoshii Akihisa (Baka to Test to Shoukanjuu)
+    <i>"Something this, something that--jeez you're annoying. (to Yuki)"</i>
+    <br>— Sohma Rin (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bakatotest/images/4/4d/Akihisa_Full.png/revision/latest?cb=20140426103948" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
