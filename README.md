@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Something this, something that--jeez you're annoying. (to Yuki)"</i>
-    <br>— Sohma Rin (Fruits Basket)
+    <i>"But the truth is merely the majority of the living. It only revolves around their choices and actions and nothing more."</i>
+    <br>— Karoku Arumerita (Karneval)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/karneval/images/1/14/Karuko.jpg/revision/latest?cb=20210328181805" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
