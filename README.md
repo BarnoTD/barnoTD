@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Gintoki, will you take up your sword once again to cleanse this rotting nation? Lend me the strength of the fearsome white demon once again. [flashback to when they were fighting together] Is this it? Rather than falling into enemy hands, we should kill ourselves and die as warriors."</i>
-    <br>— Kotarō Katsura (Gintama)
+    <i>"A normal detective eavesdrops, goes on stakeouts, and gathers information by foot to find out what they're looking for. But a NEET detective can search the world over to find the truth without stepping out of their room!"</i>
+    <br>— Shionji Yuuko (Kamisama No Memochou)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gintama/images/4/48/Fe1239f8449a828cd098be027e3a2818.jpg/revision/latest?cb=20170307061550" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kamisamanomemocho/images/1/13/120047.jpg/revision/latest?cb=20201223223608" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
