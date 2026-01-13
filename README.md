@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A normal detective eavesdrops, goes on stakeouts, and gathers information by foot to find out what they're looking for. But a NEET detective can search the world over to find the truth without stepping out of their room!"</i>
-    <br>— Shionji Yuuko (Kamisama No Memochou)
+    <i>"What is right? What is wrong? In this mixed up world, deciding what is right and wrong is not easy. You can't just go by somebody else's rules. If you let yourself be controlled like that, you'll just become a puppet that can't make decisions on it's own. You have to live by your rules."</i>
+    <br>— Gintoki Sakata (Gintama)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kamisamanomemocho/images/1/13/120047.jpg/revision/latest?cb=20201223223608" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/46/GintokiSakata.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
