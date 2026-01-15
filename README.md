@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If the truth is a cruel mistress, then a lie must be a nice girl."</i>
-    <br>— Hachiman Hikigaya (Yahari Ore No Seishun Love Come Wa Machigatteiru)
+    <i>"To me, Kawai-san is like a mirror. A mirror that reflects all the bad parts about you. A devil-like mirror that contaminates your heart."</i>
+    <br>— Yuusuke Kanda (Akuma To Love Song)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/3/30/Hachiman_S3E1_cropped.jpg/revision/latest?cb=20200614211931" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/A_Devil_and_Her_Love_Song_v01.jpg/250px-A_Devil_and_Her_Love_Song_v01.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
