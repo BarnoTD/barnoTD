@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"To me, Kawai-san is like a mirror. A mirror that reflects all the bad parts about you. A devil-like mirror that contaminates your heart."</i>
-    <br>— Yuusuke Kanda (Akuma To Love Song)
+    <i>"I yearn for true gender equality. I have no patience for one who talks about female privilege when it suits them, and then complains about someone "not being a man" when it's convenient."</i>
+    <br>— Kazuma Satou (Kono Subarashii Sekai ni Shukufuku wo!)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/A_Devil_and_Her_Love_Song_v01.jpg/250px-A_Devil_and_Her_Love_Song_v01.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
