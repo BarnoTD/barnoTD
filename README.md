@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I yearn for true gender equality. I have no patience for one who talks about female privilege when it suits them, and then complains about someone "not being a man" when it's convenient."</i>
-    <br>— Kazuma Satou (Kono Subarashii Sekai ni Shukufuku wo!)
+    <i>"If you believe it was destined to happen it is most likely to happen, if you believe nothing has been decided then most likely nothing has been decided."</i>
+    <br>— Yuuko Ichihara (xxxHOLiC)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Kazuma_Sato.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/YukoIchihara.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
