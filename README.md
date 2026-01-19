@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Justice is a weapon. It can be used to cause harm, but it cannot protect or save others."</i>
-    <br>— Osamu Dazai (Bungou Stray Dogs)
+    <i>"[clenches Fist] No matter how intelligent or how strong they are still nothing but vampire trash."</i>
+    <br>— Integra Hellsing (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bungostraydogs/images/2/27/Osamu_Dazai_%282023_Anime%29.png/revision/latest?cb=20220806010318" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/5/58/Integra_Hellsing.png/revision/latest?cb=20240220141728&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
