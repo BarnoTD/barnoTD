@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Mankind's greatest fear is Mankind itself."</i>
-    <br>— Gendou Ikari (Neon Genesis Evangelion)
+    <i>"Everyone thinks at some point if what they are doing has any meaning or not. Will the day come when I get what's coming to me, or not? How much influence does my existence have on the world at all, or doesn't it?"</i>
+    <br>— William Macbeth (Kekkai Sensen)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/18/Gendo_Ikari.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kekkai-sensen/images/7/71/Black.png/revision/latest?cb=20150519184247" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
