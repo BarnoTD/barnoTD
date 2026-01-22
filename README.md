@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Everyone thinks at some point if what they are doing has any meaning or not. Will the day come when I get what's coming to me, or not? How much influence does my existence have on the world at all, or doesn't it?"</i>
-    <br>— William Macbeth (Kekkai Sensen)
+    <i>"What repulsive creature makes my eardrums bleed?"</i>
+    <br>— Hiei (Yu Yu Hakusho)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kekkai-sensen/images/7/71/Black.png/revision/latest?cb=20150519184247" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/characterprofile/images/a/ac/Hiei.png/revision/latest?cb=20160206192316" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
