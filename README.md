@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"What repulsive creature makes my eardrums bleed?"</i>
-    <br>— Hiei (Yu Yu Hakusho)
+    <i>"An angel? So Whis is an angel? But he’s got no wings, and his butt’s not hanging out."</i>
+    <br>— Goku (Dragon Ball Z)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/characterprofile/images/a/ac/Hiei.png/revision/latest?cb=20160206192316" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20250723190513" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
