@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"An angel? So Whis is an angel? But he’s got no wings, and his butt’s not hanging out."</i>
-    <br>— Goku (Dragon Ball Z)
+    <i>"Gin-san, aren't you gonna make fun of me? Are you just gonna ignore me?!"</i>
+    <br>— Sarutobi Ayame (Gintama)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest?cb=20250723190513" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gintama/images/c/c9/Sacchan_face.jpg/revision/latest/scale-to-width/360?cb=20251022033015" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
