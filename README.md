@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Gin-san, aren't you gonna make fun of me? Are you just gonna ignore me?!"</i>
-    <br>— Sarutobi Ayame (Gintama)
+    <i>"I am not so noble that I would stake my life for someone else. Nor am I so forgiving that I would sit by and allow someone to trample me. I am selfish... and self righteous human being! That's why! I... to clear my own shame... I used your power. Not for anyone else! But for myself!"</i>
+    <br>— Ciel Phantomhive (Kuroshitsuji)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gintama/images/c/c9/Sacchan_face.jpg/revision/latest/scale-to-width/360?cb=20251022033015" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://kuroshitsuji.wiki.gg/images/513_Ciel_with_work.png?92b46d" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
