@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I am not so noble that I would stake my life for someone else. Nor am I so forgiving that I would sit by and allow someone to trample me. I am selfish... and self righteous human being! That's why! I... to clear my own shame... I used your power. Not for anyone else! But for myself!"</i>
-    <br>— Ciel Phantomhive (Kuroshitsuji)
+    <i>"Little man! Don't talk small , and say your goal is to become like me. You should become a master of your own game."</i>
+    <br>— Masahiro (Whistle!)
   </blockquote>
-  <img src="https://kuroshitsuji.wiki.gg/images/513_Ciel_with_work.png?92b46d" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/I/91WPCkBTxeS._UF1000,1000_QL80_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
