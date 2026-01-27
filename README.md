@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Little man! Don't talk small , and say your goal is to become like me. You should become a master of your own game."</i>
-    <br>— Masahiro (Whistle!)
+    <i>"I'm the only one who can bear the full brunt of your hate! It's my job, no one else's! I'll bear the burden of your hatred... and we'll die together!"</i>
+    <br>— Naruto Uzumaki (Naruto)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/I/91WPCkBTxeS._UF1000,1000_QL80_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/the-ultimate-good/images/e/ea/Naruto.png/revision/latest?cb=20230417200003" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
