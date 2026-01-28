@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm the only one who can bear the full brunt of your hate! It's my job, no one else's! I'll bear the burden of your hatred... and we'll die together!"</i>
-    <br>— Naruto Uzumaki (Naruto)
+    <i>"Oh, no! Wrong way! I want my mom!"</i>
+    <br>— Hikari (Pokémon)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/the-ultimate-good/images/e/ea/Naruto.png/revision/latest?cb=20230417200003" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/pokemon/images/3/3a/Dawn_anime_Diamond_and_Pearl.png/revision/latest?cb=20220608161436" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
