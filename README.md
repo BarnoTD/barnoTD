@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Oh, no! Wrong way! I want my mom!"</i>
-    <br>— Hikari (Pokémon)
+    <i>"I'll enjoy shaving you to death."</i>
+    <br>— Kisame Hoshigaki (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/pokemon/images/3/3a/Dawn_anime_Diamond_and_Pearl.png/revision/latest?cb=20220608161436" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/f/f7/Kisame_Hoshigaki_full.png/revision/latest?cb=20160304061903" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
