@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'll enjoy shaving you to death."</i>
-    <br>— Kisame Hoshigaki (Naruto)
+    <i>"Athrun! Show us that same spirit that made you defy orders!"</i>
+    <br>— Miguel Aiman (Mobile Suit Gundam Seed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/f/f7/Kisame_Hoshigaki_full.png/revision/latest?cb=20160304061903" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gundam/images/3/39/MSGS-Miguel.png/revision/latest?cb=20210820180128" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
