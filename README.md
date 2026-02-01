@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Athrun! Show us that same spirit that made you defy orders!"</i>
-    <br>— Miguel Aiman (Mobile Suit Gundam Seed)
+    <i>"I do not think humans are foolish. I have respect for people who live fulfilled lives."</i>
+    <br>— Decim (Death Parade)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gundam/images/3/39/MSGS-Miguel.png/revision/latest?cb=20210820180128" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/death-parade/images/9/9d/Decimhead.jpg/revision/latest/scale-to-width/360?cb=20150124175133" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
