@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"My existence was nothing more to her than a stone by the side of the road. I wasn't enough to fill her belly. Or perhaps I didn't even get reflected in her eyes. I couldn't even hate the beast that killed Teresa. It was me, overcome by fear, that I could not forgive."</i>
-    <br>— Clare (Claymore)
+    <i>"Just consider hardships as another part of training and keep working hard."</i>
+    <br>— Klein (Sword Art Online)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/claymore/images/d/d8/Clare_Profile.png/revision/latest?cb=20140430195629" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/2/2e/Cfb2438014a98b20a1e4b2e99b3c44f7.png/revision/latest/scale-to-width-down/552?cb=20190513035154" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
