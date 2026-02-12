@@ -23,10 +23,10 @@ jobs:
 
           # ── 1. Random quote ----------------------------------------------------
           QUOTE_JSON=$(curl -fsSL --retry 3 --retry-delay 3 \
-                       "https://yurippe.vercel.app/api/quotes?random=1")
-          TEXT=$(echo "$QUOTE_JSON" | jq -r '.[0].quote')
-          CHAR=$(echo "$QUOTE_JSON" | jq -r '.[0].character')
-          ANIME=$(echo "$QUOTE_JSON" | jq -r '.[0].show')
+                       "https://api.animechan.io/v1/quotes/random")
+          TEXT=$(echo "$QUOTE_JSON" | jq -r '.data.content')
+          CHAR=$(echo "$QUOTE_JSON" | jq -r '.data.character.name')
+          ANIME=$(echo "$QUOTE_JSON" | jq -r '.data.anime.name')
 
           # ── 2. Google-Image via SerpAPI (GET query) ---------------------------
           SEARCH_Q="$(printf '%s' "${CHAR} ${ANIME}" | jq -sRr @uri)"
