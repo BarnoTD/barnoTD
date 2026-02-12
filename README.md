@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Just consider hardships as another part of training and keep working hard."</i>
-    <br>— Klein (Sword Art Online)
+    <i>"In the end the shape and form don't matter at all, it's only the soul that matters right? Nothing else."</i>
+    <br>— Soul Evans (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/2/2e/Cfb2438014a98b20a1e4b2e99b3c44f7.png/revision/latest/scale-to-width-down/552?cb=20190513035154" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/9/9c/Soul_Evans_Render.png/revision/latest?cb=20170824224756&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
