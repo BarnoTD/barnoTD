@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If the pride of a senshi means hurting each other, I don't want it. Nothing will come out of fighting. Fighting isn't the only way to solve things."</i>
-    <br>— Usagi Tsukino (Sailor Moon)
+    <i>"[to Ichigo] Try to stay alive, okay? That way, you and Kenny can play again some day!"</i>
+    <br>— Kusajishi Yachiru (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/sailormoon/images/e/e1/Usagi_Tsukino_Sailor_Moon_-_Anime.png/revision/latest?cb=20210217021645" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://www.bleach-bravesouls.com/assets/img/character/appearance/02/character_yachiru_01.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
