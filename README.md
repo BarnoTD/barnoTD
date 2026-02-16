@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Courage is a word of justice. It means the quality of mind that enables one to face apprehension with confidence and resolution. It is not right to use it as an excuse to kill someone."</i>
-    <br>— Ran Mouri (Case Closed)
+    <i>"*to Haruhi* Are you a moron?"</i>
+    <br>— Kyon (The Melancholy of Haruhi Suzumiya)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/caseclosed/images/b/b6/Ran_Mouri_%28Transparent%29.png/revision/latest/scale-to-width/360?cb=20220712035707" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/e/ec/Kyon.png/revision/latest?cb=20190111075750" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
