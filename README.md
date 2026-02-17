@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"*to Haruhi* Are you a moron?"</i>
-    <br>— Kyon (The Melancholy of Haruhi Suzumiya)
+    <i>"I was, I am, and I remain a soldier, sworn to devote my heart and soul to the restoration of humankind. There is no greater glory than dying for that belief!"</i>
+    <br>— Armin Arlert (Attack on Titan)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/e/ec/Kyon.png/revision/latest?cb=20190111075750" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png/revision/latest?cb=20231105180006" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
