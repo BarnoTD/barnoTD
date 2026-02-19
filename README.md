@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Assassination- It’s the family trade. We all take it up. My folks see me as an exceptional prospect. But I don’t see that I should have to live up to their expectations."</i>
-    <br>— Killua Zoldyck (Hunter x Hunter)
+    <i>"Anything at all. Just this once I'll fulfil whatever your wish is. Whether is world conquest, or eternal life, or to defeat the saiyans that are coming to earth."</i>
+    <br>— Senjougahara Hitagi (Bakemonogatari)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/p__/images/7/7c/Killua-2011.png/revision/latest?cb=20160215183628&path-prefix=protagonist" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bakemonogatari1645/images/f/fb/Senjou_owari.jpg/revision/latest?cb=20170201065428" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
