@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A barbarian punches someone when he feels like it, a soldier attacks when it's time to attack, and Ikta Solork says everything he wants whenever he wants to say it."</i>
-    <br>— Ikta Solork (Alderamin on the Sky)
+    <i>"Ichigo...I know this is shameful, but I'm begging you -- Rukia...Please save Rukia!!"</i>
+    <br>— Abarai Renji (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/alderamin/images/6/63/Ikta-AN-Prv.png/revision/latest/scale-to-width/360?cb=20160701064800" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/RenjiAbaraiKubo.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
