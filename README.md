@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Ichigo...I know this is shameful, but I'm begging you -- Rukia...Please save Rukia!!"</i>
-    <br>— Abarai Renji (Bleach)
+    <i>"When I told him my feelings, he understood. When I said I wasn't lying, he believed me."</i>
+    <br>— Sawako Kuronuma (Kimi ni Todoke: From Me to You)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/RenjiAbaraiKubo.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRdl476JGrVPdUwQVrW5_FiqF0CRfGdLM7d9cEydOVEZlyVNpiptTFUWvSKkQZ6QVcNt2Qx9qMRIPP1lzSE70vWQkPD5sA85-PES.jpg?r=027" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
