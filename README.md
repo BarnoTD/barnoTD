@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When I told him my feelings, he understood. When I said I wasn't lying, he believed me."</i>
-    <br>— Sawako Kuronuma (Kimi ni Todoke: From Me to You)
+    <i>"I envy you just for having someone who's worried about you."</i>
+    <br>— Mayu (Elfen Lied)
   </blockquote>
-  <img src="https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRdl476JGrVPdUwQVrW5_FiqF0CRfGdLM7d9cEydOVEZlyVNpiptTFUWvSKkQZ6QVcNt2Qx9qMRIPP1lzSE70vWQkPD5sA85-PES.jpg?r=027" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/elfen-lied/images/2/2f/MayuFace.jpg/revision/latest?cb=20110306201917" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
