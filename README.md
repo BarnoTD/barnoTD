@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I envy you just for having someone who's worried about you."</i>
-    <br>— Mayu (Elfen Lied)
+    <i>"Fulfilled people are just an urban legend."</i>
+    <br>— Shiro (No Game, No Life)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/elfen-lied/images/2/2f/MayuFace.jpg/revision/latest?cb=20110306201917" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/no-game-no-life/images/d/dc/Shiro_Anime_HQ.png/revision/latest?cb=20210523001016" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
