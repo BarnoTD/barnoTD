@@ -5,7 +5,7 @@
   <pre>
     💼 BSBA @ TBS • Information Technology
     💻 App/Web dev languages • DevOps 
-    📖 Software Development
+    📖 iOS Develeoper - 1+ year experience
     🎮 Music • Indie Games • Anime • Code • Art
     🏋️ Gym • MUN events
   </pre>
@@ -24,7 +24,7 @@
 </a></p>
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Technologies I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
