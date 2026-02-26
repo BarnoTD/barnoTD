@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Okay, I'll talk! Take the elevator to see my boss!"</i>
-    <br>— Rocket Grunt (Pokémon)
+    <i>"Evil doesn't always seep out. It's possible to hide it if you’re careful and skilled."</i>
+    <br>— Dog (Blood-C)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/pokemon/images/4/44/Team_Rocket_Grunts_HeartGold_and_SoulSilver.png/revision/latest/scale-to-width-down/2327?cb=20240818124823" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bloodc/images/2/22/Dog.jpg/revision/latest?cb=20120322162505" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
