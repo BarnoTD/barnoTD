@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Evil doesn't always seep out. It's possible to hide it if you’re careful and skilled."</i>
-    <br>— Dog (Blood-C)
+    <i>"The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong."</i>
+    <br>— Tobio Kageyama (Haikyu!!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bloodc/images/2/22/Dog.jpg/revision/latest?cb=20120322162505" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/petstarplanet-ultimate-fanon/images/3/3d/Tobio_Kageyama.png/revision/latest?cb=20210605183304" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
