@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong."</i>
-    <br>— Tobio Kageyama (Haikyu!!)
+    <i>"You were ready to kill another creature, yet you’re scared of being killed yourself. Don’t you think that is strange? When you point a gun at a living thing… this is what that act means."</i>
+    <br>— Kurumi Tokisaki (Date A Live)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/petstarplanet-ultimate-fanon/images/3/3d/Tobio_Kageyama.png/revision/latest?cb=20210605183304" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/date-a-live/images/6/6c/Raizen_Uniform_Kurumi.jpg/revision/latest?cb=20140117110038" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
