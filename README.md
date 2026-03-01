@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You were ready to kill another creature, yet you’re scared of being killed yourself. Don’t you think that is strange? When you point a gun at a living thing… this is what that act means."</i>
-    <br>— Kurumi Tokisaki (Date A Live)
+    <i>"Damn it, I really don't want to follow her to hell... Looks like I'll just have to pull her out of it!"</i>
+    <br>— Kamijou Touma (A Certain Magical Index)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/date-a-live/images/6/6c/Raizen_Uniform_Kurumi.jpg/revision/latest?cb=20140117110038" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Toma_Kamijo_Anime.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
