@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Damn it, I really don't want to follow her to hell... Looks like I'll just have to pull her out of it!"</i>
-    <br>— Kamijou Touma (A Certain Magical Index)
+    <i>"Inability to overcome fear is human."</i>
+    <br>— Yun (Yona of the Dawn)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Toma_Kamijo_Anime.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/akatsukinoyona/images/8/83/Yoon_Appearance.png/revision/latest?cb=20141210013611" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
