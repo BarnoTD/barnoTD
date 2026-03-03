@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Inability to overcome fear is human."</i>
-    <br>— Yun (Yona of the Dawn)
+    <i>"My problem is probably that I don’t have any confidence about anything I do. Even if the thing I want most is right in front of me, I can’t help but imagine a future where I’m being rejected by it. I’m scared of getting hurt, so I run away from the people I love. What a good-for-nothing loser."</i>
+    <br>— Shōta Kisa (Sekai Ichi Hatsukoi - World's Greatest First Love)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/akatsukinoyona/images/8/83/Yoon_Appearance.png/revision/latest?cb=20141210013611" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/sekaiichi/images/4/4e/Tumblr_lva0p12gHF1r3905ho1_500.png/revision/latest?cb=20140605102933" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
