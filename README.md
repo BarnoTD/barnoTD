@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"My problem is probably that I don’t have any confidence about anything I do. Even if the thing I want most is right in front of me, I can’t help but imagine a future where I’m being rejected by it. I’m scared of getting hurt, so I run away from the people I love. What a good-for-nothing loser."</i>
-    <br>— Shōta Kisa (Sekai Ichi Hatsukoi - World's Greatest First Love)
+    <i>"A way for the weak to stay weak, but still defeat the strong. A way to stay who you are but surpass your limits. To soar through the sky, even if you can't fly. He's always found a way, inside despair, suffering and darkness."</i>
+    <br>— Kurami Zell (No Game, No Life)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/sekaiichi/images/4/4e/Tumblr_lva0p12gHF1r3905ho1_500.png/revision/latest?cb=20140605102933" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/no-game-no-life/images/7/77/Chlammy_Anime_HQ.png/revision/latest?cb=20210523001235" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
