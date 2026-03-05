@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A way for the weak to stay weak, but still defeat the strong. A way to stay who you are but surpass your limits. To soar through the sky, even if you can't fly. He's always found a way, inside despair, suffering and darkness."</i>
-    <br>— Kurami Zell (No Game, No Life)
+    <i>"Life isn't that sweet. That's why everyone wants sweet things."</i>
+    <br>— Undertaker (Black Butler)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/no-game-no-life/images/7/77/Chlammy_Anime_HQ.png/revision/latest?cb=20210523001235" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://kuroshitsuji.wiki.gg/images/512_The_Undertaker.png?b0b111" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
