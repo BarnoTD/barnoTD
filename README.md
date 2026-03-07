@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Kakarot, you’re quite impressive. I never stood a chance against Buu, you’re the only one who can fight him. I think I finally understand how a genius like myself can’t surpass you. I thought it was because you had something to protect. I thought your drive to protect allowed you to take advantage of your capabilities… this may have been a reason, but not I too have this drive. I fought to do as I wished, because it was fun to kill my enemies and feed my pride. But he’s different, he fights not to win but because he absolutely won’t lose, causing him to break his limits and he really doesn’t care who his opponent is. So when he didn’t kill me, it was because he saw I could care for others, like I do now… Go Kakarot, you’re number one!"</i>
-    <br>— Vegeta (Dragon Ball Z)
+    <i>"So she knows how to smile."</i>
+    <br>— Kento Miura (Kimi ni Todoke: From Me to You)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dragonballfighterz/images/4/4f/Vegeta_Artwork.png/revision/latest?cb=20180902173806" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kiminitodoke/images/a/a1/KentoMiura3.png/revision/latest?cb=20110319055400" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
