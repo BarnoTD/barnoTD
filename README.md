@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The truth is, there are no lives that are nothing but pretty."</i>
-    <br>— Nona (Death Parade)
+    <i>"It's not a crime! Caring about your friends is not a crime!"</i>
+    <br>— Lucy Heartfilia (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/death-parade/images/d/d5/NonaProfile.jpg/revision/latest/scale-to-width/360?cb=20150607055752" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
