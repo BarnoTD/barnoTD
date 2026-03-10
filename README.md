@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's not a crime! Caring about your friends is not a crime!"</i>
-    <br>— Lucy Heartfilia (Fairy Tail)
+    <i>"Did you not understand? All dreams eventually disappear when the dreamers wake."</i>
+    <br>— Gilgamesh (Fate/Zero)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/9/9c/Lucy_X792_image.png/revision/latest?cb=20190106110751" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/the-ultimate-evil/images/7/72/Gilgamesh_Fate_WebP_Image.webp/revision/latest?cb=20241217012703" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
