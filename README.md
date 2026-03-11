@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Did you not understand? All dreams eventually disappear when the dreamers wake."</i>
-    <br>— Gilgamesh (Fate/Zero)
+    <i>"You know, when I was in high school, I was a troublemaker. I hardly went to school. Before I knew it, I was expelled. When I couldn't go anymore, was when I first realized, that school was a great thing. There's a lot of friends and lots of fun things. When I got this old, I wanted even more to go to school. That's why I became a teacher. Because, if I become a teacher, I could stay in school until I die, right? That's why I'm really happy now. I want you to be like that too. I want you to like school. Once it's over, it's too late."</i>
+    <br>— Eikichi Onizuka (Great Teacher Onizuka)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/the-ultimate-evil/images/7/72/Gilgamesh_Fate_WebP_Image.webp/revision/latest?cb=20241217012703" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/GTO_volume_1.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
