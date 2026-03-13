@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[Fuu passed out after one drink and is asleep] Sleeping so carelessly. I could do something to you so easily."</i>
-    <br>— Mugen (Samurai Champloo)
+    <i>"My role is to darken souls, even pure ones, until they become pitch black. By doing so, you can stay beautiful and shine bright, Mother. I do everything because of my love for you."</i>
+    <br>— Sakuya Tougane (Psycho-Pass 2)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/champloo/images/3/3c/Mugen.jpg/revision/latest?cb=20240723190936" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/psychopass/images/3/32/TV2_Togane_Infobox.jpg/revision/latest/scale-to-width-down/1200?cb=20221002152000" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
