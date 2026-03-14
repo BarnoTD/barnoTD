@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"My role is to darken souls, even pure ones, until they become pitch black. By doing so, you can stay beautiful and shine bright, Mother. I do everything because of my love for you."</i>
-    <br>— Sakuya Tougane (Psycho-Pass 2)
+    <i>"Don't judge people from the outside. Like any rose has thorns, the more the person appears nice on the outside, the more you should doubt the inside."</i>
+    <br>— Ai Haibara (Case Closed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/psychopass/images/3/32/TV2_Togane_Infobox.jpg/revision/latest/scale-to-width-down/1200?cb=20221002152000" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://www.detectiveconanworld.com/wiki/images/thumb/4/4f/Ai_Haibara_Profile.png/275px-Ai_Haibara_Profile.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
