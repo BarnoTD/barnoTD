@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Don't judge people from the outside. Like any rose has thorns, the more the person appears nice on the outside, the more you should doubt the inside."</i>
-    <br>— Ai Haibara (Case Closed)
+    <i>"Studying was fun. I enjoyed solving problems quickly, and I was rewarded for the effort I put in. Studying made me feel complete."</i>
+    <br>— Shizuku Mizutani (My Little Monster)
   </blockquote>
-  <img src="https://www.detectiveconanworld.com/wiki/images/thumb/4/4f/Ai_Haibara_Profile.png/275px-Ai_Haibara_Profile.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/8/88/Shizukum.jpg/revision/latest?cb=20150926144049" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
