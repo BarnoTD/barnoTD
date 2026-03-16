@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Studying was fun. I enjoyed solving problems quickly, and I was rewarded for the effort I put in. Studying made me feel complete."</i>
-    <br>— Shizuku Mizutani (My Little Monster)
+    <i>"You are a fool who creates slaves to do your dirty work. A coward and an incompetent, incapable of doing anything on your own. You are not worthy of the lowest pits of Hell!"</i>
+    <br>— Alucard (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/8/88/Shizukum.jpg/revision/latest?cb=20150926144049" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/characterprofile/images/5/5e/Alucard_Hellsing.png/revision/latest?cb=20160613171956" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
