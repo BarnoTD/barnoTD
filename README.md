@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You are a fool who creates slaves to do your dirty work. A coward and an incompetent, incapable of doing anything on your own. You are not worthy of the lowest pits of Hell!"</i>
-    <br>— Alucard (Hellsing)
+    <i>"People like us aren't qualified to be involved in a dramatic incident such as a suicide. No matter how depressed you are or how much pain you're in, you have to return to your routine, daily life. Even if you don't come back, you'll just end up dying in vain. A dramatic death isn't befitting of us."</i>
+    <br>— Kaoru Yamazaki (Welcome to the N.H.K.)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/characterprofile/images/5/5e/Alucard_Hellsing.png/revision/latest?cb=20160613171956" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/welcometothenhk/images/3/39/Yamazaki_manga.png/revision/latest?cb=20250811221546" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
