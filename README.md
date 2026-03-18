@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People like us aren't qualified to be involved in a dramatic incident such as a suicide. No matter how depressed you are or how much pain you're in, you have to return to your routine, daily life. Even if you don't come back, you'll just end up dying in vain. A dramatic death isn't befitting of us."</i>
-    <br>— Kaoru Yamazaki (Welcome to the N.H.K.)
+    <i>"...Who decided a student can't win against a teacher?!"</i>
+    <br>— Kouta Tsuchiya (Baka & Test - Summon the Beasts)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/welcometothenhk/images/3/39/Yamazaki_manga.png/revision/latest?cb=20250811221546" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bakatotest/images/7/7a/Shoukanjuu-kouta.png/revision/latest?cb=20140323074259" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
