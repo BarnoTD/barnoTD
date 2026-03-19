@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"...Who decided a student can't win against a teacher?!"</i>
-    <br>— Kouta Tsuchiya (Baka & Test - Summon the Beasts)
+    <i>"Resignation is what kills people. Once they've rejected resignation, humans gain the privilege of making humanity their footpath."</i>
+    <br>— Alucard (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bakatotest/images/7/7a/Shoukanjuu-kouta.png/revision/latest?cb=20140323074259" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/characterprofile/images/5/5e/Alucard_Hellsing.png/revision/latest?cb=20160613171956" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
