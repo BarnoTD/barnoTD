@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There are three things I hate the most: Kids, pets, and women with attitude. So tell me, why do we have all of them packed into our ship!?"</i>
-    <br>— Spike Spiegel (Cowboy Bebop)
+    <i>"When pressured, people tend to choose the decision that is best fitted to the situation, but they usually realize later on, that it was a mistake."</i>
+    <br>— Tezuka Kunimitsu (Prince Of Tennis)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Spike_Spiegel_as_drawn_by_the_creators.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/49/KunimitsuTezuka.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
