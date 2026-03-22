@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When pressured, people tend to choose the decision that is best fitted to the situation, but they usually realize later on, that it was a mistake."</i>
-    <br>— Tezuka Kunimitsu (Prince Of Tennis)
+    <i>"I yearn for you more than anyone else. I love you Akito... And that is the irrevocable unwavering truth.(shigures answer to akitos question "do you like me?" during a child hood flashback)"</i>
+    <br>— Sohma Shigure (Fruits Basket)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/49/KunimitsuTezuka.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/70/Shigure_-_Full_Body.png/revision/latest?cb=20190324062055" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
