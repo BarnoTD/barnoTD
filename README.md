@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I yearn for you more than anyone else. I love you Akito... And that is the irrevocable unwavering truth.(shigures answer to akitos question "do you like me?" during a child hood flashback)"</i>
-    <br>— Sohma Shigure (Fruits Basket)
+    <i>"I'm sure that the boy I killed, who shared that skill, must also have grown up knowing the pain of which I speak. We are special. We are powerful. And we are feared."</i>
+    <br>— Haku (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/70/Shigure_-_Full_Body.png/revision/latest?cb=20190324062055" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/3/35/Haku%27s_shinobi_attire.png/revision/latest/scale-to-width-down/1200?cb=20160610212143" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
