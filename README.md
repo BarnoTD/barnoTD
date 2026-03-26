@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I know no one expects much from me! And I know better than anyone how useless a C Class hero is! I know I'm too weak even for B Class! I know more than anyone else that I'll never beat you! But I must fight you anyway! I'm the only one left! It's not about winning or losing! I just have to stand here and face you!"</i>
-    <br>— Mumen Rider (One Punch Man)
+    <i>"[To Kyo] Seriously... Must you break something every time you come home? When are you going to learn? You're too weak."</i>
+    <br>— Sohma Yuki (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepunchman/images/d/d5/Mumen_Rider_Anime_Profile.png/revision/latest?cb=20191116234148" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://64.media.tumblr.com/ae95a179363271d9debc2fa0480319f4/01f47711800c11ca-c9/s540x810/1f2d15a415aafd88395bf26a3278b787edf2e548.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
