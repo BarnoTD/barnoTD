@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[To Kyo] Seriously... Must you break something every time you come home? When are you going to learn? You're too weak."</i>
-    <br>— Sohma Yuki (Fruits Basket)
+    <i>"A woman's happiness is in throwing everything away to live for love."</i>
+    <br>— Daisuke Yamamoto (Paradise Kiss)
   </blockquote>
-  <img src="https://64.media.tumblr.com/ae95a179363271d9debc2fa0480319f4/01f47711800c11ca-c9/s540x810/1f2d15a415aafd88395bf26a3278b787edf2e548.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BNTE1YTljOTItMTdkNC00M2I5LWFkODUtMjVlYjI1MmQ5ZjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
