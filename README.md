@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A woman's happiness is in throwing everything away to live for love."</i>
-    <br>— Daisuke Yamamoto (Paradise Kiss)
+    <i>"Talent is something you make bloom, instinct is something you polish."</i>
+    <br>— Tooru Oikawa (Haikyu!!)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BNTE1YTljOTItMTdkNC00M2I5LWFkODUtMjVlYjI1MmQ5ZjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/6/6f/Toru_oikawa.png/revision/latest/scale-to-width-down/340?cb=20190313104925" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
