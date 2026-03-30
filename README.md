@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It can't be helped, if there's nothing you can do, then there's nothing else you can do."</i>
-    <br>— Tsugumi Seishirou (Nisekoi: False Love)
+    <i>"I'll get what I want... even if I have to steal it."</i>
+    <br>— Rue Kuroha (Princess Tutu)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/nisekoi/images/b/b5/Tsugumi_key_visual.png/revision/latest/scale-to-width-down/340?cb=20150425094922" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/princesstutu/images/3/39/RueFull.png/revision/latest/scale-to-width-down/250?cb=20241208024151" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
