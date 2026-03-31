@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'll get what I want... even if I have to steal it."</i>
-    <br>— Rue Kuroha (Princess Tutu)
+    <i>"Human beings don't feel pain with their bodies. The brain is the thing that transmits the pain to the body."</i>
+    <br>— Madoka Shishito (Deadman Wonderland)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/princesstutu/images/3/39/RueFull.png/revision/latest/scale-to-width-down/250?cb=20241208024151" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/deadmanwonderland/images/8/8d/Shishito_Madoka.png/revision/latest?cb=20110527185135" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
