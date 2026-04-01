@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Human beings don't feel pain with their bodies. The brain is the thing that transmits the pain to the body."</i>
-    <br>— Madoka Shishito (Deadman Wonderland)
+    <i>"Immortality is wasted on the young."</i>
+    <br>— Alucard (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/deadmanwonderland/images/8/8d/Shishito_Madoka.png/revision/latest?cb=20110527185135" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/characterprofile/images/5/5e/Alucard_Hellsing.png/revision/latest?cb=20160613171956" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
