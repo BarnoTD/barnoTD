@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Immortality is wasted on the young."</i>
-    <br>— Alucard (Hellsing)
+    <i>"This area feels weird, it's been throbbing hard since that time. When you told me not to go. When you held me so tight. It won't go away. Your voice is still in my ear. What happened to me? Is this... love?"</i>
+    <br>— Mashiro Shiina (The Pet Girl of Sakurasou)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/characterprofile/images/5/5e/Alucard_Hellsing.png/revision/latest?cb=20160613171956" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/sakurasounopetnakanojo/images/5/5e/Mashiro_Shiina.jpg/revision/latest?cb=20180704204427" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
