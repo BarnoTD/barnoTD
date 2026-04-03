@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"This area feels weird, it's been throbbing hard since that time. When you told me not to go. When you held me so tight. It won't go away. Your voice is still in my ear. What happened to me? Is this... love?"</i>
-    <br>— Mashiro Shiina (The Pet Girl of Sakurasou)
+    <i>"The fact that I’m standing here means that I’m resolved to fight for my guild. I do not need your sympathy. As long as I’m still standing, please come at me with all you’ve got! Please do!"</i>
+    <br>— Wendy Marvell (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/sakurasounopetnakanojo/images/5/5e/Mashiro_Shiina.jpg/revision/latest?cb=20180704204427" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/5/5c/Wendy%27s_image.png/revision/latest?cb=20150703183824" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
