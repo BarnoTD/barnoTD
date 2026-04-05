@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"But the mass we call "world" keeps turning, ignoring our individual desires."</i>
-    <br>— Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)
+    <i>"I've always been asking myself this question. Am I a memory? or is the memory... ME? Are we nothing but a collection of memories?"</i>
+    <br>— Motoharu Yano (We Were There)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/96/Lelouchvibritanniazero.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/18/We_Were_There.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
