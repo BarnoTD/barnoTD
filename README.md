@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I've always been asking myself this question. Am I a memory? or is the memory... ME? Are we nothing but a collection of memories?"</i>
-    <br>— Motoharu Yano (We Were There)
+    <i>"As long as it's for the right cause, there's nothing wrong with playing dirty."</i>
+    <br>— Kureo Mado (Tokyo Ghoul)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/18/We_Were_There.jpg" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/villains/images/6/6b/Kureo_1.png/revision/latest?cb=20150321050720" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
