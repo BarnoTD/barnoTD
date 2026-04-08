@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"What must triumph here is the knight's path of chivalry that we champion. Is that not so, Heroic Spirit Arturia?"</i>
-    <br>— Lancer (Fate/Zero)
+    <i>"Before creation… must come destruction!"</i>
+    <br>— Beerus (Dragon Ball Z)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fateuniverse/images/1/19/Lancer.jpg/revision/latest?cb=20111103201207" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dragonball/images/7/7d/BeerusWikia_%283%29.jpg/revision/latest/scale-to-width-down/1200?cb=20240224003806" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
