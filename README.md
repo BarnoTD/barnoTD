@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Before creation… must come destruction!"</i>
-    <br>— Beerus (Dragon Ball Z)
+    <i>"Because it has powers that surpass everything, a king must cut off his own desires and never use it."</i>
+    <br>— Durandal Tobari Kumohira (Nabari no Ou)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dragonball/images/7/7d/BeerusWikia_%283%29.jpg/revision/latest/scale-to-width-down/1200?cb=20240224003806" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/nabarinoou/images/1/19/Kumohira.png/revision/latest?cb=20180217012646" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
