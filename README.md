@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Because it has powers that surpass everything, a king must cut off his own desires and never use it."</i>
-    <br>— Durandal Tobari Kumohira (Nabari no Ou)
+    <i>"Exactly when did I say that I do this because I am a shinigami? My killing you is no other reason than the fact that you... Pointed your blade [view shifts to Rukia] at my pride."</i>
+    <br>— Kuchiki Byakuya (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/nabarinoou/images/1/19/Kumohira.png/revision/latest?cb=20180217012646" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/f/f2/686Byakuya_profile.png/revision/latest/scale-to-width/360?cb=20200322080959&path-prefix=en" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
