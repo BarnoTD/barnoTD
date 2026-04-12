@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Alchemy: The science of understanding the structure of matter, breaking it down, then reconstructing it as something else. It can even make gold from lead. But alchemy is a science, so it must follow the natural laws: To create, something of equal value must be lost. This is the principle of Equivalent Exchange. But on that night, I learned the value of some things can't be measured on a simple scale. My brother and I knew the laws of science, of Equivalent Exchange, that gain required sacrifice, that something had to be taken from us. But we thought there was nothing more we could lose. We were wrong."</i>
-    <br>— Edward Elric (Fullmetal Alchemist)
+    <i>"We do not stop playing games because we grow old, we grow old because we stop playing."</i>
+    <br>— Sora (No Game, No Life)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fma/images/b/b4/EdwardManga.png/revision/latest?cb=20250220063707" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/no-game-no-life/images/0/05/Sora_Anime_HQ.png/revision/latest?cb=20210523000927" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
