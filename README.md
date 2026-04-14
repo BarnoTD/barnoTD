@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A day when everything is perfect, when everything will turn into memories, will eventually come.  But I'll probably remember over and over again you were there and everyone else was there. The day we all searched for just one thing."</i>
-    <br>— Yuuta Takemoto (Honey and Clover)
+    <i>"The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society."</i>
+    <br>— All Might (My Hero Academia)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/honeyandclover/images/5/59/Yuta.jpg/revision/latest?cb=20150819002513" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/c/cd/Toshinori_Yagi_Golden_Age_Hero_Costume_%28Anime%29.png/revision/latest?cb=20250602032423" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
