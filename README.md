@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society."</i>
-    <br>— All Might (My Hero Academia)
+    <i>"You're about to find out what it's like to fight a real super saiyan...and I'm not talking about Goku."</i>
+    <br>— Trunks Brief (Dragon Ball)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/c/cd/Toshinori_Yagi_Golden_Age_Hero_Costume_%28Anime%29.png/revision/latest?cb=20250602032423" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/xianb/images/b/ba/Scene_115273.png/revision/latest?cb=20180424155226" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
