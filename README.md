@@ -46,9 +46,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You're about to find out what it's like to fight a real super saiyan...and I'm not talking about Goku."</i>
-    <br>— Trunks Brief (Dragon Ball)
+    <i>"[thinking after Soifon asks why she didn't take her with her] You've gotten stronger since the last time we were together, Soifon."</i>
+    <br>— Shihouin Yoruichi (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/xianb/images/b/ba/Scene_115273.png/revision/latest?cb=20180424155226" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/YoruichiKubo.png" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
