@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You better watch out! I can break your neck!"</i>
-    <br>— Patricia Thompson (Soul Eater)
+    <i>"Remembering something that no one else can is a painful thing. You can’t talk to anyone about it. No one will understand you. You’ll be alone."</i>
+    <br>— Rintaro Okabe (Steins Gate)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/souleater/images/d/df/Patricia_Thompson_%28Manga%29_Profile.png/revision/latest?cb=20201008172958" width="400"style="max-width:100%;height:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/steins-gate/images/2/26/Rintaro_Okabe_Portrait.png/revision/latest?cb=20241112010359" width="400"style="max-width:100%;height:auto;border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
