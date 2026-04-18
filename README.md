@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Remembering something that no one else can is a painful thing. You can’t talk to anyone about it. No one will understand you. You’ll be alone."</i>
-    <br>— Rintaro Okabe (Steins Gate)
+    <i>"I'm worthless garbage who can't even write a straight looking K!"</i>
+    <br>— Death the Kid (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/steins-gate/images/2/26/Rintaro_Okabe_Portrait.png/revision/latest?cb=20241112010359" height="250"style="width:auto;border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/souleater/images/0/0e/Death_the_Kid_%28Pre-Timeskip%29_Profile.png/revision/latest/thumbnail/width/360/height/360?cb=20130626171741" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
