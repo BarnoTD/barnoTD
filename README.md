@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm worthless garbage who can't even write a straight looking K!"</i>
-    <br>— Death the Kid (Soul Eater)
+    <i>"I've never talked to a girl before. I don't know how to handle it."</i>
+    <br>— Crona (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/souleater/images/0/0e/Death_the_Kid_%28Pre-Timeskip%29_Profile.png/revision/latest/thumbnail/width/360/height/360?cb=20130626171741" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/f/fb/Crona_Render.png/revision/latest/scale-to-width-down/302?cb=20200927143238" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
