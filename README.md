@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Loyalty to someone is different from depending on them."</i>
-    <br>— Zaraki Kenpachi (Bleach)
+    <i>"I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."</i>
+    <br>— Roronoa Zoro (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/e/e7/Ep386KenpachiProfile.png/revision/latest/scale-to-width-down/1200?cb=20230921204006&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Roronoa_Zoro.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
