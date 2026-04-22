@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."</i>
-    <br>— Roronoa Zoro (One Piece)
+    <i>"Why torment yourself saying, "Eventually, someday?" How long have you been fighting with your thoughts clouded by that brand of sweet poison?"</i>
+    <br>— Rau Le Creuset (Mobile Suit Gundam SEED)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Roronoa_Zoro.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gundam/images/8/80/MSGS-Rau.png/revision/latest?cb=20210820153448" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
