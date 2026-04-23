@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Why torment yourself saying, "Eventually, someday?" How long have you been fighting with your thoughts clouded by that brand of sweet poison?"</i>
-    <br>— Rau Le Creuset (Mobile Suit Gundam SEED)
+    <i>"If you endure too much, it'll be your loss."</i>
+    <br>— Naruse Kakeru (Orange)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gundam/images/8/80/MSGS-Rau.png/revision/latest?cb=20210820153448" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/orangetakanoichigo/images/2/2b/Kakeru_present_02.png/revision/latest/scale-to-width/360?cb=20160711131539" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
