@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you endure too much, it'll be your loss."</i>
-    <br>— Naruse Kakeru (Orange)
+    <i>"Kyon-kun. If I become ruined for marriage will you take me?"</i>
+    <br>— Mikuru Asahina (The Melancholy of Haruhi Suzumiya)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/orangetakanoichigo/images/2/2b/Kakeru_present_02.png/revision/latest/scale-to-width/360?cb=20160711131539" height="250"style="border-radius:8px;">
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
