@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Kyon-kun. If I become ruined for marriage will you take me?"</i>
-    <br>— Mikuru Asahina (The Melancholy of Haruhi Suzumiya)
+    <i>"I got no intentions of becoming a captain. Becoming a captain would mean that I can't fight under Captain Zaraki. If your wish is to surpass Kuchiki Byakuya... then I just have one wish: to fight and die under that man's command. That's all."</i>
+    <br>— Madarame Ikkaku (Bleach)
   </blockquote>
-  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/5/58/Episode_363_Ikkaku.png/revision/latest/scale-to-width-down/1200?cb=20221226030245&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
