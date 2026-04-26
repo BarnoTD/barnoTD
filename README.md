@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I got no intentions of becoming a captain. Becoming a captain would mean that I can't fight under Captain Zaraki. If your wish is to surpass Kuchiki Byakuya... then I just have one wish: to fight and die under that man's command. That's all."</i>
-    <br>— Madarame Ikkaku (Bleach)
+    <i>"If you can't get along without putting someone else down, it can't be real friendship."</i>
+    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/5/58/Episode_363_Ikkaku.png/revision/latest/scale-to-width-down/1200?cb=20221226030245&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
