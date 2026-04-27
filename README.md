@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you can't get along without putting someone else down, it can't be real friendship."</i>
-    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+    <i>"I'm sorry! I'm sorry, Takashi! I won't forget to brush my teeth again! I won't forget!..."</i>
+    <br>— Mitsukuni Haninozuka (Ouran High School Host Club)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/ouran/images/c/c6/Honey.png/revision/latest?cb=20130627210942" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
