@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm sorry! I'm sorry, Takashi! I won't forget to brush my teeth again! I won't forget!..."</i>
-    <br>— Mitsukuni Haninozuka (Ouran High School Host Club)
+    <i>"You're about to find out what it's like to fight a real super saiyan...and I'm not talking about Goku."</i>
+    <br>— Trunks Brief (Dragon Ball)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/ouran/images/c/c6/Honey.png/revision/latest?cb=20130627210942" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fiction-wrestling-multiverse/images/6/63/Trunks_DBZ.png/revision/latest?cb=20181028223118" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
