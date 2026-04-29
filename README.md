@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You're about to find out what it's like to fight a real super saiyan...and I'm not talking about Goku."</i>
-    <br>— Trunks Brief (Dragon Ball)
+    <i>"Gai...what I said earlier...I was out of line. I was being a self-righteous fool. I realize now that if I'd been in your shoes, I probably couldn't have stopped him, either."</i>
+    <br>— Hatake Kakashi (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fiction-wrestling-multiverse/images/6/63/Trunks_DBZ.png/revision/latest?cb=20181028223118" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/1200?cb=20251019002845" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
