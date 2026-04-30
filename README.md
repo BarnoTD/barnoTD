@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Gai...what I said earlier...I was out of line. I was being a self-righteous fool. I realize now that if I'd been in your shoes, I probably couldn't have stopped him, either."</i>
-    <br>— Hatake Kakashi (Naruto)
+    <i>"Those who do well, respect their chances. Those who pass on chances, may never be presented with that chance again."</i>
+    <br>— Detective Conan (Case Closed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/1200?cb=20251019002845" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Case_Closed_Volume_36.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
