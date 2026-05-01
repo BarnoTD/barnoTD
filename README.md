@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Those who do well, respect their chances. Those who pass on chances, may never be presented with that chance again."</i>
-    <br>— Detective Conan (Case Closed)
+    <i>"If this is all it takes to tear us apart, then maybe we weren't all that close to begin with."</i>
+    <br>— Yukino Yukinoshita (My Teen Romantic Comedy SNAFU TOO!)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Case_Closed_Volume_36.png" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/I/61ew7szPAcL._AC_UF894,1000_QL80_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
