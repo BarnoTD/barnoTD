@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If this is all it takes to tear us apart, then maybe we weren't all that close to begin with."</i>
-    <br>— Yukino Yukinoshita (My Teen Romantic Comedy SNAFU TOO!)
+    <i>"A barbarian punches someone when he feels like it, a soldier attacks when it's time to attack, and Ikta Solork says everything he wants whenever he wants to say it."</i>
+    <br>— Ikta Solork (Alderamin on the Sky)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/I/61ew7szPAcL._AC_UF894,1000_QL80_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/alderamin/images/6/63/Ikta-AN-Prv.png/revision/latest/scale-to-width/360?cb=20160701064800" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
