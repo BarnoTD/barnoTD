@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A barbarian punches someone when he feels like it, a soldier attacks when it's time to attack, and Ikta Solork says everything he wants whenever he wants to say it."</i>
-    <br>— Ikta Solork (Alderamin on the Sky)
+    <i>"Poetry over philosophy. Embroidery rather than cooking. Dance instead of chess. Be an unknowing angel. Every girl born in the country of roses is raised by these three words."</i>
+    <br>— Elizabeth Midford (Black Butler)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/alderamin/images/6/63/Ikta-AN-Prv.png/revision/latest/scale-to-width/360?cb=20160701064800" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/1/1f/73e04e8fa8d8ff754b4b78cde50868a3.png/revision/latest?cb=20181019150652&path-prefix=protagonist" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
