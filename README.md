@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Poetry over philosophy. Embroidery rather than cooking. Dance instead of chess. Be an unknowing angel. Every girl born in the country of roses is raised by these three words."</i>
-    <br>— Elizabeth Midford (Black Butler)
+    <i>"The depths of despair…. I feel so calm here. I won’t be tricked by anyone anymore, and I don’t have to resent anyone. There’s nothing here. Not even loving. Nothing but to keep dancing until I die away."</i>
+    <br>— Rue Kuroha (Princess Tutu)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/p__/images/1/1f/73e04e8fa8d8ff754b4b78cde50868a3.png/revision/latest?cb=20181019150652&path-prefix=protagonist" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/princesstutu/images/3/39/RueFull.png/revision/latest/scale-to-width-down/250?cb=20241208024151" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
