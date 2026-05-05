@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The depths of despair…. I feel so calm here. I won’t be tricked by anyone anymore, and I don’t have to resent anyone. There’s nothing here. Not even loving. Nothing but to keep dancing until I die away."</i>
-    <br>— Rue Kuroha (Princess Tutu)
+    <i>"This is fear. That's good then, I had forgotten what it felt like."</i>
+    <br>— Franken Stein (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/princesstutu/images/3/39/RueFull.png/revision/latest/scale-to-width-down/250?cb=20241208024151" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/souleater/images/a/ad/Franken_Stein_Render.png/revision/latest/scale-to-width-down/446?cb=20141031185938" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
