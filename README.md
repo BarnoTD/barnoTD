@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Every human being thinks different things are right, and different things are wrong. Whether something is normal or not, it is still different for every person. Happiness is the same – everyone has their own definition of it."</i>
-    <br>— Yuuko Ichihara (xxxHOLiC)
+    <i>"Knockin' on Heaven's Door."</i>
+    <br>— TK (Angel Beats!)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/YukoIchihara.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/angelbeats/images/7/75/TK_anime.png/revision/latest?cb=20190414191442" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
