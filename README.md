@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Knockin' on Heaven's Door."</i>
-    <br>— TK (Angel Beats!)
+    <i>"Glory lies beyond the horizon. Challenge it because it is unreachable. Speak of conquest and demonstrate it."</i>
+    <br>— Rider (Fate/Zero)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/7/75/TK_anime.png/revision/latest?cb=20190414191442" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/2/2b/ZeroRider.png/revision/latest?cb=20190220134641" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
