@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Glory lies beyond the horizon. Challenge it because it is unreachable. Speak of conquest and demonstrate it."</i>
-    <br>— Rider (Fate/Zero)
+    <i>"Mongrels though they may be, they're still figures of some slight renown"</i>
+    <br>— Gilgamesh (Fate/Zero)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/2/2b/ZeroRider.png/revision/latest?cb=20190220134641" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/villains/images/d/d9/Gilgamesh_strange_Fake_Infobox.png/revision/latest/scale-to-width-down/1200?cb=20240917132144" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
