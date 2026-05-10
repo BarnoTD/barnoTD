@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Mongrels though they may be, they're still figures of some slight renown"</i>
-    <br>— Gilgamesh (Fate/Zero)
+    <i>"Even if I lose my "voice". Even if everyone else doesn't turn up to hear me sing — as long as you're there, then, that's enough. If it comes to that… I will sing, just for you."</i>
+    <br>— Izayoi Miku (Date A Live)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/villains/images/d/d9/Gilgamesh_strange_Fake_Infobox.png/revision/latest/scale-to-width-down/1200?cb=20240917132144" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/date-a-live/images/d/de/Miku_Normal_Form.png/revision/latest?cb=20140416091252" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
