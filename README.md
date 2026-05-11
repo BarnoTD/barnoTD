@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even if I lose my "voice". Even if everyone else doesn't turn up to hear me sing — as long as you're there, then, that's enough. If it comes to that… I will sing, just for you."</i>
-    <br>— Izayoi Miku (Date A Live)
+    <i>"Every individual must be aware of themselves. If not, those who watch them think fools of themselves."</i>
+    <br>— Fuyumi Irisu (Hyouka)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/date-a-live/images/d/de/Miku_Normal_Form.png/revision/latest?cb=20140416091252" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hyouka/images/f/fc/Fuyumi_Irisu.jpg/revision/latest?cb=20210204102544" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
