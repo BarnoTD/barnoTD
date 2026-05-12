@@ -3,11 +3,10 @@
 ---
 <div align="center">
   <pre>
-    💼 BSBA @ TBS • Information Technology
-    💻 App/Web dev languages • DevOps 
-    📖 iOS Develeoper - 1+ year experience
-    🎮 Music • Indie Games • Anime • Code • Art
-    🏋️ Gym • MUN events
+    Hello There! My name is Firas. I am currently working as a full-time software developer for apple ecosystem.
+    I mainly use Swift specifically SwiftUI Framework, but I occasionally use AppKit and UIKit for niche issues. 
+    I also am eager to learn new technologies, currently playing with ASP.NET for Web API developement.
+    Let's connect on X/Twitter. I always apreciate talking to new developers =)
   </pre>
 </div>
 
