@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Every individual must be aware of themselves. If not, those who watch them think fools of themselves."</i>
-    <br>— Fuyumi Irisu (Hyouka)
+    <i>"How should I put this... There are times when you begin to hate everything around you."</i>
+    <br>— Nanami Takahashi (We Were There)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hyouka/images/f/fc/Fuyumi_Irisu.jpg/revision/latest?cb=20210204102544" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/18/We_Were_There.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
