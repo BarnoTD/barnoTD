@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"How should I put this... There are times when you begin to hate everything around you."</i>
-    <br>— Nanami Takahashi (We Were There)
+    <i>"It's not the final judgement of "good" and "evil" that's important. What matters is that you come to that decision yourself. That you agonize over it and eventually accept it."</i>
+    <br>— Akane Tsunemori (Psycho-Pass)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/18/We_Were_There.jpg" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Akane_%28Psycho-Pass%29.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
