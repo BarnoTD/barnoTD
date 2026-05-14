@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's not the final judgement of "good" and "evil" that's important. What matters is that you come to that decision yourself. That you agonize over it and eventually accept it."</i>
-    <br>— Akane Tsunemori (Psycho-Pass)
+    <i>"As time passes, the day will come when everything will fade to memories. But, those miraculous days, when you and I along with everyone else, searched together for just one thing... will continue revolving forever. Somewhere deep in my heart as my bittersweet memory."</i>
+    <br>— Yuuta Takemoto (Honey and Clover)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Akane_%28Psycho-Pass%29.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/honeyandclover/images/5/59/Yuta.jpg/revision/latest?cb=20150819002513" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
