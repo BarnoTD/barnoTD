@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"As time passes, the day will come when everything will fade to memories. But, those miraculous days, when you and I along with everyone else, searched together for just one thing... will continue revolving forever. Somewhere deep in my heart as my bittersweet memory."</i>
-    <br>— Yuuta Takemoto (Honey and Clover)
+    <i>"But what's important isn't the Magic, it's the heart of the wielder who uses it."</i>
+    <br>— Erza Scarlet (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/honeyandclover/images/5/59/Yuta.jpg/revision/latest?cb=20150819002513" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/4/45/Heaven%27s_Wheel_Armor.png/revision/latest?cb=20130303202012" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
