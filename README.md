@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"But what's important isn't the Magic, it's the heart of the wielder who uses it."</i>
-    <br>— Erza Scarlet (Fairy Tail)
+    <i>"The first one to move wins. Stay on the defensive and you'll lose your chance."</i>
+    <br>— Nobutaka Oda (BTOOOM!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/4/45/Heaven%27s_Wheel_Armor.png/revision/latest?cb=20130303202012" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/btooom/images/7/76/Nobutaka_color.png/revision/latest?cb=20111018194653" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
