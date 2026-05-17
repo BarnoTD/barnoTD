@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The first one to move wins. Stay on the defensive and you'll lose your chance."</i>
-    <br>— Nobutaka Oda (BTOOOM!)
+    <i>"Peace under an illusion is not true peace. It's only meaningful if the real world manages to accomplish it."</i>
+    <br>— Gaara (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/btooom/images/7/76/Nobutaka_color.png/revision/latest?cb=20111018194653" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/2/20/Gaara_in_Part_I.png/revision/latest/scale-to-width-down/300?cb=20221010023824" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
