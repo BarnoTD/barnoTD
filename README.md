@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Peace under an illusion is not true peace. It's only meaningful if the real world manages to accomplish it."</i>
-    <br>— Gaara (Naruto)
+    <i>"You came without fear. Don't have any regrets, no matter what happens. This is the duel you wanted."</i>
+    <br>— Monkey D. Luffy (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/2/20/Gaara_in_Part_I.png/revision/latest/scale-to-width-down/300?cb=20221010023824" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240306200817" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
