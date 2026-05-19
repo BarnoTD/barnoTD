@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You came without fear. Don't have any regrets, no matter what happens. This is the duel you wanted."</i>
-    <br>— Monkey D. Luffy (One Piece)
+    <i>"If you could see everything but couldn't change any of it, or if you could live in freedom in darkness... Which do you think is more fortunate? I think it might not be that bad living in the dark, remembering the light."</i>
+    <br>— Amane (Mushi-Shi)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240306200817" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/mushi-shi/images/e/e9/Amane.png/revision/latest/scale-to-width-down/1200?cb=20210524062648" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
