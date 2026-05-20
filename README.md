@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you could see everything but couldn't change any of it, or if you could live in freedom in darkness... Which do you think is more fortunate? I think it might not be that bad living in the dark, remembering the light."</i>
-    <br>— Amane (Mushi-Shi)
+    <i>"You Heroes pretend to be society’s guardians. For generations, you pretended not to see those you couldn’t protect and swept their pain under the rug. It’s tainted everything you’ve built. That means your system’s all rotten from the inside with maggots crawling out. It all builds up, little by little, over time. You’ve got the common trash, all too dependent on being protected. And the brave guardians who created the trash that need coddling. It’s a corrupt, vicious cycle. Everything I’ve witnessed, this whole system you’ve built has always rejected me. Now I’m ready to reject it. That’s why I destroy. That’s why I took this power for myself."</i>
+    <br>— Shigaraki Tomura (My Hero Academia)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/mushi-shi/images/e/e9/Amane.png/revision/latest/scale-to-width-down/1200?cb=20210524062648" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/2/25/Final_War_Tomura_Shigaraki.png/revision/latest?cb=20251225225936" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
