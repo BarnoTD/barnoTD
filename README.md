@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You Heroes pretend to be society’s guardians. For generations, you pretended not to see those you couldn’t protect and swept their pain under the rug. It’s tainted everything you’ve built. That means your system’s all rotten from the inside with maggots crawling out. It all builds up, little by little, over time. You’ve got the common trash, all too dependent on being protected. And the brave guardians who created the trash that need coddling. It’s a corrupt, vicious cycle. Everything I’ve witnessed, this whole system you’ve built has always rejected me. Now I’m ready to reject it. That’s why I destroy. That’s why I took this power for myself."</i>
-    <br>— Shigaraki Tomura (My Hero Academia)
+    <i>"I envy you. You've been betrayed and hurt, yet you can still forgive each other. I envy you for having such a great friend."</i>
+    <br>— Kuroyukihime (Accel World)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/2/25/Final_War_Tomura_Shigaraki.png/revision/latest?cb=20251225225936" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/accelworld/images/0/0a/Kuroyukihime.png/revision/latest?cb=20170512034945" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
