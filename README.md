@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I envy you. You've been betrayed and hurt, yet you can still forgive each other. I envy you for having such a great friend."</i>
-    <br>— Kuroyukihime (Accel World)
+    <i>"In ages past, dragons and men were one. Those who lusted after wealth chose the land and the sea and became men. Those who cherished freedom, became dragons and chose wind and fire."</i>
+    <br>— Root (Tales from Earthsea)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/accelworld/images/0/0a/Kuroyukihime.png/revision/latest?cb=20170512034945" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/studio-ghibli/images/6/6c/Root.jpg/revision/latest?cb=20230719120728" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
