@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"In ages past, dragons and men were one. Those who lusted after wealth chose the land and the sea and became men. Those who cherished freedom, became dragons and chose wind and fire."</i>
-    <br>— Root (Tales from Earthsea)
+    <i>"So sorry you caught me on such a bad day, it makes me a real jerk!"</i>
+    <br>— Yuusuke Urameshi (Yu Yu Hakusho)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/studio-ghibli/images/6/6c/Root.jpg/revision/latest?cb=20230719120728" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Yusuke_Urameshi.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
