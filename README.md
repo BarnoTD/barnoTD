@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"So sorry you caught me on such a bad day, it makes me a real jerk!"</i>
-    <br>— Yuusuke Urameshi (Yu Yu Hakusho)
+    <i>"Flowers are fragile and ephemeral... Even if you meant to protect them with a surrounding fence from wind and rain, they would die without sunlight...and a spindly fence has no power against a strong wind. Are you fully aware of that, Kudo-kun?.."</i>
+    <br>— Ai Haibara (Case Closed)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Yusuke_Urameshi.png" height="250"style="border-radius:8px;">
+  <img src="https://www.detectiveconanworld.com/wiki/images/thumb/4/4f/Ai_Haibara_Profile.png/275px-Ai_Haibara_Profile.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
