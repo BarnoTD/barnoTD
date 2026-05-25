@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Flowers are fragile and ephemeral... Even if you meant to protect them with a surrounding fence from wind and rain, they would die without sunlight...and a spindly fence has no power against a strong wind. Are you fully aware of that, Kudo-kun?.."</i>
-    <br>— Ai Haibara (Case Closed)
+    <i>"We aren't flying away from everyone to leave them, but rather so we might see them again someday."</i>
+    <br>— Frau (07-Ghost)
   </blockquote>
-  <img src="https://www.detectiveconanworld.com/wiki/images/thumb/4/4f/Ai_Haibara_Profile.png/275px-Ai_Haibara_Profile.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/0__/images/d/d9/FrauCasual.png/revision/latest/scale-to-width-down/250?cb=20120607144107&path-prefix=07ghost" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
