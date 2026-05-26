@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"We aren't flying away from everyone to leave them, but rather so we might see them again someday."</i>
-    <br>— Frau (07-Ghost)
+    <i>"It's natural for a person to deny he's a failure as a human being. That's why he searches for somebody who is more miserable than himself. That's why so much animosity exists on the internet. Those who aren't able to find a more miserable person, turn to the internet and call other people losers, even though they've never met. Just to make themselves feel superior. Isn't that pathetic? There's a sense of security that comes from speaking badly of someone else. But that isn't true salvation."</i>
+    <br>— Satou Tatsuhiro (Welcome to the N.H.K.)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/0__/images/d/d9/FrauCasual.png/revision/latest/scale-to-width-down/250?cb=20120607144107&path-prefix=07ghost" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/welcometothenhk/images/b/ba/Satou_Anime.png/revision/latest/scale-to-width/360?cb=20251102201542" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
