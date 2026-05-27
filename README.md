@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's natural for a person to deny he's a failure as a human being. That's why he searches for somebody who is more miserable than himself. That's why so much animosity exists on the internet. Those who aren't able to find a more miserable person, turn to the internet and call other people losers, even though they've never met. Just to make themselves feel superior. Isn't that pathetic? There's a sense of security that comes from speaking badly of someone else. But that isn't true salvation."</i>
-    <br>— Satou Tatsuhiro (Welcome to the N.H.K.)
+    <i>"Even in the depths of the darkest oceans, some light always pierces through."</i>
+    <br>— Kousei Arima (Your Lie in April)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/welcometothenhk/images/b/ba/Satou_Anime.png/revision/latest/scale-to-width/360?cb=20251102201542" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/c/c9/Kousei_Arima_Infobox.png/revision/latest?cb=20210707230921" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
