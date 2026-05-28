@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even in the depths of the darkest oceans, some light always pierces through."</i>
-    <br>— Kousei Arima (Your Lie in April)
+    <i>"It would be cruelest to keep your hopes up when I already know the answer."</i>
+    <br>— Shizuku Mizutani (My Little Monster)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/c/c9/Kousei_Arima_Infobox.png/revision/latest?cb=20210707230921" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/8/88/Shizukum.jpg/revision/latest?cb=20150926144049" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
