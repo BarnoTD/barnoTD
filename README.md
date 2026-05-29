@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It would be cruelest to keep your hopes up when I already know the answer."</i>
-    <br>— Shizuku Mizutani (My Little Monster)
+    <i>"Love is good. It changes people, for better or for worse. You could look at it as a chance for you to change. The best kind of love helps you grow up."</i>
+    <br>— Misawa Mitsuyoshi (My Little Monster)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/8/88/Shizukum.jpg/revision/latest?cb=20150926144049" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/6/6f/09_06.png/revision/latest?cb=20121127202710" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
