@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Love is good. It changes people, for better or for worse. You could look at it as a chance for you to change. The best kind of love helps you grow up."</i>
-    <br>— Misawa Mitsuyoshi (My Little Monster)
+    <i>"You probably do lose a lot, but that just means you need to fill what you lost with new things."</i>
+    <br>— Tsumugu Kihara (A Lull in the Sea)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/6/6f/09_06.png/revision/latest?cb=20121127202710" height="250"style="border-radius:8px;">
+  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/CBR-Featured-Image-Tsumgu-Kihara-Nagi-No-Asukara.jpg?w=1600&h=900&fit=crop" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
