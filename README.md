@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You probably do lose a lot, but that just means you need to fill what you lost with new things."</i>
-    <br>— Tsumugu Kihara (A Lull in the Sea)
+    <i>"You want to keep everyone from dying? That’s naive. It’s war, people die."</i>
+    <br>— Monkey D. Luffy (One Piece)
   </blockquote>
-  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/CBR-Featured-Image-Tsumgu-Kihara-Nagi-No-Asukara.jpg?w=1600&h=900&fit=crop" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240306200817" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
