@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You want to keep everyone from dying? That’s naive. It’s war, people die."</i>
-    <br>— Monkey D. Luffy (One Piece)
+    <i>"Happiness is hot chocolate on a cold day."</i>
+    <br>— Nanami Takahashi (We Were There)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20240306200817" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bokuragaita/images/5/5d/35564.png/revision/latest?cb=20131207195935" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
