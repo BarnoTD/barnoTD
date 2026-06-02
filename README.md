@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Happiness is hot chocolate on a cold day."</i>
-    <br>— Nanami Takahashi (We Were There)
+    <i>"True, I've given up on the real world. However, I haven't given up on myself."</i>
+    <br>— Keima Katsuragi (The World God Only Knows)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bokuragaita/images/5/5d/35564.png/revision/latest?cb=20131207195935" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kaminomi/images/7/7a/Keima2.PNG/revision/latest/scale-to-width-down/1200?cb=20110421084255" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
