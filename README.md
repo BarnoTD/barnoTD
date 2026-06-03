@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"True, I've given up on the real world. However, I haven't given up on myself."</i>
-    <br>— Keima Katsuragi (The World God Only Knows)
+    <i>"If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be."</i>
+    <br>— Sohma Kyo (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kaminomi/images/7/7a/Keima2.PNG/revision/latest/scale-to-width-down/1200?cb=20110421084255" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/2/2a/S2E9-2019_%2877%29.png/revision/latest/scale-to-width-down/985?cb=20200603223558" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
