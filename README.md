@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be."</i>
-    <br>— Sohma Kyo (Fruits Basket)
+    <i>"Sounds like a lot of work, I think I'll pass. I'd rather play and I'll ask for help when I get stuck."</i>
+    <br>— Konata Izumi (Lucky Star)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/2/2a/S2E9-2019_%2877%29.png/revision/latest/scale-to-width-down/985?cb=20200603223558" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/luckystar/images/f/fe/Konata-san2.png/revision/latest?cb=20240612064611" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
