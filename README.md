@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sounds like a lot of work, I think I'll pass. I'd rather play and I'll ask for help when I get stuck."</i>
-    <br>— Konata Izumi (Lucky Star)
+    <i>"So many faces looking like they're thinking even though they're not. So disgusting."</i>
+    <br>— Anemone (Eureka Seven)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/luckystar/images/f/fe/Konata-san2.png/revision/latest?cb=20240612064611" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/eurekaseven/images/d/d3/Anemone.jpg/revision/latest?cb=20160312050820" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
