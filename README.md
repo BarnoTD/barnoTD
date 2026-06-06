@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"So many faces looking like they're thinking even though they're not. So disgusting."</i>
-    <br>— Anemone (Eureka Seven)
+    <i>"The strong one doesn't win. The one who wins is strong."</i>
+    <br>— Shinichi Kudou (Case Closed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/eurekaseven/images/d/d3/Anemone.jpg/revision/latest?cb=20160312050820" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/caseclosed/images/d/d2/Shinichi_Kudo_Detective.png/revision/latest?cb=20220708221455" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
