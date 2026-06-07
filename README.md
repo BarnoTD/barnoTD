@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The strong one doesn't win. The one who wins is strong."</i>
-    <br>— Shinichi Kudou (Case Closed)
+    <i>"You suddenly appeared in front of me in this hell. The day that I would get to meet you...I always wanted to apologize to you...I only endured because of that! I kept on living."</i>
+    <br>— Lucy (Elfen Lied)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/caseclosed/images/d/d2/Shinichi_Kudo_Detective.png/revision/latest?cb=20220708221455" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/villains/images/8/88/Elfen_lied_render_lucy_kaede_by_roxa1314-d6nqc88.png/revision/latest/scale-to-width/360?cb=20180823045507" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
