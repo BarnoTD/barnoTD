@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You suddenly appeared in front of me in this hell. The day that I would get to meet you...I always wanted to apologize to you...I only endured because of that! I kept on living."</i>
-    <br>— Lucy (Elfen Lied)
+    <i>"Battles aren't supposed to be heroic affairs. They are not supposed to be fun or exciting, to us every battle is filled with despair, they are dark, horrifying, grizzly. We should fear warfare, avoid it always and whenever possible choose the path of peace."</i>
+    <br>— Kira Izuru (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/villains/images/8/88/Elfen_lied_render_lucy_kaede_by_roxa1314-d6nqc88.png/revision/latest/scale-to-width/360?cb=20180823045507" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/c/ca/Kiraizuru.png/revision/latest?cb=20231105060800&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
