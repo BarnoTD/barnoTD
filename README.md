@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Battles aren't supposed to be heroic affairs. They are not supposed to be fun or exciting, to us every battle is filled with despair, they are dark, horrifying, grizzly. We should fear warfare, avoid it always and whenever possible choose the path of peace."</i>
-    <br>— Kira Izuru (Bleach)
+    <i>"You know, when I was in high school, I was a troublemaker. I hardly went to school. Before I knew it, I was expelled. When I couldn't go anymore, was when I first realized, that school was a great thing. There's a lot of friends and lots of fun things. When I got this old, I wanted even more to go to school. That's why I became a teacher. Because, if I become a teacher, I could stay in school until I die, right? That's why I'm really happy now. I want you to be like that too. I want you to like school. Once it's over, it's too late."</i>
+    <br>— Eikichi Onizuka (Great Teacher Onizuka)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/c/ca/Kiraizuru.png/revision/latest?cb=20231105060800&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/great-teacher-onizuka-gto/images/9/90/Eikichi_Onizuka.png/revision/latest?cb=20170806215057" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
