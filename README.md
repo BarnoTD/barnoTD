@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You know, when I was in high school, I was a troublemaker. I hardly went to school. Before I knew it, I was expelled. When I couldn't go anymore, was when I first realized, that school was a great thing. There's a lot of friends and lots of fun things. When I got this old, I wanted even more to go to school. That's why I became a teacher. Because, if I become a teacher, I could stay in school until I die, right? That's why I'm really happy now. I want you to be like that too. I want you to like school. Once it's over, it's too late."</i>
-    <br>— Eikichi Onizuka (Great Teacher Onizuka)
+    <i>"I am not so noble that I would stake my life for someone else. Nor am I so forgiving that I would sit by and allow someone to trample me. I am selfish... and self righteous human being! That's why! I... to clear my own shame... I used your power. Not for anyone else! But for myself!"</i>
+    <br>— Ciel Phantomhive (Black Butler)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/great-teacher-onizuka-gto/images/9/90/Eikichi_Onizuka.png/revision/latest?cb=20170806215057" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
