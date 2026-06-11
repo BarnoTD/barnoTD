@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I am not so noble that I would stake my life for someone else. Nor am I so forgiving that I would sit by and allow someone to trample me. I am selfish... and self righteous human being! That's why! I... to clear my own shame... I used your power. Not for anyone else! But for myself!"</i>
-    <br>— Ciel Phantomhive (Black Butler)
+    <i>"Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"</i>
+    <br>— Rima Mashiro (Shugo Chara)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shugochara/images/c/c4/Rima_Mashiro_1.gif/revision/latest?cb=20100206093835" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
