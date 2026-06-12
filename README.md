@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"</i>
-    <br>— Rima Mashiro (Shugo Chara)
+    <i>"Ciel, how are you?"</i>
+    <br>— Elizabeth Middleford (Black Butler)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/shugochara/images/c/c4/Rima_Mashiro_1.gif/revision/latest?cb=20100206093835" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/4/4a/405_Lizzie.png/revision/latest?cb=20240511192551" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
