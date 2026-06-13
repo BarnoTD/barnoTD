@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Ciel, how are you?"</i>
-    <br>— Elizabeth Middleford (Black Butler)
+    <i>"*referring to Orochimaru* I am not his pawn..! He is the one, the only one who ever gave my life meaning!! But how could the likes of you EVER UNDERSTAND THAT?!?"</i>
+    <br>— Kimimaro (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/4/4a/405_Lizzie.png/revision/latest?cb=20240511192551" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/c/c8/Kimimaro_infobox.png/revision/latest?cb=20210929024649" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
