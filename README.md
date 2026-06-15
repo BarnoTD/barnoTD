@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Hmmm...how do I put this? My first impression of this group...you're a bunch of idiots!"</i>
-    <br>— Hatake Kakashi (Naruto)
+    <i>"Seele Schneider isn't a sword. [strings the weapon on his bow] A Quincy's only weapons...Are bows and arrows. [fires the Seele Schneider]"</i>
+    <br>— Uryuu Ishida (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/1200?cb=20251019002845" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/0/05/Ep344UryuProfile3.png/revision/latest/scale-to-width-down/1200?cb=20230125214916&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
