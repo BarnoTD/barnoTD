@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Seele Schneider isn't a sword. [strings the weapon on his bow] A Quincy's only weapons...Are bows and arrows. [fires the Seele Schneider]"</i>
-    <br>— Uryuu Ishida (Bleach)
+    <i>"I have nothing but me. I'll give you myself. You can use me however you like for the rest of my life. (To Shigure)"</i>
+    <br>— Sohma Rin (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/0/05/Ep344UryuProfile3.png/revision/latest/scale-to-width-down/1200?cb=20230125214916&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
