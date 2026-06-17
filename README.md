@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I have nothing but me. I'll give you myself. You can use me however you like for the rest of my life. (To Shigure)"</i>
-    <br>— Sohma Rin (Fruits Basket)
+    <i>"You may be able to get stronger with simply the right attitude. In other words, train your spirit before worrying about strength through power and technology."</i>
+    <br>— Saitama (One Punch Man)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepunchman/images/f/ff/Saitama_Manga_Profile.png/revision/latest?cb=20220825051134" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
