@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You may be able to get stronger with simply the right attitude. In other words, train your spirit before worrying about strength through power and technology."</i>
-    <br>— Saitama (One Punch Man)
+    <i>"Stop making me repeat myself! Its bad for my health!"</i>
+    <br>— Duo Maxwell (Mobile Suit Gundam Wing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepunchman/images/f/ff/Saitama_Manga_Profile.png/revision/latest?cb=20220825051134" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gundam/images/7/7c/NMRGW-Duo-%28AC-195%29.png/revision/latest/scale-to-width-down/1200?cb=20260223101447" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
