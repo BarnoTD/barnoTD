@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Stop making me repeat myself! Its bad for my health!"</i>
-    <br>— Duo Maxwell (Mobile Suit Gundam Wing)
+    <i>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</i>
+    <br>— Juuzou Suzuya (Tokyo Ghoul)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gundam/images/7/7c/NMRGW-Duo-%28AC-195%29.png/revision/latest/scale-to-width-down/1200?cb=20260223101447" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tokyoghoul/images/4/4e/Suzuya_Cover_Vol_6.png/revision/latest?cb=20150321133908" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
