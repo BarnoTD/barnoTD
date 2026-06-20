@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</i>
-    <br>— Juuzou Suzuya (Tokyo Ghoul)
+    <i>"I don’t need the cards to tell me that your strength is incredible."</i>
+    <br>— Basil Hawkins (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tokyoghoul/images/4/4e/Suzuya_Cover_Vol_6.png/revision/latest?cb=20150321133908" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/1200?cb=20230906163534" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
