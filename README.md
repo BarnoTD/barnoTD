@@ -44,9 +44,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I don’t need the cards to tell me that your strength is incredible."</i>
-    <br>— Basil Hawkins (One Piece)
+    <i>"I've been thinking about this for a long time. We put all our trust in alchemy but in the end... what is it? "Alchemy is the science of understanding the flow of matter and its laws. The process of comprehension, deconstruction, and reconstruction. The world flows too. It must also follow laws. Everything circulates. Even death is a part of that circulation. You must accept the flow." Hmm, Teacher sure drummed that into our heads, didn't she? I thought I understood it. But I don't understand anything... Mom proves that. Now here I am again, trying desperately to figure out a way to do the impossible. I'm such a hopeless idiot. All this time and I haven't grown up one bit. I thought maybe the rain would wash away some of this gloom that's been following me... but right now, every drop that hits my face is even more depressing."</i>
+    <br>— Edward Elric (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/1200?cb=20230906163534" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/d/d9/EdwardElricEp06.png/revision/latest?cb=20121003110818" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
