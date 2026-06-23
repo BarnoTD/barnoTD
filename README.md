@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I saw the news and hopped over! You’re part of the league, right? I’ll kick your butt!"</i>
-    <br>— Rumi Usagiyama (My Hero Academia)
+    <i>"We are both merchants, and I'll promise you one thing. We will not laugh until we get the money, and we will not cry until we go bankrupt. And guess what? We are going to laugh."</i>
+    <br>— Kraft Lawrence (Spice and Wolf)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/6/6b/Post-War_Rumi_Usagiyama_Hero_Costume_%28Anime%29.png/revision/latest?cb=20240615232231" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/spiceandwolf/images/e/e4/Kraft_Lawrence.jpg/revision/latest/scale-to-width/360?cb=20140222010713" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
