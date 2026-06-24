@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"We are both merchants, and I'll promise you one thing. We will not laugh until we get the money, and we will not cry until we go bankrupt. And guess what? We are going to laugh."</i>
-    <br>— Kraft Lawrence (Spice and Wolf)
+    <i>"Fail to strike the enemy once you know their location, and it'll be too late to even regret having missed the chance."</i>
+    <br>— Rider (Fate/Zero)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/spiceandwolf/images/e/e4/Kraft_Lawrence.jpg/revision/latest/scale-to-width/360?cb=20140222010713" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/typemoon/images/2/2b/ZeroRider.png/revision/latest?cb=20141215214502" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
