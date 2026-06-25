@@ -5,7 +5,7 @@
   <pre>
     Hello There! My name is Firas. I am currently working as a full-time software developer for apple ecosystem.
     I mainly use Swift specifically SwiftUI Framework, but I occasionally use AppKit and UIKit for niche issues. 
-    I also am eager to learn new technologies, currently playing with ASP.NET for Web API developement.
+    I also am open to learn new technologies, currently experimenting with ASP.NET for Web API developement.
     Let's connect on X/Twitter. I always apreciate talking to new developers =)
   </pre>
 </div>
