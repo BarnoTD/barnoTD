@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Fail to strike the enemy once you know their location, and it'll be too late to even regret having missed the chance."</i>
-    <br>— Rider (Fate/Zero)
+    <i>"[thinking after Soifon asks why she didn't take her with her] You've gotten stronger since the last time we were together, Soifon."</i>
+    <br>— Shihouin Yoruichi (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/typemoon/images/2/2b/ZeroRider.png/revision/latest?cb=20141215214502" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/YoruichiKubo.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
