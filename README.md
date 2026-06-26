@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[thinking after Soifon asks why she didn't take her with her] You've gotten stronger since the last time we were together, Soifon."</i>
-    <br>— Shihouin Yoruichi (Bleach)
+    <i>"When I’m shown something so pure and innocent, I’m forced to see the filthy part of myself even more and it pisses me off."</i>
+    <br>— Masamune Takano (Sekai Ichi Hatsukoi - World's Greatest First Love)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/YoruichiKubo.png" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BN2QzNDEyOTUtNzBiOC00YmFhLThkN2ItYzAyNTcxNDFkMDNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
