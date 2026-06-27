@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When I’m shown something so pure and innocent, I’m forced to see the filthy part of myself even more and it pisses me off."</i>
-    <br>— Masamune Takano (Sekai Ichi Hatsukoi - World's Greatest First Love)
+    <i>"That is why I will keep running for now. If I aim for the distance, there should come a day when I would be able to reach out to what I have been aiming for."</i>
+    <br>— Emiya Shirou (Fate/stay night)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BN2QzNDEyOTUtNzBiOC00YmFhLThkN2ItYzAyNTcxNDFkMDNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/ShirouEmiya2004.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
