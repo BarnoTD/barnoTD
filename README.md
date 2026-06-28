@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"That is why I will keep running for now. If I aim for the distance, there should come a day when I would be able to reach out to what I have been aiming for."</i>
-    <br>— Emiya Shirou (Fate/stay night)
+    <i>"[To Ichigo] So you can withstand my Cero even without your mask... You've gotten stronger. Is it because you defeated Grimmjow? Or...Is it because of her? [Motions to Inoue] Or maybe because of your friends, still fighting down below. That girl is already one of us. Even if you manage to rescue her, that won't change. Rescuing her...Is meaningless."</i>
+    <br>— Ulquiorra Schiffer (Bleach)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/ShirouEmiya2004.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/b/bd/Ep267UlquiorraProfile2.png/revision/latest?cb=20231110190352&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
