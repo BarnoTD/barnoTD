@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[To Ichigo] So you can withstand my Cero even without your mask... You've gotten stronger. Is it because you defeated Grimmjow? Or...Is it because of her? [Motions to Inoue] Or maybe because of your friends, still fighting down below. That girl is already one of us. Even if you manage to rescue her, that won't change. Rescuing her...Is meaningless."</i>
-    <br>— Ulquiorra Schiffer (Bleach)
+    <i>"Sins you've committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don't get forgiven until you die."</i>
+    <br>— Koichiro Marito (Aldnoah.Zero)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/b/bd/Ep267UlquiorraProfile2.png/revision/latest?cb=20231110190352&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/aldnoahzero/images/4/4b/Kouichiro_Marito.jpg/revision/latest?cb=20140706080050" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
