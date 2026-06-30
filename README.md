@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sins you've committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don't get forgiven until you die."</i>
-    <br>— Koichiro Marito (Aldnoah.Zero)
+    <i>"Whenever you fight from this point on, there is one thing you must never do. Which is...to die alone."</i>
+    <br>— Shiba Kaien (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/aldnoahzero/images/4/4b/Kouichiro_Marito.jpg/revision/latest?cb=20140706080050" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/e/ee/Ep208KaienProfile.png/revision/latest?cb=20231105202259&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
