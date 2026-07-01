@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Whenever you fight from this point on, there is one thing you must never do. Which is...to die alone."</i>
-    <br>— Shiba Kaien (Bleach)
+    <i>"It is pointless to question who someone really is. All you can do is believe and accept. Because the way you perceive someone is their true identity."</i>
+    <br>— Kazuto Kirigaya (Sword Art Online)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/e/ee/Ep208KaienProfile.png/revision/latest?cb=20231105202259&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
