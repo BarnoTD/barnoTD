@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It is pointless to question who someone really is. All you can do is believe and accept. Because the way you perceive someone is their true identity."</i>
-    <br>— Kazuto Kirigaya (Sword Art Online)
+    <i>"A lie is truth, until you recognize it as a lie. To see the truth behind those lies is probably the right thing to do. However, it may not necessarily bring happiness. Lies are Happiness."</i>
+    <br>— Hoody (Ergo Proxy)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/90/Kirito_Sword_Art_Online.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/ergoproxy/images/6/65/Hoody_Ergo_Proxy.PNG/revision/latest?cb=20151030102816" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
