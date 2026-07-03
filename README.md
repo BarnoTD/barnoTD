@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A lie is truth, until you recognize it as a lie. To see the truth behind those lies is probably the right thing to do. However, it may not necessarily bring happiness. Lies are Happiness."</i>
-    <br>— Hoody (Ergo Proxy)
+    <i>"The world doesn't get to decide whether my life is boring, fun, or ordinary, because that's my decision to make. As long as I have the will, nothing is impossible!"</i>
+    <br>— Keima Katsuragi (The World God Only Knows)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/ergoproxy/images/6/65/Hoody_Ergo_Proxy.PNG/revision/latest?cb=20151030102816" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kaminomi/images/7/7a/Keima2.PNG/revision/latest/scale-to-width-down/1200?cb=20110421084255" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
