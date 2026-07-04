@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The world doesn't get to decide whether my life is boring, fun, or ordinary, because that's my decision to make. As long as I have the will, nothing is impossible!"</i>
-    <br>— Keima Katsuragi (The World God Only Knows)
+    <i>"I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."</i>
+    <br>— Roronoa Zoro (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kaminomi/images/7/7a/Keima2.PNG/revision/latest/scale-to-width-down/1200?cb=20110421084255" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Roronoa_Zoro.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
