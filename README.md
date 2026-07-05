@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."</i>
-    <br>— Roronoa Zoro (One Piece)
+    <i>"(thinking) I can't stand up...on my own. I can't go...any further. Not...all by myself."</i>
+    <br>— Sohma Rin (Fruits Basket)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Roronoa_Zoro.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
