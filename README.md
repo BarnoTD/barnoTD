@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"(thinking) I can't stand up...on my own. I can't go...any further. Not...all by myself."</i>
-    <br>— Sohma Rin (Fruits Basket)
+    <i>"With out strong opponents, living isn't fun. It's perfect if I can't win."</i>
+    <br>— Taiga Kagami (Kuroko's Basketball - duplicate)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/7c/Isuzu_Sohma_Edition.jpg/revision/latest?cb=20190805192504" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kurokonobasuke/images/f/fe/Taiga_Kagami_anime.png/revision/latest?cb=20121010184818" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
