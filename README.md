@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Is that so? Then I'll just use "pathetic" next time."</i>
-    <br>— Senjougahara Hitagi (Bakemonogatari)
+    <i>"Sometimes, the blood rushes to my head and I feel like, if I run, I'll lose something important."</i>
+    <br>— Portgas D. Ace (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bakemonogatari1645/images/0/0a/Bake_senjo.jpg/revision/latest/scale-to-width-down/1200?cb=20200716225404" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20240629132600" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
