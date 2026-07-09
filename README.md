@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sometimes, the blood rushes to my head and I feel like, if I run, I'll lose something important."</i>
-    <br>— Portgas D. Ace (One Piece)
+    <i>"But they say a woman is better off with an unloved man, versus a man who loves her."</i>
+    <br>— Senjougahara Hitagi (Nisemonogatari)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20240629132600" height="250"style="border-radius:8px;">
+  <img src="https://external-preview.redd.it/nisemonogatari-senjougahara-hitagi-v0-sPZ1yaXFo7lGmw7VVMBIE8PiYgVxV6X_99kINO3AYyY.jpg?auto=webp&s=2252a3056a474b955922e01ffaddcd5fc734ea60" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
