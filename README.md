@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"But they say a woman is better off with an unloved man, versus a man who loves her."</i>
-    <br>— Senjougahara Hitagi (Nisemonogatari)
+    <i>"Let me teach you a thing. Normally the weak person's weakness is the strong person, but the strong person's weakness is also the weak person."</i>
+    <br>— Itsuki Minami (Air Gear)
   </blockquote>
-  <img src="https://external-preview.redd.it/nisemonogatari-senjougahara-hitagi-v0-sPZ1yaXFo7lGmw7VVMBIE8PiYgVxV6X_99kINO3AYyY.jpg?auto=webp&s=2252a3056a474b955922e01ffaddcd5fc734ea60" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/airgear/images/6/68/Ikki_Anime_2.PNG/revision/latest?cb=20260207233350" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
