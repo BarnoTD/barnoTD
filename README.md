@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Let me teach you a thing. Normally the weak person's weakness is the strong person, but the strong person's weakness is also the weak person."</i>
-    <br>— Itsuki Minami (Air Gear)
+    <i>"You need to decide where you belong before anything else. If you can do that, you can decide what you want to do."</i>
+    <br>— Jin Mitaka (The Pet Girl of Sakurasou)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/airgear/images/6/68/Ikki_Anime_2.PNG/revision/latest?cb=20260207233350" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/sakurasounopetnakanojo/images/d/dd/Jin_Mitaka.jpg/revision/latest?cb=20180705092212" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
