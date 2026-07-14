@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It looks to me like you've completely lost your touch."</i>
-    <br>— Shihouin Yoruichi (Bleach)
+    <i>"Sins you've committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don't get forgiven until you die."</i>
+    <br>— Koichiro Marito (Aldnoah.Zero)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/YoruichiKubo.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/aldnoahzero/images/4/4b/Kouichiro_Marito.jpg/revision/latest?cb=20140706080050" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
