@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Without strength, you won’t be able to save anyone."</i>
-    <br>— Kizaru (One Piece)
+    <i>"That may be so. What is right from wrong? What is good from evil? Nobody can truly distinguish between them. Even if there was a god. Now, supposing a god and his world existed, even then I'd stop and think for myself. I'd decide for myself whether his teachings are right or wrong. After all, I am just the same as you. I put faith in my own convictions as to what I believe is right, and consider them to be righteous."</i>
+    <br>— Near (Death Note)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest?cb=20190603023753" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/deathnote/images/a/a9/Manga_character_icon_Near.jpg/revision/latest?cb=20250701061212" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
