@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"That may be so. What is right from wrong? What is good from evil? Nobody can truly distinguish between them. Even if there was a god. Now, supposing a god and his world existed, even then I'd stop and think for myself. I'd decide for myself whether his teachings are right or wrong. After all, I am just the same as you. I put faith in my own convictions as to what I believe is right, and consider them to be righteous."</i>
-    <br>— Near (Death Note)
+    <i>"Well, life is like the weather. It can be sunny or cloudy. Sometimes it rains, and sometimes it storms."</i>
+    <br>— Deneil Young (Space Brothers)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/deathnote/images/a/a9/Manga_character_icon_Near.jpg/revision/latest?cb=20250701061212" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/I/91JbyAil+5L._AC_UF1000,1000_QL80_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
