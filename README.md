@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Well, life is like the weather. It can be sunny or cloudy. Sometimes it rains, and sometimes it storms."</i>
-    <br>— Deneil Young (Space Brothers)
+    <i>"Well, I'd better get back to my seat. The unmarried woman with her unmarried face is about to come to start the unmarried homeroom."</i>
+    <br>— Taiga Aisaka (Toradora!)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/I/91JbyAil+5L._AC_UF1000,1000_QL80_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tora-dora/images/8/82/E17_-_9.png/revision/latest/scale-to-width-down/1200?cb=20240413005640" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
