@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Well, I'd better get back to my seat. The unmarried woman with her unmarried face is about to come to start the unmarried homeroom."</i>
-    <br>— Taiga Aisaka (Toradora!)
+    <i>"Idiot... There's no win or lose in this, no higher or lower... There is always...only ONE truth."</i>
+    <br>— Shinichi Kudou (Case Closed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tora-dora/images/8/82/E17_-_9.png/revision/latest/scale-to-width-down/1200?cb=20240413005640" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/caseclosed/images/d/d2/Shinichi_Kudo_Detective.png/revision/latest?cb=20220708221455" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
