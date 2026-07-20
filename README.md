@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Idiot... There's no win or lose in this, no higher or lower... There is always...only ONE truth."</i>
-    <br>— Shinichi Kudou (Case Closed)
+    <i>"Throughout all of history, no wise king has ever forced his army to obey him through oppression. People will only truly fight for what is right. And there is only one thing that is truly right in this world! The one true, unchanging righteousness in the world is... cuteness! Cute makes right! All our needs, desires, and instincts seek cuteness, and it is for cuteness that we will give everything we have! That's just the way men are!"</i>
+    <br>— Sora (No Game, No Life)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/caseclosed/images/d/d2/Shinichi_Kudo_Detective.png/revision/latest?cb=20220708221455" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/no-game-no-life/images/0/05/Sora_Anime_HQ.png/revision/latest?cb=20210523000927" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
