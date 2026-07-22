@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Thanks a lot, dream wrecker."</i>
-    <br>— Vash the Stampede (Trigun)
+    <i>"I saw the news and hopped over! You’re part of the league, right? I’ll kick your butt!"</i>
+    <br>— Rumi Usagiyama (My Hero Academia)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/VashtheStampede.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bokunoheroacademia/images/6/6b/Post-War_Rumi_Usagiyama_Hero_Costume_%28Anime%29.png/revision/latest?cb=20240615232231" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
