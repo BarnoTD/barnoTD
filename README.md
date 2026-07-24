@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"He turns the black-and-white landscape into brilliant colors. That's what George was to me. Even if our paths don't ever cross again, that will never change."</i>
-    <br>— Yukari Hayasaka (Paradise Kiss)
+    <i>"The moment you challenged me, you had already lost."</i>
+    <br>— Akihiko Usami (Junjo Romantica)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/paradisekiss/images/a/a3/Db355017391e09ea02198f878d473e43130707ea2d14c3d1f6c026012eb3f232_thumb.jpeg/revision/latest?cb=20200526030302" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/junjouromantica/images/b/b4/Us.jpg/revision/latest?cb=20120719174448" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
