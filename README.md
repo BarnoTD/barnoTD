@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The moment you challenged me, you had already lost."</i>
-    <br>— Akihiko Usami (Junjo Romantica)
+    <i>"If you use your head, you won't get fat even if you eat sweets."</i>
+    <br>— L Lawliet (Death Note)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/junjouromantica/images/b/b4/Us.jpg/revision/latest?cb=20120719174448" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg/revision/latest/scale-to-width-down/1200?cb=20160609084420" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
