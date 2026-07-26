@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you use your head, you won't get fat even if you eat sweets."</i>
-    <br>— L Lawliet (Death Note)
+    <i>"People become stronger because they have things they cannot forget. That's what you call growth."</i>
+    <br>— Tsunade (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg/revision/latest/scale-to-width-down/1200?cb=20160609084420" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/5/5a/8-83829_senju-tsunade-random-pinterest-boruto-and-naruto-png.png/revision/latest?cb=20190502024736" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
