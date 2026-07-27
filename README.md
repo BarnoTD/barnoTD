@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People become stronger because they have things they cannot forget. That's what you call growth."</i>
-    <br>— Tsunade (Naruto)
+    <i>"Welcome. Welcome to my cave young ones. Please forgive the belated salutations I am the holy sword Excalibur!"</i>
+    <br>— Excalibur (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/5/5a/8-83829_senju-tsunade-random-pinterest-boruto-and-naruto-png.png/revision/latest?cb=20190502024736" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/3/39/Excalibur_Render.png/revision/latest?cb=20200217104821" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
