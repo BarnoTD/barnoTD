@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Welcome. Welcome to my cave young ones. Please forgive the belated salutations I am the holy sword Excalibur!"</i>
-    <br>— Excalibur (Soul Eater)
+    <i>"Hunger is the enemy."</i>
+    <br>— Saber (Fate/stay night)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/3/39/Excalibur_Render.png/revision/latest?cb=20200217104821" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/fa/SaberFateGrandOrder.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
