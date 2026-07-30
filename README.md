@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Why does everybody have to fight about everything, argue and steal from each other all the time? I mean, it's a big enough world. Why can't we share it?"</i>
-    <br>— Toboe (Wolf's Rain)
+    <i>"Even with no magical powers… I’ll become the magic emperor."</i>
+    <br>— Asta (Black Clover)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/wolfsrain/images/1/14/Profile_-_Toboe.png/revision/latest/scale-to-width/360?cb=20190529032326" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/AstaWSJIssue362015.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
