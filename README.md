@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I’m not going to lie to you, Vegeta, although the answer may be difficult for you to hear. This is the truth. Goku devoted his life to protecting the lives of other. Because of his selflessness, when he died, he was allowed to keep his body and travel to King Kai’s Planet. You, on the other hand, have spent your life in pursuit of your own selfish desires. You’ve caused too much pain. When you die, you will not receive the same reward."</i>
-    <br>— Piccolo (Dragon Ball Z)
+    <i>"You’d better not (rip my mask). Like Pandora’s box, you want to open it because you don’t know what’s inside. But if you know what’s inside before you open it… It’s boring, isn’t it?"</i>
+    <br>— Kaitou Kid (Case Closed)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dragonball/images/c/c2/Piccolomanga.png/revision/latest/scale-to-width/360?cb=20160826150304" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Kaito_Kid_by_Gosho_Aoyama.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
