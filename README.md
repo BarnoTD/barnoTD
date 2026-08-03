@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you can't give up one, learn to balance both at the same time. Why does it have to be all or nothing?"</i>
-    <br>— Kenji Yamaguchi (My Little Monster)
+    <i>"There're too many people who worry about the things I don't worry about."</i>
+    <br>— Takeshi Nanase (Magical Warfare)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/1/11/Kenji.jpg/revision/latest?cb=20150926155931" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/magical-warfare/images/2/23/TakeshiNanase.jpg/revision/latest?cb=20210528164937" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
