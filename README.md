@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you're going to modify me, at least turn me into a grasshopper man! Or a beetle! Or one of those imaginary freaks!"</i>
-    <br>— Itoshiki Nozomu (Sayonara, Zetsubou-Sensei)
+    <i>"It's simply fun to be part of a group sharing the same interests, regardless of what those interests are."</i>
+    <br>— Watashi (Humanity Has Declined)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/sayonarazetsubousensei/images/5/57/Nozomu.jpg/revision/latest?cb=20120318032021" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
