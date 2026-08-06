@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It's simply fun to be part of a group sharing the same interests, regardless of what those interests are."</i>
-    <br>— Watashi (Humanity Has Declined)
+    <i>"Choose the best thing you can do now, in order to get a step closer to your dream."</i>
+    <br>— Tsukitachi (Karneval)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/karneval/images/6/69/Tsukitachidesign.png/revision/latest?cb=20130411232557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
