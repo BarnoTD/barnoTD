@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Choose the best thing you can do now, in order to get a step closer to your dream."</i>
-    <br>— Tsukitachi (Karneval)
+    <i>"I see...since I am no longer going to be Lord Orochimaru's vessel, my duty is to protect the vessel."</i>
+    <br>— Kimimaro (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/karneval/images/6/69/Tsukitachidesign.png/revision/latest?cb=20130411232557" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/naruto/images/c/c8/Kimimaro_infobox.png/revision/latest?cb=20210929024649" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
