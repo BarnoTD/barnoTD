@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I see...since I am no longer going to be Lord Orochimaru's vessel, my duty is to protect the vessel."</i>
-    <br>— Kimimaro (Naruto)
+    <i>"Gin-chan told me to pay people back double for revenge!"</i>
+    <br>— Kagura (Gintama)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/naruto/images/c/c8/Kimimaro_infobox.png/revision/latest?cb=20210929024649" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gintama/images/f/fa/Tfiju.png/revision/latest/scale-to-width/360?cb=20161221232328" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
