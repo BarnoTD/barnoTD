@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Gin-chan told me to pay people back double for revenge!"</i>
-    <br>— Kagura (Gintama)
+    <i>"I'm sure that things that are truly fun can't be compared. Back then, now, and from now on, in the time you spend with others, lots of small fun things are born and disappear. If you are able to capture each of them, you'll never run out of fun things. Forever and ever. And here's one point of advice. Thinking that now is fun is what makes it the most fun."</i>
+    <br>— Alicia Florence (Aria the Animation)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gintama/images/f/fa/Tfiju.png/revision/latest/scale-to-width/360?cb=20161221232328" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/aria/images/4/48/Alicia_Pre_Timeskip.png/revision/latest?cb=20220915163525" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
