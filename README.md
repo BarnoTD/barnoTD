@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm sure that things that are truly fun can't be compared. Back then, now, and from now on, in the time you spend with others, lots of small fun things are born and disappear. If you are able to capture each of them, you'll never run out of fun things. Forever and ever. And here's one point of advice. Thinking that now is fun is what makes it the most fun."</i>
-    <br>— Alicia Florence (Aria the Animation)
+    <i>"Giving into the pain and thinking you want to die just means you've been spoiled by life. If you don't want to die, then don't act spoiled. Suffer through life; crawl through life. Stick it out till the very end. If you still want to die after that, come find me. I'll end you."</i>
+    <br>— Ogami Rei (Code:Breaker)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/aria/images/4/48/Alicia_Pre_Timeskip.png/revision/latest?cb=20220915163525" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/codebreaker/images/2/24/Ogami.png/revision/latest?cb=20121201185310" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
