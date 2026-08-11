@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Giving into the pain and thinking you want to die just means you've been spoiled by life. If you don't want to die, then don't act spoiled. Suffer through life; crawl through life. Stick it out till the very end. If you still want to die after that, come find me. I'll end you."</i>
-    <br>— Ogami Rei (Code:Breaker)
+    <i>"It’s a slow but steady effort. I’m going to beat fantasy with science. This is exhilarating."</i>
+    <br>— Senku Ishigami (Dr. Stone)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/codebreaker/images/2/24/Ogami.png/revision/latest?cb=20121201185310" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dr-stone/images/9/93/Senku_Ishigami_%28Anime%29.png/revision/latest?cb=20190710154134" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
