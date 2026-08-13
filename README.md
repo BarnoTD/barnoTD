@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I can't develop feelings. That's how most idiots screw up."</i>
-    <br>— Light Yagami (Death Note)
+    <i>"Country of birth, time period, parents, location... various factors make people's lives unequal from the very beginning."</i>
+    <br>— Death Parade (Death Parade)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/near_pure_evil/images/2/24/Light_Yagami.jpg/revision/latest?cb=20241230145442" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Deathparadevisual.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
