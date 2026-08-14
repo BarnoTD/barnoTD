@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Country of birth, time period, parents, location... various factors make people's lives unequal from the very beginning."</i>
-    <br>— Death Parade (Death Parade)
+    <i>"What's so special about studying? Every problem has an answer. How hard can it be?"</i>
+    <br>— Yoshida Haru (My Little Monster)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Deathparadevisual.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/6/62/11.jpg/revision/latest?cb=20150514063945" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
