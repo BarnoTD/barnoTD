@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"What's so special about studying? Every problem has an answer. How hard can it be?"</i>
-    <br>— Yoshida Haru (My Little Monster)
+    <i>"The strong feed upon the weak. It’s such an obligingly simple rule. Except in this world, my friends tried to be strong."</i>
+    <br>— Armin Arlert (Attack on Titan)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/6/62/11.jpg/revision/latest?cb=20150514063945" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png/revision/latest?cb=20231105180006" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
