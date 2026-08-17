@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If the words are of rage and hate, I must accept them. I've run for so long but I can never forget."</i>
-    <br>— Yobiko (Natsume Yuujinchou)
+    <i>"When you're in front of the enemy, even if your hands are trembling - fight."</i>
+    <br>— Kureo Mado (Tokyo Ghoul)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/natsumeyuujinchou/images/9/92/Yobiko.jpg/revision/latest?cb=20190622194515" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tokyoghoul/images/d/dc/Kureo_anime_design_front_view.png/revision/latest/scale-to-width-down/300?cb=20141004215330" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
