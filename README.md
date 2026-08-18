@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When you're in front of the enemy, even if your hands are trembling - fight."</i>
-    <br>— Kureo Mado (Tokyo Ghoul)
+    <i>"There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live."</i>
+    <br>— Inuyasha (InuYasha)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tokyoghoul/images/d/dc/Kureo_anime_design_front_view.png/revision/latest/scale-to-width-down/300?cb=20141004215330" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/inuyasha/images/e/e3/Inuyasha_Anime.png/revision/latest/scale-to-width-down/1200?cb=20231203035501" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
