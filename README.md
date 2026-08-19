@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live."</i>
-    <br>— Inuyasha (InuYasha)
+    <i>"Remember this. The only words that can keep you alive are "I want to live.""</i>
+    <br>— Hampnie Hambart (Sunday Without God)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/e/e3/Inuyasha_Anime.png/revision/latest/scale-to-width-down/1200?cb=20231203035501" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kami-nichi/images/1/1a/Ep01_00147.png/revision/latest/scale-to-width-down/1200?cb=20130717140158" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
