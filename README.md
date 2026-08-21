@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If I were the rain, that binds together the heavens and the earth, whom in all eternity will never mingle, would I be able to bind two hearts together?"</i>
-    <br>— Inoue Orihime (Bleach)
+    <i>"Disappear. My sword does not exist to crush insects like you."</i>
+    <br>— Kuchiki Byakuya (Bleach)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/93/OrihimeAnimeEp139.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/f/f2/686Byakuya_profile.png/revision/latest/scale-to-width/360?cb=20200322080959&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
