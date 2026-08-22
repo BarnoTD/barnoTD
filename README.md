@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Disappear. My sword does not exist to crush insects like you."</i>
-    <br>— Kuchiki Byakuya (Bleach)
+    <i>"Perhaps the souls of those we couldn't save, will eventually find their way to my sister. If they do, could they relay a message for me? That I promise to live for her too. And even if she feels a little lonely, just wait there for me for a little while longer."</i>
+    <br>— Ikoma (Kabaneri of the Iron Fortress)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/f/f2/686Byakuya_profile.png/revision/latest/scale-to-width/360?cb=20200322080959&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/koutetsujou-no-kabaneri/images/2/2c/Ikoma.png/revision/latest?cb=20151218101525" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
