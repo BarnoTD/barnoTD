@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Hope is like a treasure, which you cannot carry alone."</i>
-    <br>— Sayonara Zetsubou Sensei (Sayonara, Zetsubou-Sensei)
+    <i>"I think people should try to ignore their race, and just treat each other as equals."</i>
+    <br>— Edward Elric (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/SayonaraZetsubouSensei_vol1_Cover.jpg/250px-SayonaraZetsubouSensei_vol1_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fullmetal-alchemist-database/images/d/d9/EdwardElricEp06.png/revision/latest?cb=20121003110818" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
