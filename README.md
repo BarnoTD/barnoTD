@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"[to Szayel Aporro Grantz] Immaculate being... Was it? In this secular existence, perfection is an illusion, regardless of those who utter the contrary. This is the reality. Common man seeks it out, they strive to achieve it, as if it were some tangible thing... But... The fact of the matter is, perfection is a hollow shell. It is devoid of any substance. I spit on perfection. Perfection, after all, implies you've reached the summit. No trial and error, no ability to conceptualize. An omniscient being would have no need for such superfluous things... Am I making myself clear? For people who dabble in the sciences, such as ourselves, perfection would make us obsolete. Many magnificent things have been, and will continue to come into existence... And yet every last one of them will fall short of perfection's finish. Our function as men of science relies on their many shortcomings. Then, and only then, can we apply the fruits of our labor. To put it simply... As soon as you began spouting that nonsense about being an immaculate being... your fate was sealed. How dare you call yourself a man of science?"</i>
-    <br>— Kurotsuchi Mayuri (Bleach)
+    <i>"I have to fight. I can’t run away."</i>
+    <br>— Takemichi Hanagaki (Tokyo Revengers)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MayuriKurotsuchiKubo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
