@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I have to fight. I can’t run away."</i>
-    <br>— Takemichi Hanagaki (Tokyo Revengers)
+    <i>"Wow, he did it. He's gonna fl- *boosts up to the ceiling and smashes his head*"</i>
+    <br>— Hideki Hinata (Angel Beats!)
   </blockquote>
-  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/angelbeats/images/0/0f/Hinata_anime.png/revision/latest?cb=20190414063658" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
