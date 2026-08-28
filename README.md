@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Wow, he did it. He's gonna fl- *boosts up to the ceiling and smashes his head*"</i>
-    <br>— Hideki Hinata (Angel Beats!)
+    <i>"Eat Harkonnen, bitch!"</i>
+    <br>— Seras Victoria (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/0/0f/Hinata_anime.png/revision/latest?cb=20190414063658" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hellsing/images/7/71/SerasAnime.png/revision/latest?cb=20250111005946" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
