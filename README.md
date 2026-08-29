@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Eat Harkonnen, bitch!"</i>
-    <br>— Seras Victoria (Hellsing)
+    <i>"We are all different from each other and that's what makes us all special."</i>
+    <br>— Mirajane Strauss (Fairy Tail)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hellsing/images/7/71/SerasAnime.png/revision/latest?cb=20250111005946" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/d/d1/Mirajane_proposal.png/revision/latest?cb=20130105145713" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
