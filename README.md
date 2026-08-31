@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"They say that we should love ourselves first, before other people learn to love us, but it's not as easy as it seems. Sometimes, we need someone to accept us and love us first, then we would learn to see ourselves through that person's eyes and learn to love our-self."</i>
-    <br>— Sohma Yuki (Fruits Basket)
+    <i>"We will take revenge on your behalf."</i>
+    <br>— Ai Enma (Hell Girl)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/7/72/Yuki_Sohma_Edition.png/revision/latest?cb=20190521232711" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hell-girl/images/a/a2/Ai_Enma.png/revision/latest/scale-to-width-down/250?cb=20211104021836" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
