@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"We will take revenge on your behalf."</i>
-    <br>— Ai Enma (Hell Girl)
+    <i>"Sometimes living can be hard! But it's only because we're alive that we can make each other laugh, cry, and be happy!"</i>
+    <br>— Honda Tohru (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hell-girl/images/a/a2/Ai_Enma.png/revision/latest/scale-to-width-down/250?cb=20211104021836" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/81/Tohru_Honda_by_Natsuki_Takaya.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
