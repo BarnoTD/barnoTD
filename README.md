@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Sometimes living can be hard! But it's only because we're alive that we can make each other laugh, cry, and be happy!"</i>
-    <br>— Honda Tohru (Fruits Basket)
+    <i>"I... Despise the way you fight. Without ever lifting your own hand... To steal bonds of camraderie and torture opponents is the height of cowardice. It is a lack of shame deserving of death. I am here. Strike me down. I shall kill you and cast you aside... Before you finish swinging your blade."</i>
+    <br>— Kuchiki Byakuya (Bleach)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/81/Tohru_Honda_by_Natsuki_Takaya.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Byakuya_New_Hair.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
