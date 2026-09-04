@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A clever retreat? Throw that to the dogs! Once you've dived into the battlefield, you can only devote yourself to the fight, regardless of your opponent!"</i>
-    <br>— Kuroyukihime (Accel World)
+    <i>"How could I burden that brat with the weight of my life? *about Oz*"</i>
+    <br>— Elliot Nightray (Pandora Hearts)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/accelworld/images/0/0a/Kuroyukihime.png/revision/latest?cb=20170512034945" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/pandorahearts/images/1/1f/Elliot_Vol._14_crop.png/revision/latest?cb=20210601045235" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
