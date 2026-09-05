@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"How could I burden that brat with the weight of my life? *about Oz*"</i>
-    <br>— Elliot Nightray (Pandora Hearts)
+    <i>"First you say I'm faster then you get the heads up on me like I'm an old lady crossing the freeway! Just once I'd like some honesty from the bad guys!"</i>
+    <br>— Yuusuke Urameshi (Yu Yu Hakusho)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/pandorahearts/images/1/1f/Elliot_Vol._14_crop.png/revision/latest?cb=20210601045235" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Yusuke_Urameshi.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
