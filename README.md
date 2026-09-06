@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"First you say I'm faster then you get the heads up on me like I'm an old lady crossing the freeway! Just once I'd like some honesty from the bad guys!"</i>
-    <br>— Yuusuke Urameshi (Yu Yu Hakusho)
+    <i>"Don't give up, the beginning is always the hardest, so let's keep on going till the very end."</i>
+    <br>— Natsu Dragneel (Fairy Tail)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Yusuke_Urameshi.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fairytail/images/c/ca/Natsu_X792.png/revision/latest?cb=20181111122101" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
