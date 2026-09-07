@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Don't give up, the beginning is always the hardest, so let's keep on going till the very end."</i>
-    <br>— Natsu Dragneel (Fairy Tail)
+    <i>"*thinking* Normally, one would call an ambulance or ask for help from one of the nearby residents, but this particular boy decided to carry the unconscious, innocent girl... and where the hell are you taking her, bastard?"</i>
+    <br>— Kyon (The Melancholy of Haruhi Suzumiya)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/c/ca/Natsu_X792.png/revision/latest?cb=20181111122101" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/haruhi/images/f/f7/Kyon_Profile.png/revision/latest?cb=20240113071352" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
