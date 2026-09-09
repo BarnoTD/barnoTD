@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"A life with no adventure in it is boring. The least a friend can do is stir up a little trouble in your heart."</i>
-    <br>— Gai Tsutsugami (Guilty Crown)
+    <i>"Gohan, let it go. It is not a sin to fight for the right cause. There are those who words alone will not reach."</i>
+    <br>— Android 16 (Dragon Ball)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/guiltycrown/images/1/17/Tsutsugami_gai.jpg/revision/latest?cb=20140511151524" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dragonball/images/c/cc/Android_16_%28Full_Color_Manga%29.png/revision/latest/scale-to-width/360?cb=20241110220422" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
