@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Gohan, let it go. It is not a sin to fight for the right cause. There are those who words alone will not reach."</i>
-    <br>— Android 16 (Dragon Ball)
+    <i>"If so many people believe in this, the lies will become reality. That's the so called group mentality."</i>
+    <br>— Sakamoto Yuuji (Baka & Test - Summon the Beasts)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/dragonball/images/c/cc/Android_16_%28Full_Color_Manga%29.png/revision/latest/scale-to-width/360?cb=20241110220422" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bakatotest/images/9/90/Shoukanjuu-yuuji.png/revision/latest?cb=20140323074854" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
