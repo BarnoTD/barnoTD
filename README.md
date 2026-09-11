@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If so many people believe in this, the lies will become reality. That's the so called group mentality."</i>
-    <br>— Sakamoto Yuuji (Baka & Test - Summon the Beasts)
+    <i>"Even if you're not interested, just read my recommendation. Putting aside disliking the food before trying it, I won't forgive you if you dismiss manga without giving it a chance."</i>
+    <br>— Kagami Junichirou (Ultimate Otaku Teacher)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bakatotest/images/9/90/Shoukanjuu-yuuji.png/revision/latest?cb=20140323074854" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/denpakyoushi/images/1/18/Kagami_junichirou.png/revision/latest?cb=20130715132757" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
