@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even if you're not interested, just read my recommendation. Putting aside disliking the food before trying it, I won't forgive you if you dismiss manga without giving it a chance."</i>
-    <br>— Kagami Junichirou (Ultimate Otaku Teacher)
+    <i>"Hey God, if you're there, my life has really sucked. So please, for once, let me have a sweet dream."</i>
+    <br>— Kyōko Sakura (Puella Magi Madoka Magica)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/denpakyoushi/images/1/18/Kagami_junichirou.png/revision/latest?cb=20130715132757" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Kyoko_Sakura.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
