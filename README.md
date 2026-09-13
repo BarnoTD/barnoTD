@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Hey God, if you're there, my life has really sucked. So please, for once, let me have a sweet dream."</i>
-    <br>— Kyōko Sakura (Puella Magi Madoka Magica)
+    <i>"Even the fastest eye can be fooled."</i>
+    <br>— Gotoh (Hunter x Hunter)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Kyoko_Sakura.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/hunterxhunter/images/8/8e/Gotoh_HxH_2011.PNG/revision/latest/scale-to-width-down/1200?cb=20230321201151" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
