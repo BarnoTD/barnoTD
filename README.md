@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Even the fastest eye can be fooled."</i>
-    <br>— Gotoh (Hunter x Hunter)
+    <i>"Think you're pretty smart, you old hag. (to Kaede)"</i>
+    <br>— Inuyasha (InuYasha)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/hunterxhunter/images/8/8e/Gotoh_HxH_2011.PNG/revision/latest/scale-to-width-down/1200?cb=20230321201151" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/inuyasha/images/e/e3/Inuyasha_Anime.png/revision/latest/scale-to-width-down/1200?cb=20231203035501" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
