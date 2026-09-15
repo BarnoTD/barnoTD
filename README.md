@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Think you're pretty smart, you old hag. (to Kaede)"</i>
-    <br>— Inuyasha (InuYasha)
+    <i>"No guy is worth your tears. When you find one that is, he won't make you cry."</i>
+    <br>— Mai Taniyama (Ghost Hunt)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/e/e3/Inuyasha_Anime.png/revision/latest/scale-to-width-down/1200?cb=20231203035501" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/ghost-hunt/images/0/07/7649cba6afeace1a6dedb0d0415099a61239367142_full.gif/revision/latest?cb=20100824200520" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
