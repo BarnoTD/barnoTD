@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"No guy is worth your tears. When you find one that is, he won't make you cry."</i>
-    <br>— Mai Taniyama (Ghost Hunt)
+    <i>"The chickens have earned their right to live, while the humans will go hungry."</i>
+    <br>— Watashi (Humanity Has Declined)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/ghost-hunt/images/0/07/7649cba6afeace1a6dedb0d0415099a61239367142_full.gif/revision/latest?cb=20100824200520" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
