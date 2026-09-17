@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The chickens have earned their right to live, while the humans will go hungry."</i>
-    <br>— Watashi (Humanity Has Declined)
+    <i>"Don’t you dare make my navigator cry!"</i>
+    <br>— Monkey D. Luffy (One Piece)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
