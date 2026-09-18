@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Don’t you dare make my navigator cry!"</i>
-    <br>— Monkey D. Luffy (One Piece)
+    <i>"Why didn't you take me with you!? Yoruichi?"</i>
+    <br>— Soi Fon (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20260611004637" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/2/2b/Ep56SuiFengDiscardsHaori.png/revision/latest?cb=20210412205441&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
