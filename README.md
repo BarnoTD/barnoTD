@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Why didn't you take me with you!? Yoruichi?"</i>
-    <br>— Soi Fon (Bleach)
+    <i>"Was I able to live inside someone’s heart? Was I able to live inside your heart? Do you think you’ll remember me at least a little? You’d better not hit "reset!" Don’t forget me, okay? That’s a promise, okay? I'm glad it’s you, after all. Will I reach you? I hope I can reach you."</i>
+    <br>— Kaori Miyazono (Your Lie in April)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bleach/images/2/2b/Ep56SuiFengDiscardsHaori.png/revision/latest?cb=20210412205441&path-prefix=en" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/c/c5/Kaori_Miyazono_Infobox.png/revision/latest?cb=20200330204003" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
