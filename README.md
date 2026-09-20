@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Was I able to live inside someone’s heart? Was I able to live inside your heart? Do you think you’ll remember me at least a little? You’d better not hit "reset!" Don’t forget me, okay? That’s a promise, okay? I'm glad it’s you, after all. Will I reach you? I hope I can reach you."</i>
-    <br>— Kaori Miyazono (Your Lie in April)
+    <i>"There are days when nothing goes right. There are days when you stumble and fall. There are days when you just want to cry. To cry a lot. To sleep a lot. Or even eat a lot. It's alright, as long as you pick yourself up again."</i>
+    <br>— Yuki Takeya (School-Live!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/c/c5/Kaori_Miyazono_Infobox.png/revision/latest?cb=20200330204003" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/gakkou-gurashi/images/9/98/Yuki-anime.png/revision/latest?cb=20150811001117" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
