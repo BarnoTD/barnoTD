@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There are days when nothing goes right. There are days when you stumble and fall. There are days when you just want to cry. To cry a lot. To sleep a lot. Or even eat a lot. It's alright, as long as you pick yourself up again."</i>
-    <br>— Yuki Takeya (School-Live!)
+    <i>"Protecting what we cherish most as men is the reason why we formed this pirate crew!"</i>
+    <br>— Usopp (One Piece)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/gakkou-gurashi/images/9/98/Yuki-anime.png/revision/latest?cb=20150811001117" height="250"style="border-radius:8px;">
+  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
