@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Protecting what we cherish most as men is the reason why we formed this pirate crew!"</i>
-    <br>— Usopp (One Piece)
+    <i>"If a technological feat is possible, man will do it. Almost as if it’s wired into the core of our being."</i>
+    <br>— Motoko Kusanagi (Ghost in the Shell)
   </blockquote>
-  <img src="https://64.media.tumblr.com/b7d8dc49e421a73b77efc6e31be68f7b/tumblr_mq5057LN0i1r9uvs7o1_500.gif" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Ghost_in_the_Shell_S.A.C._2nd_GIG_Motoko_Kusanagi.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
