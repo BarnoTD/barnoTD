@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If a technological feat is possible, man will do it. Almost as if it’s wired into the core of our being."</i>
-    <br>— Motoko Kusanagi (Ghost in the Shell)
+    <i>"Isn't using the net just like using knives for cooking or using paper to write things down? It has nothing to do with good or bad. It's like, it's there, so we accept and use it."</i>
+    <br>— Akane Tsunemori (Psycho-Pass)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3f/Ghost_in_the_Shell_S.A.C._2nd_GIG_Motoko_Kusanagi.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Akane_%28Psycho-Pass%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
