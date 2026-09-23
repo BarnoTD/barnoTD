@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Isn't using the net just like using knives for cooking or using paper to write things down? It has nothing to do with good or bad. It's like, it's there, so we accept and use it."</i>
-    <br>— Akane Tsunemori (Psycho-Pass)
+    <i>"There's something that cannot be expressed in words: human emotion. Emotions of the heart can't be just tucked away in a closet. There's a way to know the emotions: look into the eyes. The gentleman lied to me when I trusted him, but the moment I looked into his eyes the angel of destiny began to unravel the truth. Just look into their eyes, there is only one truth."</i>
+    <br>— Vash the Stampede (Trigun)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Akane_%28Psycho-Pass%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/trigun/images/d/d5/Vashthestampedeanime.PNG/revision/latest?cb=20220317143141" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
