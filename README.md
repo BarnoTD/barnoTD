@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The old me would never have known how blue the afternoon sky looks from the roof. My world is growing. What I once considered background noise is now comforting."</i>
-    <br>— Shizuku Mizutani (My Little Monster)
+    <i>"I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!"</i>
+    <br>— Black Star (Soul Eater)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/tonari-no-kaibutsukun/images/8/88/Shizukum.jpg/revision/latest?cb=20150926144049" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/souleater/images/5/5e/Black_Star_%28Post-Timeskip%29_Profile.png/revision/latest?cb=20150812165236" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
