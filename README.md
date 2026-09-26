@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!"</i>
-    <br>— Black Star (Soul Eater)
+    <i>"Whether you like it or not, time will leave you behind. In the same way that your beauty will wither away with time. In order to cling to the glorious past, people achieve peace by hurting others. People know it isn't the right thing to do, but they're unable to stop any of it. Wouldn't you agree that someone needs to teach them a lesson?"</i>
+    <br>— Ribbons Almark (Mobile Suit Gundam 00)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/souleater/images/5/5e/Black_Star_%28Post-Timeskip%29_Profile.png/revision/latest?cb=20150812165236" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/villains/images/b/b0/RibbonsAlmark.png/revision/latest?cb=20150828063140" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
