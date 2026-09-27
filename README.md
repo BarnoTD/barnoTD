@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Whether you like it or not, time will leave you behind. In the same way that your beauty will wither away with time. In order to cling to the glorious past, people achieve peace by hurting others. People know it isn't the right thing to do, but they're unable to stop any of it. Wouldn't you agree that someone needs to teach them a lesson?"</i>
-    <br>— Ribbons Almark (Mobile Suit Gundam 00)
+    <i>"Be not a fool, I have no such time to waste."</i>
+    <br>— Sesshomaru (InuYasha)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/villains/images/b/b0/RibbonsAlmark.png/revision/latest?cb=20150828063140" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/inuyasha/images/d/d3/Sesshomaru.png/revision/latest?cb=20190112040955" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
