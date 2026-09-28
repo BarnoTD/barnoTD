@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Be not a fool, I have no such time to waste."</i>
-    <br>— Sesshomaru (InuYasha)
+    <i>"Live well, Ichigo. Live well, age well, go bald well, and die after me. And... if you can, die smiling."</i>
+    <br>— Kurosaki Isshin (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/d/d3/Sesshomaru.png/revision/latest?cb=20190112040955" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/topstrongest/images/c/c9/Isshin4.jpg/revision/latest?cb=20210720140030" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
