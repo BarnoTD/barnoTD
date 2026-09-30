@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People can live without friends. Friends are not oxygen or water, they're more like luxury goods."</i>
-    <br>— Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl)
+    <i>"If this is real, then I want to change the future."</i>
+    <br>— Takemichi Hanagaki (Tokyo Revengers)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BZGRiZDY3YTUtM2I2OC00ODVmLWFhYTQtNDZmZDZkOTVlOWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/b/bc/Takemichi_anime_design.png/revision/latest?cb=20210925141906&path-prefix=protagonist" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
