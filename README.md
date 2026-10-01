@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If this is real, then I want to change the future."</i>
-    <br>— Takemichi Hanagaki (Tokyo Revengers)
+    <i>"Well, nothing in life is ever certain."</i>
+    <br>— Watashi (Humanity Has Declined)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/p__/images/b/bc/Takemichi_anime_design.png/revision/latest?cb=20210925141906&path-prefix=protagonist" height="250"style="border-radius:8px;">
+  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
