@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Well, nothing in life is ever certain."</i>
-    <br>— Watashi (Humanity Has Declined)
+    <i>"She's an idiot, but she's useful."</i>
+    <br>— Hideki Hinata (Angel Beats!)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BZmFmZjg4NGYtNTY5NC00YzZjLThhMDAtYTg4NmMyYWU2NzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/angelbeats/images/0/0f/Hinata_anime.png/revision/latest?cb=20190414063658" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
