@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"She's an idiot, but she's useful."</i>
-    <br>— Hideki Hinata (Angel Beats!)
+    <i>"There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection."</i>
+    <br>— Kurapika (Hunter x Hunter)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/0/0f/Hinata_anime.png/revision/latest?cb=20190414063658" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/characterprofile/images/d/d7/11a60a1fd8c74a675308549d7c57d8df.jpg/revision/latest?cb=20200716142716" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
