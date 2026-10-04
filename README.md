@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection."</i>
-    <br>— Kurapika (Hunter x Hunter)
+    <i>"Eternity is wasted upon the likes of you. Try as you might, immortality slips away. And you remain with only your shame."</i>
+    <br>— Alucard (Hellsing)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/characterprofile/images/d/d7/11a60a1fd8c74a675308549d7c57d8df.jpg/revision/latest?cb=20200716142716" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Hellsingalucard.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
