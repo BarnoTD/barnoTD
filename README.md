@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been "bad". But who do you think is the one who's being "bad" here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!"</i>
-    <br>— Sohma Hatsuharu (Fruits Basket)
+    <i>"To truly love someone, is to always put their feelings before your own... no matter what."</i>
+    <br>— Saki Hanajima (Fruits Basket)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/9/9c/Hatsuharu_Sohma-2019.png/revision/latest?cb=20190831200846" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/e/e3/Saki_Hanajima_Edition.jpg/revision/latest?cb=20190805190756" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
