@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"To truly love someone, is to always put their feelings before your own... no matter what."</i>
-    <br>— Saki Hanajima (Fruits Basket)
+    <i>"You can run away, but that'll just make it worse!"</i>
+    <br>— Kurisu Makise (Steins;Gate)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/e/e3/Saki_Hanajima_Edition.jpg/revision/latest?cb=20190805190756" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/steins-gate/images/4/4a/Kurisu_Full_profile.png/revision/latest/scale-to-width-down/480?cb=20141205203808" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
