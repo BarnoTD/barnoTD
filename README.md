@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"This blank space represents infinite potential. One day, it may become anything."</i>
-    <br>— No Game No Life (No Game, No Life)
+    <i>"I won't let what you fear come to pass. I swear it."</i>
+    <br>— Jinshi (The Apothecary Diaries)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/No_Game_No_Life_light_novel_vol_1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/19/Jinshi_%28Anime%29.png/revision/latest?cb=20231022152724" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
