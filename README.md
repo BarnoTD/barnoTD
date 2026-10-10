@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I won't let what you fear come to pass. I swear it."</i>
-    <br>— Jinshi (The Apothecary Diaries)
+    <i>"Dreams, ambition, love, hope; in this world, could the glories of a youthful heart be.. forbidden?"</i>
+    <br>— Berserk (Berserk)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/19/Jinshi_%28Anime%29.png/revision/latest?cb=20231022152724" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Berserk_vol01.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
