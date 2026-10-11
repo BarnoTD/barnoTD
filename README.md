@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Dreams, ambition, love, hope; in this world, could the glories of a youthful heart be.. forbidden?"</i>
-    <br>— Berserk (Berserk)
+    <i>"If we continue on the same path, we are likely to meet again."</i>
+    <br>— Handa Seishū (Barakamon)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Berserk_vol01.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Barakamonv1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
