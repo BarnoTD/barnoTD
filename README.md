@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If we continue on the same path, we are likely to meet again."</i>
-    <br>— Handa Seishū (Barakamon)
+    <i>"The world you want can’t be built after destruction. We build it everyday -step by step!"</i>
+    <br>— Lina Inverse (Slayers)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Barakamonv1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Lina_Inverse_GF.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
