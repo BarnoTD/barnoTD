@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"The world you want can’t be built after destruction. We build it everyday -step by step!"</i>
-    <br>— Lina Inverse (Slayers)
+    <i>"If you pick a fight with a god of death, I can't guarantee your soul's safety."</i>
+    <br>— Death the Kid (Soul Eater)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Lina_Inverse_GF.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/souleater/images/0/0e/Death_the_Kid_%28Pre-Timeskip%29_Profile.png/revision/latest?cb=20130626171741" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
