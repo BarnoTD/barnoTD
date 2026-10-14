@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If you pick a fight with a god of death, I can't guarantee your soul's safety."</i>
-    <br>— Death the Kid (Soul Eater)
+    <i>"Please don't worry, Mister, I only came here to obliterate you – not rob you."</i>
+    <br>— Excel (Excel Saga)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/souleater/images/0/0e/Death_the_Kid_%28Pre-Timeskip%29_Profile.png/revision/latest?cb=20130626171741" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Excel_Saga_1.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
