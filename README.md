@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Please don't worry, Mister, I only came here to obliterate you – not rob you."</i>
-    <br>— Excel (Excel Saga)
+    <i>"Of course. Humans can be kind because there are things they do not understand. If they knew everything, they would attempt nothing. If they attempted nothing, nothing new would happen. Humans seek answers to the things they do not know. That is how kindness, nostalgia, joy, and fun are born."</i>
+    <br>— Magata Shiki (The Perfect Insider)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Excel_Saga_1.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://animeuknews.net/app/uploads/2-1-1.png" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
