@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Of course. Humans can be kind because there are things they do not understand. If they knew everything, they would attempt nothing. If they attempted nothing, nothing new would happen. Humans seek answers to the things they do not know. That is how kindness, nostalgia, joy, and fun are born."</i>
-    <br>— Magata Shiki (The Perfect Insider)
+    <i>"We’ll deal with our problems in our own world."</i>
+    <br>— Draken (Tokyo Revengers)
   </blockquote>
-  <img src="https://animeuknews.net/app/uploads/2-1-1.png" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/4/46/Ken_anime_design.png/revision/latest?cb=20220130003344&path-prefix=protagonist" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
