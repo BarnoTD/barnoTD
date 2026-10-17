@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"We’ll deal with our problems in our own world."</i>
-    <br>— Draken (Tokyo Revengers)
+    <i>"It was my fault. It was my carelessness that led to Mitsukuni's cavity. I forgot to tell him to brush his teeth before napping... twice."</i>
+    <br>— Takashi Morinozuka (Ouran High School Host Club)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/p__/images/4/46/Ken_anime_design.png/revision/latest?cb=20220130003344&path-prefix=protagonist" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/ouran/images/a/a4/Watchinghoney.jpg/revision/latest/thumbnail/width/360/height/360?cb=20131203023609" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
