@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"It was my fault. It was my carelessness that led to Mitsukuni's cavity. I forgot to tell him to brush his teeth before napping... twice."</i>
-    <br>— Takashi Morinozuka (Ouran High School Host Club)
+    <i>"Birds with the wind in their wings are flying across the great blue sky right now. And all of you should be able to make it! To the highest limit, to the farthest limit!"</i>
+    <br>— Ittetsu Takeda (Haikyu!! 2nd Season)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/ouran/images/a/a4/Watchinghoney.jpg/revision/latest/thumbnail/width/360/height/360?cb=20131203023609" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/haikyuu/images/2/28/Takeda_s4-e2-1.png/revision/latest/scale-to-width-down/1200?cb=20210208164627" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
