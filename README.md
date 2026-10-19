@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Birds with the wind in their wings are flying across the great blue sky right now. And all of you should be able to make it! To the highest limit, to the farthest limit!"</i>
-    <br>— Ittetsu Takeda (Haikyu!! 2nd Season)
+    <i>"If there are things you learn with friends, there must also be things you learn without friends. They must be of equal worth, two sides of the same coin."</i>
+    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/haikyuu/images/2/28/Takeda_s4-e2-1.png/revision/latest/scale-to-width-down/1200?cb=20210208164627" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
