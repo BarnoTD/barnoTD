@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"If there are things you learn with friends, there must also be things you learn without friends. They must be of equal worth, two sides of the same coin."</i>
-    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+    <i>"Women tend to kill when it's not necessary. They kill for reasons of passion. For trivial reasons like love and hate."</i>
+    <br>— Lieutenant Colonel Yuuki (Joker Game)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/jokergame/images/7/7b/Yuuki_pc.png/revision/latest?cb=20160706110849" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
