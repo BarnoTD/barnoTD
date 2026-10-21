@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Women tend to kill when it's not necessary. They kill for reasons of passion. For trivial reasons like love and hate."</i>
-    <br>— Lieutenant Colonel Yuuki (Joker Game)
+    <i>"While you're alive, you need a reason for your existence. Being unable to find one is the same as being dead."</i>
+    <br>— Naruto Uzumaki (Naruto)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/jokergame/images/7/7b/Yuuki_pc.png/revision/latest?cb=20160706110849" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
