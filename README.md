@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"While you're alive, you need a reason for your existence. Being unable to find one is the same as being dead."</i>
-    <br>— Naruto Uzumaki (Naruto)
+    <i>"Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do."</i>
+    <br>— Hakuren Oak (07-Ghost)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/0__/images/f/fb/Hakuren01.png/revision/latest?cb=20110222095954&path-prefix=07ghost" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
