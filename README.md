@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do."</i>
-    <br>— Hakuren Oak (07-Ghost)
+    <i>"You're just too busy comparing yourself to others to see. Those comparisons aren't the only measure. Don't say it's all pointless. You've work hard and made yourself better. That's what you got in return. So don't put yourself down like this."</i>
+    <br>— Kaizaki Arata (ReLIFE)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/0__/images/f/fb/Hakuren01.png/revision/latest?cb=20110222095954&path-prefix=07ghost" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/relife/images/6/6e/Kaizaki_Anime.jpg/revision/latest?cb=20170321152643" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
