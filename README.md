@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You're just too busy comparing yourself to others to see. Those comparisons aren't the only measure. Don't say it's all pointless. You've work hard and made yourself better. That's what you got in return. So don't put yourself down like this."</i>
-    <br>— Kaizaki Arata (ReLIFE)
+    <i>"Things like heroes are unnecessary. Can't you save someone if you're standing right there, at that very spot? In front of your eyes are people that don't wish to cry that are crying! In front of your eyes are people that can only clench their teeth while struggling and can't even say the words "please save me"! Is that not enough?"</i>
+    <br>— Kamijou Touma (A Certain Magical Index)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/relife/images/6/6e/Kaizaki_Anime.jpg/revision/latest?cb=20170321152643" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Toma_Kamijo_Anime.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
