@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Things like heroes are unnecessary. Can't you save someone if you're standing right there, at that very spot? In front of your eyes are people that don't wish to cry that are crying! In front of your eyes are people that can only clench their teeth while struggling and can't even say the words "please save me"! Is that not enough?"</i>
-    <br>— Kamijou Touma (A Certain Magical Index)
+    <i>"No one is born into this world to be alone."</i>
+    <br>— Jaguar D. Saul (One Piece)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Toma_Kamijo_Anime.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
