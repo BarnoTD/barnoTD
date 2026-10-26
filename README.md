@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"No one is born into this world to be alone."</i>
-    <br>— Jaguar D. Saul (One Piece)
+    <i>"Love means money these days."</i>
+    <br>— Ciel Phantomhive (Black Butler)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
