@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Love means money these days."</i>
-    <br>— Ciel Phantomhive (Black Butler)
+    <i>"You failed to protect your planet, because of your own leniency. The only way to avoid this outcome is to send Frieza back to his flower garden."</i>
+    <br>— Whis (Dragon Ball Z)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/dragonball/images/b/bd/Whis_%28DBS_ep67%29.png/revision/latest/scale-to-width/360?cb=20170629161500" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
