@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Being able to work hard is the best talent of all."</i>
-    <br>— Hiroshi Kido (Barakamon)
+    <i>"I wouldn't learn German just to apologize, that would be too much work."</i>
+    <br>— Asaba Yuki (You and Me.)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/barakamon/images/b/bb/Ki.png/revision/latest?cb=20140601162341" height="250"style="border-radius:8px;">
+  <img src="https://i.namu.wiki/i/Ty1sFej3pDQxo8hsdwy-_Uri8swSCII7ZV5NlEd1eUk7aiiWWLegG6Ubw6TIBv_6utTORgFyQ9jHtNdP24ArXw.webp" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
