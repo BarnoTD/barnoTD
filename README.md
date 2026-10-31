@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I wouldn't learn German just to apologize, that would be too much work."</i>
-    <br>— Asaba Yuki (You and Me.)
+    <i>"I'm afraid when something is truly lost, one can never get it back again."</i>
+    <br>— Ciel Phantomhive (Black Butler)
   </blockquote>
-  <img src="https://i.namu.wiki/i/Ty1sFej3pDQxo8hsdwy-_Uri8swSCII7ZV5NlEd1eUk7aiiWWLegG6Ubw6TIBv_6utTORgFyQ9jHtNdP24ArXw.webp" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
