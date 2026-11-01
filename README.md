@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'm afraid when something is truly lost, one can never get it back again."</i>
-    <br>— Ciel Phantomhive (Black Butler)
+    <i>"People die when they are killed."</i>
+    <br>— Emiya Shirou (Fate/stay night)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kuroshitsuji/images/c/ca/411_Ciel_pauses.png/revision/latest?cb=20240622193714" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/ShirouEmiya2004.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
