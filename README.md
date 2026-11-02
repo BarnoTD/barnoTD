@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People die when they are killed."</i>
-    <br>— Emiya Shirou (Fate/stay night)
+    <i>"There isn’t just one truth. That truth only exists because a few people saw it. If you don’t believe what the books say, then you should go see the world for yourself."</i>
+    <br>— Frau (07-Ghost)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/24/ShirouEmiya2004.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/0__/images/9/95/FrauProfile.png/revision/latest?cb=20260524133114&path-prefix=07ghost" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
