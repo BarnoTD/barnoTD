@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"When I decided to follow mydreamI had already discarded my life."</i>
-    <br>— Roronoa Zoro (One Piece)
+    <i>"Please save everyone. Our crybaby hero!!"</i>
+    <br>— Akkun (Tokyo Revengers)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Roronoa_Zoro.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/tokyo-revengers/images/e/ec/Atsushi_Sendo_%28Anime%29.png/revision/latest?cb=20220411065512" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
