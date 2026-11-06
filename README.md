@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"But we're alive, aren't we? We don't have any magic power, but we're alive! We have the strength to overcome the weakness and the fear! That's what it means to be alive!"</i>
-    <br>— Erza Scarlet (Fairy Tail)
+    <i>"GOOD MOOOORNING ICHIGOOOOOO!!!!"</i>
+    <br>— Kurosaki Isshin (Bleach)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fairytail/images/c/c3/Erza%27s_picture.png/revision/latest?cb=20190929085837" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bleach/images/6/67/Ep141IsshinProfile.png/revision/latest?cb=20231102010132&path-prefix=en" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
