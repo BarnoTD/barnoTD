@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Family is other people. No matter how close your blood relationship is... no matter what your relationship may be... anyone other than you is not you! And so you have to think it over and decide for yourself! Take away other people's wants and needs, and decide if this is something that is necessary for you! It may cause hardships to others, but you want it. That's your free will right there! But you ignore that and decide based on someone else's advice, because decency demands it, because people say it's awful, you will fail and quit. No one could succeed that way! You don't understand what you're trying to do. With that as your background, how do you expect to make a promise to yourself? But the opposite way... there are risks there too, of course. If you decide to take the action that best suits you, there will be people who won't understand. People will be saddened by your actions."</i>
-    <br>— Yuuko Ichihara (xxxHOLiC)
+    <i>"Oh! My little scythey boy!"</i>
+    <br>— Blair (Soul Eater)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/28/YukoIchihara.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/p__/images/3/37/Blair.png/revision/latest?cb=20200402083850&path-prefix=protagonist" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
