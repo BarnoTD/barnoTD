@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I can’t shake the feeling that I’ve met you before, but I can’t remember where."</i>
-    <br>— Masamune Takano (Sekai Ichi Hatsukoi - World's Greatest First Love)
+    <i>"Don't go believing everyone with glasses is smart!"</i>
+    <br>— Hyuuga Junpei (Kuroko's Basketball - duplicate)
   </blockquote>
-  <img src="https://m.media-amazon.com/images/M/MV5BN2QzNDEyOTUtNzBiOC00YmFhLThkN2ItYzAyNTcxNDFkMDNjXkEyXkFqcGc@._V1_.jpg" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/kurokonobasuke/images/d/d6/Junpei_Hyuga_anime.png/revision/latest?cb=20121106213428" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
