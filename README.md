@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Don't go believing everyone with glasses is smart!"</i>
-    <br>— Hyuuga Junpei (Kuroko's Basketball - duplicate)
+    <i>"Hughes, just a bit of advice. The soldiers who never shut up about their girls back home... They don't make it."</i>
+    <br>— Roy Mustang (Fullmetal Alchemist)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/kurokonobasuke/images/d/d6/Junpei_Hyuga_anime.png/revision/latest?cb=20121106213428" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
