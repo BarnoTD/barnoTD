@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Hughes, just a bit of advice. The soldiers who never shut up about their girls back home... They don't make it."</i>
-    <br>— Roy Mustang (Fullmetal Alchemist)
+    <i>"To be sure, love can kill, but always remember, hate can never save. Never!"</i>
+    <br>— Odette Bouquet (Noir)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mustangteam.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/noiranime/images/d/d7/Odette.gif/revision/latest?cb=20190805001911" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
