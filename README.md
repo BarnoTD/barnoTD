@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"To be sure, love can kill, but always remember, hate can never save. Never!"</i>
-    <br>— Odette Bouquet (Noir)
+    <i>"If that treetop is school, and the ground is this place here... we all found our strength down on the ground. While looking up... and getting looked down on... we learned plenty about how scary heights were before we started climbing. That's why we can go our own way now. Still... Somewhere along the way we forgot our fear of heights, so we do still fall to the ground every now and then. So learn here. You can go on to school once you have a game plan. That's my secret lesson, from me to you."</i>
+    <br>— Nagisa Shiota (Assassination Classroom 2nd Season)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/noiranime/images/d/d7/Odette.gif/revision/latest?cb=20190805001911" height="250"style="border-radius:8px;">
+  <img src="https://thumb.wikimedia.org/wikipedia/en/thumb/0/07/Assassination_Classroom_2_DVD_1_Cover.jpg/250px-Assassination_Classroom_2_DVD_1_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
