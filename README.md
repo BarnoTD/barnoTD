@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"So stupid! Stupid, Stupid! You're so stupid! You want to live your life scared of being ratted out?! Screw that! I'd rather let everyone know everything!! (to Yuki, Tohru, Kyo, and Momiji while destroying a classroom)"</i>
-    <br>— Sohma Hatsuharu (Fruits Basket)
+    <i>"My name is Duck. Yes, like the bird. Take it up with my parents. They never loved me!"</i>
+    <br>— Ahiru Arima (Princess Tutu)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/fruitsbasket/images/9/9c/Hatsuharu_Sohma-2019.png/revision/latest?cb=20190831200846" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/princesstutu/images/c/c6/DuckFull.png/revision/latest?cb=20241208024707" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
