@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"My name is Duck. Yes, like the bird. Take it up with my parents. They never loved me!"</i>
-    <br>— Ahiru Arima (Princess Tutu)
+    <i>"You're not as slow as you look, monk."</i>
+    <br>— Naraku (InuYasha)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/princesstutu/images/c/c6/DuckFull.png/revision/latest?cb=20241208024707" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/inuyasha/images/8/8b/Naraku_Vector.png/revision/latest?cb=20210712075155" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
