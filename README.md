@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"You're not as slow as you look, monk."</i>
-    <br>— Naraku (InuYasha)
+    <i>"*to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests."</i>
+    <br>— Vincent Nightray (Pandora Hearts)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/inuyasha/images/8/8b/Naraku_Vector.png/revision/latest?cb=20210712075155" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/pandorahearts/images/b/bd/Vince_image.png/revision/latest?cb=20220530030536" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
