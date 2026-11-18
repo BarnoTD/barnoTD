@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"*to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests."</i>
-    <br>— Vincent Nightray (Pandora Hearts)
+    <i>"Nothing disappears from the heart."</i>
+    <br>— Tsukasa Amakawa (Shugo Chara)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/pandorahearts/images/b/bd/Vince_image.png/revision/latest?cb=20220530030536" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/shugochara/images/3/32/Tsukasa_Amakawa.JPG/revision/latest?cb=20081104113909" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
