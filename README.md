@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Nothing disappears from the heart."</i>
-    <br>— Tsukasa Amakawa (Shugo Chara)
+    <i>"People... need to be needed by someone in order to live. If a person isn't needed, they're worthless!"</i>
+    <br>— Moeka Kiryū (Steins;Gate)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/shugochara/images/3/32/Tsukasa_Amakawa.JPG/revision/latest?cb=20081104113909" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/steins-gate/images/c/c0/Moeka_Kiryu_Portrait.png/revision/latest?cb=20180718213008" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
