@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"People... need to be needed by someone in order to live. If a person isn't needed, they're worthless!"</i>
-    <br>— Moeka Kiryū (Steins;Gate)
+    <i>"Different conclusions are reached when one fact is viewed from two separate points of view. When that happens, there is no immediate way to judge which point of view is the correct one. There is no way to conclude one's own conclusion is the correct one. But for that exact reason, it is also premature to decide one's own conclusion is wrong."</i>
+    <br>— Senjougahara Hitagi (Bakemonogatari)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/steins-gate/images/c/c0/Moeka_Kiryu_Portrait.png/revision/latest?cb=20180718213008" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/bakemonogatari1645/images/0/0a/Bake_senjo.jpg/revision/latest/scale-to-width-down/1200?cb=20200716225404" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
