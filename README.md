@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Different conclusions are reached when one fact is viewed from two separate points of view. When that happens, there is no immediate way to judge which point of view is the correct one. There is no way to conclude one's own conclusion is the correct one. But for that exact reason, it is also premature to decide one's own conclusion is wrong."</i>
-    <br>— Senjougahara Hitagi (Bakemonogatari)
+    <i>"Marriage, the institution where one's existence goes to die. All married people prattle on about their so-called marital bliss about how they love saying "I'm home!" to their spouses, or how seeing their sleeping kids motivates them for tomorrow. But think about it: you can say "I'm home!" if you live your parents, you can even buy some mouthwash and say "I'm home!" to the hippos on the label. And if they're talking about seeing their sleeping kids, that just means they're working hellish overtime hours. How is that in any way blissful?"</i>
+    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/bakemonogatari1645/images/0/0a/Bake_senjo.jpg/revision/latest/scale-to-width-down/1200?cb=20200716225404" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
