@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"No one is born into this world to be alone."</i>
-    <br>— Jaguar D. Saul (One Piece)
+    <i>"Fake people have an image to maintain. Real people just don't care."</i>
+    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/onepiece/images/c/cc/Jaguar_D._Saul_Anime_Infobox.png/revision/latest?cb=20260802161348" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
