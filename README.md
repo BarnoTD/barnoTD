@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Fake people have an image to maintain. Real people just don't care."</i>
-    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)
+    <i>"We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for?"</i>
+    <br>— Kenshin Himura (Rurouni Kenshin)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
+  <img src="https://japanesegallery.com/pub/media/Anime_Manga/Blog_pages/Himura_Kenshin.jpeg" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
