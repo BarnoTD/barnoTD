@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for?"</i>
-    <br>— Kenshin Himura (Rurouni Kenshin)
+    <i>"Whatever happens, happens."</i>
+    <br>— Spike Spiegel (Cowboy Bebop)
   </blockquote>
-  <img src="https://japanesegallery.com/pub/media/Anime_Manga/Blog_pages/Himura_Kenshin.jpeg" height="250"style="border-radius:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Spike_Spiegel_as_drawn_by_the_creators.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
