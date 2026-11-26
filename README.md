@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"Whatever happens, happens."</i>
-    <br>— Spike Spiegel (Cowboy Bebop)
+    <i>"I'll be back."</i>
+    <br>— TK (Angel Beats!)
   </blockquote>
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Spike_Spiegel_as_drawn_by_the_creators.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/angelbeats/images/7/75/TK_anime.png/revision/latest?cb=20190414191442" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
