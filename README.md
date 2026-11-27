@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I'll be back."</i>
-    <br>— TK (Angel Beats!)
+    <i>"I wonder when I got into the habit of writing messages to nobody."</i>
+    <br>— Takaki Tohno (5 Centimeters per Second)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/angelbeats/images/7/75/TK_anime.png/revision/latest?cb=20190414191442" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/makotoshinkai/images/3/33/Adult_T%C5%8Dno.jpg/revision/latest?cb=20180818173839" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
