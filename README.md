@@ -45,9 +45,9 @@
 <!-- ANIME_QUOTE_START -->
 <div align="center">
   <blockquote style="font-style: italic;">
-    <i>"I wonder when I got into the habit of writing messages to nobody."</i>
-    <br>— Takaki Tohno (5 Centimeters per Second)
+    <i>"When people reach the halfway mark of a long ordeal, how do they feel? Does being only halfway there make them despair? Or do they feel relief at making it halfway there? Most people have to feel one way or the other, and both emotions create an opening in their hearts. That's why I pushed myself this far."</i>
+    <br>— Hachiman Hikigaya (My Teen Romantic Comedy SNAFU TOO!)
   </blockquote>
-  <img src="https://static.wikia.nocookie.net/makotoshinkai/images/3/33/Adult_T%C5%8Dno.jpg/revision/latest?cb=20180818173839" height="250"style="border-radius:8px;">
+  <img src="https://static.wikia.nocookie.net/yahari/images/2/21/Portal-hachiman.png/revision/latest?cb=20260103043557" height="250"style="border-radius:8px;">
 </div>
 <!-- ANIME_QUOTE_END -->
